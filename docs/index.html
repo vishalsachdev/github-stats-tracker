@@ -18,17 +18,25 @@
       padding: 2rem; max-width: 1200px; margin: 0 auto;
     }
     h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
-    .subtitle { color: var(--text-dim); margin-bottom: 2rem; font-size: 0.9rem; }
+    .subtitle { color: var(--text-dim); margin-bottom: 1.5rem; font-size: 0.9rem; }
+    .methodology {
+      background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow);
+      border-radius: 6px; padding: 1rem 1.25rem; margin-bottom: 2rem; font-size: 0.85rem;
+      color: var(--text-dim); line-height: 1.6;
+    }
+    .methodology strong { color: var(--text); }
     .cards {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 1rem; margin-bottom: 2rem;
     }
     .card {
       background: var(--surface); border: 1px solid var(--border);
       border-radius: 8px; padding: 1.25rem;
     }
-    .card .label { color: var(--text-dim); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+    .card.primary { border-color: var(--accent); }
+    .card .label { color: var(--text-dim); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
     .card .value { font-size: 1.75rem; font-weight: 600; margin-top: 0.25rem; }
+    .card.primary .value { color: var(--accent); }
     .chart-container {
       background: var(--surface); border: 1px solid var(--border);
       border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem;
@@ -43,40 +51,99 @@
     td a:hover { text-decoration: underline; }
     .num { text-align: right; font-variant-numeric: tabular-nums; }
     .repo-row:hover { background: rgba(88, 166, 255, 0.05); }
+    .repo-desc { color: var(--text-dim); font-size: 0.75rem; margin-top: 0.15rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 350px; }
+    .star-badge { color: var(--yellow); font-weight: 600; }
+    .star-zero { color: var(--text-dim); }
+    .three-col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; }
     .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    @media (max-width: 900px) { .three-col { grid-template-columns: 1fr; } }
     @media (max-width: 768px) { .two-col { grid-template-columns: 1fr; } }
     footer { color: var(--text-dim); font-size: 0.8rem; margin-top: 3rem; text-align: center; }
   </style>
 </head>
 <body>
   <h1>GitHub Traffic Dashboard</h1>
-  <p class="subtitle">vishalsachdev &middot; 68 repos tracked &middot; Last collection: 2026-02-16</p>
+  <p class="subtitle">vishalsachdev &middot; 69 repos tracked &middot; Last collection: 2026-02-16</p>
+
+  <div class="methodology">
+    <strong>Methodology note:</strong> This dashboard intentionally excludes clone counts and total (non-unique) views.
+    GitHub traffic data is heavily inflated by automated bots that monitor the Events API and clone every public
+    repo looking for leaked secrets. For example, a repo with 2 page views can show 3,700+ clones in 14 days.
+    <strong>Unique visitors</strong> and <strong>stars</strong> are the most reliable proxies for genuine human interest.
+  </div>
 
   <div class="cards">
-    <div class="card">
-      <div class="label">Total Views</div>
-      <div class="value">842</div>
-    </div>
-    <div class="card">
+    <div class="card primary">
       <div class="label">Unique Visitors</div>
       <div class="value">406</div>
     </div>
     <div class="card">
-      <div class="label">Total Clones</div>
-      <div class="value">5,600</div>
+      <div class="label">Total Stars</div>
+      <div class="value">78</div>
     </div>
     <div class="card">
-      <div class="label">Repos Tracked</div>
-      <div class="value">68</div>
+      <div class="label">Total Forks</div>
+      <div class="value">30</div>
+    </div>
+    <div class="card">
+      <div class="label">Repos with Visitors</div>
+      <div class="value">31</div>
     </div>
   </div>
 
   <div class="chart-container">
-    <h2>Daily Views — Top 10 Repos</h2>
+    <h2>Daily Unique Visitors — Top 10 Repos</h2>
     <canvas id="viewsChart" height="100"></canvas>
   </div>
 
   <div class="two-col">
+    <div class="section">
+      <h2>Top Repos by Stars</h2>
+      <table>
+        <thead><tr><th>Repository</th><th class="num">Stars</th><th class="num">Forks</th></tr></thead>
+        <tbody><tr>
+          <td><a href="https://github.com/vishalsachdev/canvas-mcp" target="_blank">canvas-mcp</a></td>
+          <td class="num">59</td>
+          <td class="num">25</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/claude-code-skills" target="_blank">claude-code-skills</a></td>
+          <td class="num">3</td>
+          <td class="num">1</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/learning-design-pillars" target="_blank">learning-design-pillars</a></td>
+          <td class="num">3</td>
+          <td class="num">0</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/eventbrite-mcp" target="_blank">eventbrite-mcp</a></td>
+          <td class="num">2</td>
+          <td class="num">0</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/AgentLab" target="_blank">AgentLab</a></td>
+          <td class="num">2</td>
+          <td class="num">0</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/claude-skills" target="_blank">claude-skills</a></td>
+          <td class="num">1</td>
+          <td class="num">1</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/database-management" target="_blank">database-management</a></td>
+          <td class="num">1</td>
+          <td class="num">1</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/illinihunt" target="_blank">illinihunt</a></td>
+          <td class="num">1</td>
+          <td class="num">1</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/gdpval" target="_blank">gdpval</a></td>
+          <td class="num">1</td>
+          <td class="num">0</td>
+        </tr><tr>
+          <td><a href="https://github.com/vishalsachdev/openprose-workspace" target="_blank">openprose-workspace</a></td>
+          <td class="num">1</td>
+          <td class="num">0</td>
+        </tr></tbody>
+      </table>
+    </div>
     <div class="section">
       <h2>Top Referrers</h2>
       <table>
@@ -94,582 +161,717 @@
 </tbody>
       </table>
     </div>
-    <div class="section">
-      <h2>Collection Info</h2>
-      <table>
-        <tbody>
-          <tr><td>Last run</td><td>2026-02-16</td></tr>
-          <tr><td>Schedule</td><td>Every Monday 6am UTC</td></tr>
-          <tr><td>Data retention</td><td>Forever (GitHub keeps 14 days)</td></tr>
-          <tr><td>Dashboard built</td><td>2026-02-16</td></tr>
-        </tbody>
-      </table>
-    </div>
   </div>
 
   <div class="section">
-    <h2>All Repos</h2>
+    <h2>All Repos — Sorted by Unique Visitors</h2>
     <table>
       <thead>
         <tr>
           <th>Repository</th>
-          <th class="num">Views</th>
-          <th class="num">Unique</th>
-          <th class="num">Clones</th>
-          <th class="num">Unique</th>
-          <th class="num">Days</th>
+          <th class="num">Unique Visitors</th>
+          <th class="num">Stars</th>
+          <th class="num">Forks</th>
+          <th class="num">Days Tracked</th>
         </tr>
       </thead>
       <tbody>
-        <tr class="repo-row" data-repo="canvas-mcp">
-          <td><a href="https://github.com/vishalsachdev/canvas-mcp" target="_blank">canvas-mcp</a></td>
-          <td class="num">527</td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/canvas-mcp" target="_blank">canvas-mcp</a>
+            <div class="repo-desc">A Model Context Protocol server to run locally and connect to a Canvas LMS </div>
+          </td>
           <td class="num">274</td>
-          <td class="num">674</td>
-          <td class="num">232</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="claude-code-skills">
-          <td><a href="https://github.com/vishalsachdev/claude-code-skills" target="_blank">claude-code-skills</a></td>
-          <td class="num">61</td>
-          <td class="num">16</td>
-          <td class="num">76</td>
-          <td class="num">52</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="grit-cart">
-          <td><a href="https://github.com/vishalsachdev/grit-cart" target="_blank">grit-cart</a></td>
-          <td class="num">37</td>
-          <td class="num">11</td>
-          <td class="num">69</td>
-          <td class="num">46</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="openclaw-dashboard">
-          <td><a href="https://github.com/vishalsachdev/openclaw-dashboard" target="_blank">openclaw-dashboard</a></td>
-          <td class="num">34</td>
-          <td class="num">23</td>
-          <td class="num">27</td>
+          <td class="num"><span class="star-badge">59</span></td>
           <td class="num">25</td>
           <td class="num">14</td>
         </tr>
-        <tr class="repo-row" data-repo="database-management">
-          <td><a href="https://github.com/vishalsachdev/database-management" target="_blank">database-management</a></td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/openclaw-dashboard" target="_blank">openclaw-dashboard</a>
+            <div class="repo-desc">Streamlit dashboard for tracking the OpenClaw AI agent ecosystem on Base blockch</div>
+          </td>
           <td class="num">23</td>
-          <td class="num">4</td>
-          <td class="num">101</td>
-          <td class="num">6</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">1</td>
           <td class="num">14</td>
         </tr>
-        <tr class="repo-row" data-repo="claude-skills">
-          <td><a href="https://github.com/vishalsachdev/claude-skills" target="_blank">claude-skills</a></td>
-          <td class="num">22</td>
-          <td class="num">8</td>
-          <td class="num">52</td>
-          <td class="num">38</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="legal-ai">
-          <td><a href="https://github.com/vishalsachdev/legal-ai" target="_blank">legal-ai</a></td>
-          <td class="num">18</td>
-          <td class="num">7</td>
-          <td class="num">44</td>
-          <td class="num">33</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="fda">
-          <td><a href="https://github.com/vishalsachdev/fda" target="_blank">fda</a></td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/claude-code-skills" target="_blank">claude-code-skills</a>
+            <div class="repo-desc">Professional skills for Claude Code following the Agent Skills open specificatio</div>
+          </td>
           <td class="num">16</td>
-          <td class="num">3</td>
-          <td class="num">5</td>
-          <td class="num">5</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="illinihunt">
-          <td><a href="https://github.com/vishalsachdev/illinihunt" target="_blank">illinihunt</a></td>
-          <td class="num">16</td>
-          <td class="num">4</td>
-          <td class="num">49</td>
-          <td class="num">21</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="makerlab">
-          <td><a href="https://github.com/vishalsachdev/makerlab" target="_blank">makerlab</a></td>
-          <td class="num">15</td>
-          <td class="num">5</td>
-          <td class="num">56</td>
-          <td class="num">35</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="claude-interviewer-clone">
-          <td><a href="https://github.com/vishalsachdev/claude-interviewer-clone" target="_blank">claude-interviewer-clone</a></td>
-          <td class="num">9</td>
-          <td class="num">8</td>
-          <td class="num">21</td>
-          <td class="num">16</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="helloworld">
-          <td><a href="https://github.com/vishalsachdev/helloworld" target="_blank">helloworld</a></td>
-          <td class="num">9</td>
-          <td class="num">5</td>
-          <td class="num">19</td>
-          <td class="num">15</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="eventbrite-mcp">
-          <td><a href="https://github.com/vishalsachdev/eventbrite-mcp" target="_blank">eventbrite-mcp</a></td>
-          <td class="num">8</td>
-          <td class="num">5</td>
-          <td class="num">24</td>
-          <td class="num">14</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="claude-code-for-business">
-          <td><a href="https://github.com/vishalsachdev/claude-code-for-business" target="_blank">claude-code-for-business</a></td>
-          <td class="num">7</td>
-          <td class="num">5</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="gdpval">
-          <td><a href="https://github.com/vishalsachdev/gdpval" target="_blank">gdpval</a></td>
-          <td class="num">7</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-          <td class="num">13</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="nano-hack">
-          <td><a href="https://github.com/vishalsachdev/nano-hack" target="_blank">nano-hack</a></td>
-          <td class="num">7</td>
-          <td class="num">5</td>
-          <td class="num">4</td>
-          <td class="num">4</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="CanvasGroupDetailsExtractor">
-          <td><a href="https://github.com/vishalsachdev/CanvasGroupDetailsExtractor" target="_blank">CanvasGroupDetailsExtractor</a></td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="ai-taskforce">
-          <td><a href="https://github.com/vishalsachdev/ai-taskforce" target="_blank">ai-taskforce</a></td>
-          <td class="num">3</td>
-          <td class="num">1</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="canvas-discussion-analysis">
-          <td><a href="https://github.com/vishalsachdev/canvas-discussion-analysis" target="_blank">canvas-discussion-analysis</a></td>
-          <td class="num">3</td>
-          <td class="num">1</td>
-          <td class="num">5</td>
-          <td class="num">5</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="learning-design-pillars">
-          <td><a href="https://github.com/vishalsachdev/learning-design-pillars" target="_blank">learning-design-pillars</a></td>
-          <td class="num">3</td>
-          <td class="num">2</td>
-          <td class="num">26</td>
-          <td class="num">12</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="build-to-learn">
-          <td><a href="https://github.com/vishalsachdev/build-to-learn" target="_blank">build-to-learn</a></td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="llms-text">
-          <td><a href="https://github.com/vishalsachdev/llms-text" target="_blank">llms-text</a></td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">1</td>
+          <td class="num"><span class="star-badge">3</span></td>
           <td class="num">1</td>
           <td class="num">14</td>
         </tr>
-        <tr class="repo-row" data-repo="vibefunded">
-          <td><a href="https://github.com/vishalsachdev/vibefunded" target="_blank">vibefunded</a></td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">3,785</td>
-          <td class="num">1,182</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="AgentLab">
-          <td><a href="https://github.com/vishalsachdev/AgentLab" target="_blank">AgentLab</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">4</td>
-          <td class="num">4</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="LearnByEmail">
-          <td><a href="https://github.com/vishalsachdev/LearnByEmail" target="_blank">LearnByEmail</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="canvas-lms-mcp-extension">
-          <td><a href="https://github.com/vishalsachdev/canvas-lms-mcp-extension" target="_blank">canvas-lms-mcp-extension</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="entrebot">
-          <td><a href="https://github.com/vishalsachdev/entrebot" target="_blank">entrebot</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">428</td>
-          <td class="num">108</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="icis2025-context-engineering">
-          <td><a href="https://github.com/vishalsachdev/icis2025-context-engineering" target="_blank">icis2025-context-engineering</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="openprose-workspace">
-          <td><a href="https://github.com/vishalsachdev/openprose-workspace" target="_blank">openprose-workspace</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="superpower">
-          <td><a href="https://github.com/vishalsachdev/superpower" target="_blank">superpower</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="tldraw">
-          <td><a href="https://github.com/vishalsachdev/tldraw" target="_blank">tldraw</a></td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">7</td>
-          <td class="num">7</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="2025-in-review">
-          <td><a href="https://github.com/vishalsachdev/2025-in-review" target="_blank">2025-in-review</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="GitHireEvaluator">
-          <td><a href="https://github.com/vishalsachdev/GitHireEvaluator" target="_blank">GitHireEvaluator</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="Introduction-to-business-analytics-with-python">
-          <td><a href="https://github.com/vishalsachdev/Introduction-to-business-analytics-with-python" target="_blank">Introduction-to-business-analytics-with-python</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="SQL-Set-theory-visualizer">
-          <td><a href="https://github.com/vishalsachdev/SQL-Set-theory-visualizer" target="_blank">SQL-Set-theory-visualizer</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="ThreadToParagraph">
-          <td><a href="https://github.com/vishalsachdev/ThreadToParagraph" target="_blank">ThreadToParagraph</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="UIC_Clustering_Code_2019">
-          <td><a href="https://github.com/vishalsachdev/UIC_Clustering_Code_2019" target="_blank">UIC_Clustering_Code_2019</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="a2i-curriculum">
-          <td><a href="https://github.com/vishalsachdev/a2i-curriculum" target="_blank">a2i-curriculum</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="aei">
-          <td><a href="https://github.com/vishalsachdev/aei" target="_blank">aei</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="ai-impact">
-          <td><a href="https://github.com/vishalsachdev/ai-impact" target="_blank">ai-impact</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">4</td>
-          <td class="num">4</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="ai-problem-framing">
-          <td><a href="https://github.com/vishalsachdev/ai-problem-framing" target="_blank">ai-problem-framing</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">4</td>
-          <td class="num">4</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="api-demo">
-          <td><a href="https://github.com/vishalsachdev/api-demo" target="_blank">api-demo</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="badm211">
-          <td><a href="https://github.com/vishalsachdev/badm211" target="_blank">badm211</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="badm350-ai-learning-tools">
-          <td><a href="https://github.com/vishalsachdev/badm350-ai-learning-tools" target="_blank">badm350-ai-learning-tools</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="badm554-survey-bot">
-          <td><a href="https://github.com/vishalsachdev/badm554-survey-bot" target="_blank">badm554-survey-bot</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">6</td>
-          <td class="num">6</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="chatwithgpt">
-          <td><a href="https://github.com/vishalsachdev/chatwithgpt" target="_blank">chatwithgpt</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="claude-soul-viz">
-          <td><a href="https://github.com/vishalsachdev/claude-soul-viz" target="_blank">claude-soul-viz</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="context-graphs">
-          <td><a href="https://github.com/vishalsachdev/context-graphs" target="_blank">context-graphs</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="datacarpentry-test">
-          <td><a href="https://github.com/vishalsachdev/datacarpentry-test" target="_blank">datacarpentry-test</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="genai-literacy">
-          <td><a href="https://github.com/vishalsachdev/genai-literacy" target="_blank">genai-literacy</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">5</td>
-          <td class="num">5</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="gies-ai-curriculum">
-          <td><a href="https://github.com/vishalsachdev/gies-ai-curriculum" target="_blank">gies-ai-curriculum</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="gitdemo">
-          <td><a href="https://github.com/vishalsachdev/gitdemo" target="_blank">gitdemo</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="github-pages-with-jekyll">
-          <td><a href="https://github.com/vishalsachdev/github-pages-with-jekyll" target="_blank">github-pages-with-jekyll</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="kg-learning">
-          <td><a href="https://github.com/vishalsachdev/kg-learning" target="_blank">kg-learning</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="math-genart">
-          <td><a href="https://github.com/vishalsachdev/math-genart" target="_blank">math-genart</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="msba2025-cohort">
-          <td><a href="https://github.com/vishalsachdev/msba2025-cohort" target="_blank">msba2025-cohort</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="musictheoryflow">
-          <td><a href="https://github.com/vishalsachdev/musictheoryflow" target="_blank">musictheoryflow</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="nber">
-          <td><a href="https://github.com/vishalsachdev/nber" target="_blank">nber</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">1</td>
-          <td class="num">1</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="portfolio">
-          <td><a href="https://github.com/vishalsachdev/portfolio" target="_blank">portfolio</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="practicum">
-          <td><a href="https://github.com/vishalsachdev/practicum" target="_blank">practicum</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">5</td>
-          <td class="num">5</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="python4class">
-          <td><a href="https://github.com/vishalsachdev/python4class" target="_blank">python4class</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">3</td>
-          <td class="num">3</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="recipe-finder">
-          <td><a href="https://github.com/vishalsachdev/recipe-finder" target="_blank">recipe-finder</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="remotion-star">
-          <td><a href="https://github.com/vishalsachdev/remotion-star" target="_blank">remotion-star</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">4</td>
-          <td class="num">4</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="roo-cline-comparison">
-          <td><a href="https://github.com/vishalsachdev/roo-cline-comparison" target="_blank">roo-cline-comparison</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="skills-sh">
-          <td><a href="https://github.com/vishalsachdev/skills-sh" target="_blank">skills-sh</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/grit-cart" target="_blank">grit-cart</a>
+            <div class="repo-desc">Grit-CART Framework: Multi-agent critical evaluation of an AI entrepreneurship/i</div>
+          </td>
           <td class="num">11</td>
-          <td class="num">9</td>
-          <td class="num">14</td>
-        </tr>
-        <tr class="repo-row" data-repo="tx-gemma">
-          <td><a href="https://github.com/vishalsachdev/tx-gemma" target="_blank">tx-gemma</a></td>
-          <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
           <td class="num">0</td>
           <td class="num">14</td>
         </tr>
-        <tr class="repo-row" data-repo="uiuc-course">
-          <td><a href="https://github.com/vishalsachdev/uiuc-course" target="_blank">uiuc-course</a></td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/claude-interviewer-clone" target="_blank">claude-interviewer-clone</a>
+            
+          </td>
+          <td class="num">8</td>
+          <td class="num"><span class="star-zero">0</span></td>
           <td class="num">0</td>
-          <td class="num">0</td>
-          <td class="num">2</td>
-          <td class="num">2</td>
           <td class="num">14</td>
         </tr>
-        <tr class="repo-row" data-repo="waymo-investment-calculator">
-          <td><a href="https://github.com/vishalsachdev/waymo-investment-calculator" target="_blank">waymo-investment-calculator</a></td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/claude-skills" target="_blank">claude-skills</a>
+            
+          </td>
+          <td class="num">8</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">1</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/legal-ai" target="_blank">legal-ai</a>
+            <div class="repo-desc">Guest lecture materials: Teaching law students to build AI skills for legal prac</div>
+          </td>
+          <td class="num">7</td>
+          <td class="num"><span class="star-zero">0</span></td>
           <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/claude-code-for-business" target="_blank">claude-code-for-business</a>
+            <div class="repo-desc">Build functional business tools using Claude Code — no coding experience require</div>
+          </td>
+          <td class="num">5</td>
+          <td class="num"><span class="star-zero">0</span></td>
           <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/eventbrite-mcp" target="_blank">eventbrite-mcp</a>
+            
+          </td>
+          <td class="num">5</td>
+          <td class="num"><span class="star-badge">2</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/helloworld" target="_blank">helloworld</a>
+            <div class="repo-desc">demo</div>
+          </td>
+          <td class="num">5</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/makerlab" target="_blank">makerlab</a>
+            <div class="repo-desc">Makerlab website </div>
+          </td>
+          <td class="num">5</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/nano-hack" target="_blank">nano-hack</a>
+            <div class="repo-desc"> A simple tool to explore a large number of kaggle hackathon submissions </div>
+          </td>
+          <td class="num">5</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/database-management" target="_blank">database-management</a>
+            <div class="repo-desc">Database Management - An intelligent textbook</div>
+          </td>
+          <td class="num">4</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">1</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/illinihunt" target="_blank">illinihunt</a>
+            <div class="repo-desc">Showcase innovation at uiuc and create a community of builders</div>
+          </td>
+          <td class="num">4</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">1</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/CanvasGroupDetailsExtractor" target="_blank">CanvasGroupDetailsExtractor</a>
+            <div class="repo-desc">Help extract student list along with group names. </div>
+          </td>
+          <td class="num">3</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/fda" target="_blank">fda</a>
+            
+          </td>
+          <td class="num">3</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/build-to-learn" target="_blank">build-to-learn</a>
+            <div class="repo-desc">Building to Learn - A workshop about shifting from teachers as content deliverer</div>
+          </td>
           <td class="num">2</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/gdpval" target="_blank">gdpval</a>
+            <div class="repo-desc">Interactive Streamlit app that helps instructors design AI-resilient assignments</div>
+          </td>
           <td class="num">2</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/learning-design-pillars" target="_blank">learning-design-pillars</a>
+            <div class="repo-desc">Claude Code skills for applying evidence-based learning design principles (Four </div>
+          </td>
+          <td class="num">2</td>
+          <td class="num"><span class="star-badge">3</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/llms-text" target="_blank">llms-text</a>
+            
+          </td>
+          <td class="num">2</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/vibefunded" target="_blank">vibefunded</a>
+            
+          </td>
+          <td class="num">2</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/AgentLab" target="_blank">AgentLab</a>
+            <div class="repo-desc">AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies</div>
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-badge">2</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/LearnByEmail" target="_blank">LearnByEmail</a>
+            <div class="repo-desc">An app to enable micro learning, with AI generated daily emails for a topic of y</div>
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/ai-taskforce" target="_blank">ai-taskforce</a>
+            
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/canvas-discussion-analysis" target="_blank">canvas-discussion-analysis</a>
+            
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/canvas-lms-mcp-extension" target="_blank">canvas-lms-mcp-extension</a>
+            <div class="repo-desc">A Model Context Protocol Extension for Claude Desktop to run locally and connect</div>
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/entrebot" target="_blank">entrebot</a>
+            
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/icis2025-context-engineering" target="_blank">icis2025-context-engineering</a>
+            
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/openprose-workspace" target="_blank">openprose-workspace</a>
+            <div class="repo-desc">OpenProse workflow orchestration workspace - demonstrating codebase analysis and</div>
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/superpower" target="_blank">superpower</a>
+            
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/tldraw" target="_blank">tldraw</a>
+            
+          </td>
+          <td class="num">1</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/2025-in-review" target="_blank">2025-in-review</a>
+            <div class="repo-desc">3D constellation visualization of what I built in 2025 with AI</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/GitHireEvaluator" target="_blank">GitHireEvaluator</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/Introduction-to-business-analytics-with-python" target="_blank">Introduction-to-business-analytics-with-python</a>
+            <div class="repo-desc">Content for the BADM211 Business Analytics course at UIUC, but generally useful </div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/SQL-Set-theory-visualizer" target="_blank">SQL-Set-theory-visualizer</a>
+            <div class="repo-desc">For an introductory unit on foundations of SQL joins using set theory notation</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/ThreadToParagraph" target="_blank">ThreadToParagraph</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/UIC_Clustering_Code_2019" target="_blank">UIC_Clustering_Code_2019</a>
+            <div class="repo-desc">Code for k-means clustering lab</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/a2i-curriculum" target="_blank">a2i-curriculum</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/aei" target="_blank">aei</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/ai-impact" target="_blank">ai-impact</a>
+            <div class="repo-desc">Research on AI's impact: platform usage patterns, demographics, global inequalit</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/ai-problem-framing" target="_blank">ai-problem-framing</a>
+            <div class="repo-desc">AI Problem Framing for AI Practitioners - An intelligent textbook teaching syste</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/api-demo" target="_blank">api-demo</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/badm211" target="_blank">badm211</a>
+            <div class="repo-desc">class notebooks and datasets</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/badm350-ai-learning-tools" target="_blank">badm350-ai-learning-tools</a>
+            <div class="repo-desc">AI-Enhanced Learning Tools for BADM 350 - Business Models, Network Effects, and </div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/badm554-survey-bot" target="_blank">badm554-survey-bot</a>
+            <div class="repo-desc">AI-powered pre-course survey bot for BADM554 Enterprise Database Management. Sup</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/chatwithgpt" target="_blank">chatwithgpt</a>
+            <div class="repo-desc">repo to share code for my experiments in teaching and learning with llms</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/claude-soul-viz" target="_blank">claude-soul-viz</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/context-graphs" target="_blank">context-graphs</a>
+            <div class="repo-desc">Research: Context graphs as competitive infrastructure in the age of AI</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/datacarpentry-test" target="_blank">datacarpentry-test</a>
+            <div class="repo-desc">test for data carpentry</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/genai-literacy" target="_blank">genai-literacy</a>
+            <div class="repo-desc">GenAI for Teacher Productivity micro-credential course materials</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/gies-ai-curriculum" target="_blank">gies-ai-curriculum</a>
+            <div class="repo-desc">Gies College of Business AI Curriculum Integration - Leadership Documentation</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/gitdemo" target="_blank">gitdemo</a>
+            <div class="repo-desc">demo for class </div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/github-pages-with-jekyll" target="_blank">github-pages-with-jekyll</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/github-stats-tracker" target="_blank">github-stats-tracker</a>
+            <div class="repo-desc">Weekly collection of GitHub traffic stats for all public repos. Dashboard: https</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/kg-learning" target="_blank">kg-learning</a>
+            <div class="repo-desc">Knowledge graph-structured repository for learning about knowledge graphs</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/math-genart" target="_blank">math-genart</a>
+            <div class="repo-desc">Interactive visualizations of 12 mathematical generative art systems using Marim</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/msba2025-cohort" target="_blank">msba2025-cohort</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/musictheoryflow" target="_blank">musictheoryflow</a>
+            <div class="repo-desc">demo for workshop</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/nber" target="_blank">nber</a>
+            <div class="repo-desc">NBER video transcript extraction and analysis</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-badge">1</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/portfolio" target="_blank">portfolio</a>
+            <div class="repo-desc">repo to share my portfolio</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/practicum" target="_blank">practicum</a>
+            <div class="repo-desc">utilities for managing the course and tracking participation</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/python4class" target="_blank">python4class</a>
+            <div class="repo-desc">A 'how to guide' to use python for analytics, with frontend tools and a guide on</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/recipe-finder" target="_blank">recipe-finder</a>
+            <div class="repo-desc">Created with StackBlitz ⚡️</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/remotion-star" target="_blank">remotion-star</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/roo-cline-comparison" target="_blank">roo-cline-comparison</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/skills-sh" target="_blank">skills-sh</a>
+            <div class="repo-desc">Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/tx-gemma" target="_blank">tx-gemma</a>
+            <div class="repo-desc">playing around with tx-gemma</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/uiuc-course" target="_blank">uiuc-course</a>
+            
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
+          <td class="num">14</td>
+        </tr>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/waymo-investment-calculator" target="_blank">waymo-investment-calculator</a>
+            <div class="repo-desc">Interactive financial calculator for analyzing Waymo robotaxi investments with a</div>
+          </td>
+          <td class="num">0</td>
+          <td class="num"><span class="star-zero">0</span></td>
+          <td class="num">0</td>
           <td class="num">14</td>
         </tr></tbody>
     </table>
   </div>
 
   <footer>
-    Data collected weekly via GitHub Actions. Traffic stats are preserved forever since GitHub only keeps 14 days.
+    Data collected weekly via GitHub Actions. GitHub only retains traffic data for 14 days — this dashboard preserves it permanently.
+    <br>Clones and total views excluded due to bot inflation. See methodology note above.
   </footer>
 
   <script>
@@ -678,7 +880,7 @@
       type: 'line',
       data: {
         labels: ["2026-02-02", "2026-02-03", "2026-02-04", "2026-02-05", "2026-02-06", "2026-02-07", "2026-02-08", "2026-02-09", "2026-02-10", "2026-02-11", "2026-02-12", "2026-02-13", "2026-02-14", "2026-02-15"],
-        datasets: [{"label": "canvas-mcp", "data": [74, 63, 65, 43, 32, 16, 17, 51, 40, 32, 33, 12, 21, 28], "borderColor": "#3b82f6", "fill": false, "tension": 0.3}, {"label": "claude-code-skills", "data": [12, 2, 2, 0, 18, 2, 13, 2, 0, 4, 1, 0, 4, 1], "borderColor": "#ef4444", "fill": false, "tension": 0.3}, {"label": "grit-cart", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37], "borderColor": "#10b981", "fill": false, "tension": 0.3}, {"label": "openclaw-dashboard", "data": [11, 0, 0, 0, 1, 3, 2, 11, 1, 1, 1, 2, 1, 0], "borderColor": "#f59e0b", "fill": false, "tension": 0.3}, {"label": "database-management", "data": [0, 0, 0, 0, 5, 1, 0, 0, 0, 0, 0, 0, 7, 10], "borderColor": "#8b5cf6", "fill": false, "tension": 0.3}, {"label": "claude-skills", "data": [0, 0, 0, 11, 0, 4, 1, 1, 3, 0, 0, 0, 2, 0], "borderColor": "#ec4899", "fill": false, "tension": 0.3}, {"label": "legal-ai", "data": [0, 0, 0, 0, 0, 0, 4, 12, 0, 0, 1, 1, 0, 0], "borderColor": "#06b6d4", "fill": false, "tension": 0.3}, {"label": "fda", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 6, 0, 0, 0], "borderColor": "#84cc16", "fill": false, "tension": 0.3}, {"label": "illinihunt", "data": [0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 11], "borderColor": "#f97316", "fill": false, "tension": 0.3}, {"label": "makerlab", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 1, 2, 1], "borderColor": "#6366f1", "fill": false, "tension": 0.3}]
+        datasets: [{"label": "canvas-mcp", "data": [27, 23, 29, 26, 20, 12, 14, 26, 21, 21, 22, 9, 10, 14], "borderColor": "#3b82f6", "fill": false, "tension": 0.3}, {"label": "openclaw-dashboard", "data": [5, 0, 0, 0, 1, 3, 2, 6, 1, 1, 1, 2, 1, 0], "borderColor": "#ef4444", "fill": false, "tension": 0.3}, {"label": "claude-code-skills", "data": [2, 2, 1, 0, 1, 2, 2, 2, 0, 1, 1, 0, 1, 1], "borderColor": "#10b981", "fill": false, "tension": 0.3}, {"label": "grit-cart", "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11], "borderColor": "#f59e0b", "fill": false, "tension": 0.3}, {"label": "claude-interviewer-clone", "data": [0, 0, 1, 4, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0], "borderColor": "#8b5cf6", "fill": false, "tension": 0.3}, {"label": "claude-skills", "data": [0, 0, 0, 3, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0], "borderColor": "#ec4899", "fill": false, "tension": 0.3}, {"label": "legal-ai", "data": [0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 1, 1, 0, 0], "borderColor": "#06b6d4", "fill": false, "tension": 0.3}, {"label": "claude-code-for-business", "data": [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0], "borderColor": "#84cc16", "fill": false, "tension": 0.3}, {"label": "eventbrite-mcp", "data": [0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 0, 0], "borderColor": "#f97316", "fill": false, "tension": 0.3}, {"label": "helloworld", "data": [0, 0, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "borderColor": "#6366f1", "fill": false, "tension": 0.3}]
       },
       options: {
         responsive: true,

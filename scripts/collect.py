@@ -44,8 +44,8 @@ def gh_request(path: str, token: str) -> dict | list | None:
         return None
 
 
-def get_public_repos(owner: str, token: str) -> list[str]:
-    """Get all public repo names for a user."""
+def get_public_repos(owner: str, token: str) -> list[dict]:
+    """Get all public repos with metadata for a user."""
     repos = []
     page = 1
     while True:
@@ -54,11 +54,18 @@ def get_public_repos(owner: str, token: str) -> list[str]:
         )
         if not data:
             break
-        repos.extend(r["name"] for r in data if not r.get("fork"))
+        for r in data:
+            if not r.get("fork"):
+                repos.append({
+                    "name": r["name"],
+                    "stars": r.get("stargazers_count", 0),
+                    "forks": r.get("forks_count", 0),
+                    "description": r.get("description") or "",
+                })
         if len(data) < 100:
             break
         page += 1
-    return sorted(repos)
+    return sorted(repos, key=lambda x: x["name"])
 
 
 def collect_repo_traffic(owner: str, repo: str, token: str) -> dict:
@@ -130,7 +137,8 @@ def collect_all(owner: str, token: str, dry_run: bool = False):
     summary = {"collected_at": collected_at, "repos_checked": len(repos), "repos_with_traffic": 0}
     repos_with_data = []
 
-    for i, repo in enumerate(repos, 1):
+    for i, repo_info in enumerate(repos, 1):
+        repo = repo_info["name"]
         traffic = collect_repo_traffic(owner, repo, token)
 
         has_views = len(traffic["views"].get("views", [])) > 0
@@ -139,7 +147,7 @@ def collect_all(owner: str, token: str, dry_run: bool = False):
         if has_views or has_clones:
             summary["repos_with_traffic"] += 1
             repos_with_data.append(repo)
-            print(f"  [{i}/{len(repos)}] {repo} - views: {traffic['views'].get('count', 0)}, clones: {traffic['clones'].get('count', 0)}")
+            print(f"  [{i}/{len(repos)}] {repo} - views: {traffic['views'].get('count', 0)}, clones: {traffic['clones'].get('count', 0)}, stars: {repo_info['stars']}")
 
             if not dry_run:
                 filepath = DATA_DIR / f"{repo}.json"
@@ -149,6 +157,9 @@ def collect_all(owner: str, token: str, dry_run: bool = False):
                     "repo": repo,
                     "owner": owner,
                     "last_updated": collected_at,
+                    "stars": repo_info["stars"],
+                    "forks": repo_info["forks"],
+                    "description": repo_info["description"],
                     "views": merge_daily_data(existing, "views", traffic["views"].get("views", [])),
                     "clones": merge_daily_data(existing, "clones", traffic["clones"].get("clones", [])),
                     "referrers": merge_referrers(existing.get("referrers", []), traffic.get("referrers", [])),

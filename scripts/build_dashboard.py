@@ -2,7 +2,9 @@
 """Build a static HTML dashboard from collected traffic data.
 
 Reads per-repo JSON files from data/ and generates docs/index.html
-for GitHub Pages hosting.
+for GitHub Pages hosting. Focuses on unique views and stars as
+primary signals — clones and total views are excluded because
+GitHub traffic data is heavily inflated by automated bot scrapers.
 """
 
 import json
@@ -26,36 +28,33 @@ def load_all_repos() -> list[dict]:
 
 
 def compute_totals(repo: dict) -> dict:
-    """Compute total views and clones from daily data."""
-    total_views = sum(d["count"] for d in repo.get("views", {}).values())
+    """Compute totals from daily data."""
     unique_views = sum(d["uniques"] for d in repo.get("views", {}).values())
-    total_clones = sum(d["count"] for d in repo.get("clones", {}).values())
-    unique_clones = sum(d["uniques"] for d in repo.get("clones", {}).values())
     days_tracked = len(repo.get("views", {}))
     return {
         "name": repo.get("repo", "unknown"),
-        "total_views": total_views,
+        "description": repo.get("description", ""),
+        "stars": repo.get("stars", 0),
+        "forks": repo.get("forks", 0),
         "unique_views": unique_views,
-        "total_clones": total_clones,
-        "unique_clones": unique_clones,
         "days_tracked": days_tracked,
         "last_updated": repo.get("last_updated", ""),
         "referrers": repo.get("referrers", []),
         "paths": repo.get("paths", []),
         "views": repo.get("views", {}),
-        "clones": repo.get("clones", {}),
     }
 
 
 def generate_html(repos: list[dict]) -> str:
     """Generate the dashboard HTML."""
     summaries = [compute_totals(r) for r in repos]
-    summaries.sort(key=lambda x: x["total_views"], reverse=True)
+    summaries.sort(key=lambda x: x["unique_views"], reverse=True)
 
     # Aggregate stats
-    grand_views = sum(s["total_views"] for s in summaries)
     grand_uniques = sum(s["unique_views"] for s in summaries)
-    grand_clones = sum(s["total_clones"] for s in summaries)
+    grand_stars = sum(s["stars"] for s in summaries)
+    grand_forks = sum(s["forks"] for s in summaries)
+    repos_with_views = sum(1 for s in summaries if s["unique_views"] > 0)
 
     # Load run metadata
     run_file = DATA_DIR / "latest_run.json"
@@ -65,20 +64,23 @@ def generate_html(repos: list[dict]) -> str:
             meta = json.load(f)
             last_run = meta.get("collected_at", "")[:10]
 
-    # Build repo rows
+    # Build repo rows — sorted by unique views
     repo_rows = ""
     for s in summaries:
+        star_badge = f'<span class="star-badge">{s["stars"]}</span>' if s["stars"] > 0 else '<span class="star-zero">0</span>'
         repo_rows += f"""
-        <tr class="repo-row" data-repo="{s['name']}">
-          <td><a href="https://github.com/vishalsachdev/{s['name']}" target="_blank">{s['name']}</a></td>
-          <td class="num">{s['total_views']:,}</td>
+        <tr class="repo-row">
+          <td>
+            <a href="https://github.com/vishalsachdev/{s['name']}" target="_blank">{s['name']}</a>
+            {f'<div class="repo-desc">{s["description"][:80]}</div>' if s['description'] else ''}
+          </td>
           <td class="num">{s['unique_views']:,}</td>
-          <td class="num">{s['total_clones']:,}</td>
-          <td class="num">{s['unique_clones']:,}</td>
+          <td class="num">{star_badge}</td>
+          <td class="num">{s['forks']}</td>
           <td class="num">{s['days_tracked']}</td>
         </tr>"""
 
-    # Prepare chart data (top 10 repos by views, daily timeseries)
+    # Prepare chart data — unique visitors for top 10 repos
     chart_repos = summaries[:10]
     all_dates = set()
     for s in chart_repos:
@@ -92,7 +94,7 @@ def generate_html(repos: list[dict]) -> str:
         "#ec4899", "#06b6d4", "#84cc16", "#f97316", "#6366f1",
     ]
     for i, s in enumerate(chart_repos):
-        values = [s["views"].get(d, {}).get("count", 0) for d in all_dates]
+        values = [s["views"].get(d, {}).get("uniques", 0) for d in all_dates]
         datasets.append({
             "label": s["name"],
             "data": values,
@@ -112,6 +114,18 @@ def generate_html(repos: list[dict]) -> str:
     referrer_rows = ""
     for name, count in top_referrers:
         referrer_rows += f"<tr><td>{name}</td><td class='num'>{count:,}</td></tr>\n"
+
+    # Top repos by stars (separate ranking)
+    by_stars = sorted(summaries, key=lambda x: x["stars"], reverse=True)[:10]
+    star_rows = ""
+    for s in by_stars:
+        if s["stars"] == 0:
+            break
+        star_rows += f"""<tr>
+          <td><a href="https://github.com/vishalsachdev/{s['name']}" target="_blank">{s['name']}</a></td>
+          <td class="num">{s['stars']}</td>
+          <td class="num">{s['forks']}</td>
+        </tr>"""
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
@@ -135,17 +149,25 @@ def generate_html(repos: list[dict]) -> str:
       padding: 2rem; max-width: 1200px; margin: 0 auto;
     }}
     h1 {{ font-size: 1.5rem; margin-bottom: 0.25rem; }}
-    .subtitle {{ color: var(--text-dim); margin-bottom: 2rem; font-size: 0.9rem; }}
+    .subtitle {{ color: var(--text-dim); margin-bottom: 1.5rem; font-size: 0.9rem; }}
+    .methodology {{
+      background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--yellow);
+      border-radius: 6px; padding: 1rem 1.25rem; margin-bottom: 2rem; font-size: 0.85rem;
+      color: var(--text-dim); line-height: 1.6;
+    }}
+    .methodology strong {{ color: var(--text); }}
     .cards {{
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 1rem; margin-bottom: 2rem;
     }}
     .card {{
       background: var(--surface); border: 1px solid var(--border);
       border-radius: 8px; padding: 1.25rem;
     }}
-    .card .label {{ color: var(--text-dim); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }}
+    .card.primary {{ border-color: var(--accent); }}
+    .card .label {{ color: var(--text-dim); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }}
     .card .value {{ font-size: 1.75rem; font-weight: 600; margin-top: 0.25rem; }}
+    .card.primary .value {{ color: var(--accent); }}
     .chart-container {{
       background: var(--surface); border: 1px solid var(--border);
       border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem;
@@ -160,7 +182,12 @@ def generate_html(repos: list[dict]) -> str:
     td a:hover {{ text-decoration: underline; }}
     .num {{ text-align: right; font-variant-numeric: tabular-nums; }}
     .repo-row:hover {{ background: rgba(88, 166, 255, 0.05); }}
+    .repo-desc {{ color: var(--text-dim); font-size: 0.75rem; margin-top: 0.15rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 350px; }}
+    .star-badge {{ color: var(--yellow); font-weight: 600; }}
+    .star-zero {{ color: var(--text-dim); }}
+    .three-col {{ display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; }}
     .two-col {{ display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }}
+    @media (max-width: 900px) {{ .three-col {{ grid-template-columns: 1fr; }} }}
     @media (max-width: 768px) {{ .two-col {{ grid-template-columns: 1fr; }} }}
     footer {{ color: var(--text-dim); font-size: 0.8rem; margin-top: 3rem; text-align: center; }}
   </style>
@@ -169,31 +196,45 @@ def generate_html(repos: list[dict]) -> str:
   <h1>GitHub Traffic Dashboard</h1>
   <p class="subtitle">vishalsachdev &middot; {len(summaries)} repos tracked &middot; Last collection: {last_run or now}</p>
 
+  <div class="methodology">
+    <strong>Methodology note:</strong> This dashboard intentionally excludes clone counts and total (non-unique) views.
+    GitHub traffic data is heavily inflated by automated bots that monitor the Events API and clone every public
+    repo looking for leaked secrets. For example, a repo with 2 page views can show 3,700+ clones in 14 days.
+    <strong>Unique visitors</strong> and <strong>stars</strong> are the most reliable proxies for genuine human interest.
+  </div>
+
   <div class="cards">
-    <div class="card">
-      <div class="label">Total Views</div>
-      <div class="value">{grand_views:,}</div>
-    </div>
-    <div class="card">
+    <div class="card primary">
       <div class="label">Unique Visitors</div>
       <div class="value">{grand_uniques:,}</div>
     </div>
     <div class="card">
-      <div class="label">Total Clones</div>
-      <div class="value">{grand_clones:,}</div>
+      <div class="label">Total Stars</div>
+      <div class="value">{grand_stars:,}</div>
     </div>
     <div class="card">
-      <div class="label">Repos Tracked</div>
-      <div class="value">{len(summaries)}</div>
+      <div class="label">Total Forks</div>
+      <div class="value">{grand_forks:,}</div>
+    </div>
+    <div class="card">
+      <div class="label">Repos with Visitors</div>
+      <div class="value">{repos_with_views}</div>
     </div>
   </div>
 
   <div class="chart-container">
-    <h2>Daily Views — Top 10 Repos</h2>
+    <h2>Daily Unique Visitors — Top 10 Repos</h2>
     <canvas id="viewsChart" height="100"></canvas>
   </div>
 
   <div class="two-col">
+    <div class="section">
+      <h2>Top Repos by Stars</h2>
+      <table>
+        <thead><tr><th>Repository</th><th class="num">Stars</th><th class="num">Forks</th></tr></thead>
+        <tbody>{star_rows if star_rows else '<tr><td colspan="3">No stars yet</td></tr>'}</tbody>
+      </table>
+    </div>
     <div class="section">
       <h2>Top Referrers</h2>
       <table>
@@ -201,38 +242,27 @@ def generate_html(repos: list[dict]) -> str:
         <tbody>{referrer_rows if referrer_rows else '<tr><td colspan="2">No data yet</td></tr>'}</tbody>
       </table>
     </div>
-    <div class="section">
-      <h2>Collection Info</h2>
-      <table>
-        <tbody>
-          <tr><td>Last run</td><td>{last_run or 'Not yet'}</td></tr>
-          <tr><td>Schedule</td><td>Every Monday 6am UTC</td></tr>
-          <tr><td>Data retention</td><td>Forever (GitHub keeps 14 days)</td></tr>
-          <tr><td>Dashboard built</td><td>{now}</td></tr>
-        </tbody>
-      </table>
-    </div>
   </div>
 
   <div class="section">
-    <h2>All Repos</h2>
+    <h2>All Repos — Sorted by Unique Visitors</h2>
     <table>
       <thead>
         <tr>
           <th>Repository</th>
-          <th class="num">Views</th>
-          <th class="num">Unique</th>
-          <th class="num">Clones</th>
-          <th class="num">Unique</th>
-          <th class="num">Days</th>
+          <th class="num">Unique Visitors</th>
+          <th class="num">Stars</th>
+          <th class="num">Forks</th>
+          <th class="num">Days Tracked</th>
         </tr>
       </thead>
-      <tbody>{repo_rows if repo_rows else '<tr><td colspan="6">No data yet — run the collector first</td></tr>'}</tbody>
+      <tbody>{repo_rows if repo_rows else '<tr><td colspan="5">No data yet — run the collector first</td></tr>'}</tbody>
     </table>
   </div>
 
   <footer>
-    Data collected weekly via GitHub Actions. Traffic stats are preserved forever since GitHub only keeps 14 days.
+    Data collected weekly via GitHub Actions. GitHub only retains traffic data for 14 days — this dashboard preserves it permanently.
+    <br>Clones and total views excluded due to bot inflation. See methodology note above.
   </footer>
 
   <script>

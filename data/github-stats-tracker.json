@@ -1,10 +1,10 @@
 {
-  "repo": "badm350-ai-learning-tools",
+  "repo": "github-stats-tracker",
   "owner": "vishalsachdev",
   "last_updated": "2026-02-16T19:52:32.634707+00:00",
   "stars": 0,
   "forks": 0,
-  "description": "AI-Enhanced Learning Tools for BADM 350 - Business Models, Network Effects, and Digital Strategy. Interactive educational apps for business strategy courses.",
+  "description": "Weekly collection of GitHub traffic stats for all public repos. Dashboard: https://vishalsachdev.github.io/github-stats-tracker/",
   "views": {
     "2026-02-02": {
       "count": 0,
@@ -73,8 +73,8 @@
       "uniques": 0
     },
     "2026-02-04": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-05": {
       "count": 0,
