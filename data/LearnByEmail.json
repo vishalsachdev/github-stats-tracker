@@ -1,0 +1,130 @@
+{
+  "repo": "LearnByEmail",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-03": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  "referrers": [],
+  "paths": [
+    {
+      "path": "/vishalsachdev/LearnByEmail",
+      "title": "GitHub - vishalsachdev/LearnByEmail: An app to enable micro learning, with AI...",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "repo": "claude-skills",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 11,
+      "uniques": 3
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 4,
+      "uniques": 1
+    },
+    "2026-02-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-10": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 5,
+      "uniques": 4
+    },
+    "2026-02-03": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-04": {
+      "count": 5,
+      "uniques": 5
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-09": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-02-10": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-02-11": {
+      "count": 4,
+      "uniques": 3
+    },
+    "2026-02-12": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-13": {
+      "count": 18,
+      "uniques": 6
+    },
+    "2026-02-14": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-15": {
+      "count": 3,
+      "uniques": 3
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "skills.sh",
+      "count": 4,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "majiayu000.github.io",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "linkedin.com",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "vishalsachdev/claude-skills",
+      "count": 7,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "claude-skills/chartjs-generator/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/HEAD/vibe-coder-sdlc/SKILL.md",
+      "title": "claude-skills/vibe-coder-sdlc/SKILL.md at f769feeab171c82a41d50fa7e591aa855d9...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/HEAD/vibe-coder-sdlc/references/code-review-agent.md",
+      "title": "claude-skills/vibe-coder-sdlc/references/code-review-agent.md at f769feeab171...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/f769feeab171c82a41d50fa7e591aa855d9bd530/vibe-coder-sdlc/references/orchestrator-agent.md",
+      "title": "claude-skills/vibe-coder-sdlc/references at f769feeab171c82a41d50fa7e591aa855...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-radar.html",
+      "title": "claude-skills/chartjs-generator/assets at main \u00b7 vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/supabase-fullstack-setup/SKILL.md",
+      "title": "claude-skills/supabase-fullstack-setup/SKILL.md at main \u00b7 vishalsachdev/claud...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/write-article/SKILL.md",
+      "title": "claude-skills/write-article/SKILL.md at main \u00b7 vishalsachdev/claude-skills \u00b7 ...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/fork",
+      "title": "Fork vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/f769feeab171c82a41d50fa7e591aa855d9bd530/vibe-coder-sdlc",
+      "title": "claude-skills/vibe-coder-sdlc/references at f769feeab171c82a41d50fa7e591aa855...",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}

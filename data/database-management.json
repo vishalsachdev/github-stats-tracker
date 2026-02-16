@@ -1,0 +1,190 @@
+{
+  "repo": "database-management",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 5,
+      "uniques": 1
+    },
+    "2026-02-07": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 7,
+      "uniques": 1
+    },
+    "2026-02-15": {
+      "count": 10,
+      "uniques": 1
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 16,
+      "uniques": 1
+    },
+    "2026-02-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 81,
+      "uniques": 1
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/database-management/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
+      "title": "database-management/.claude-skills/.claude/hooks/track-prompts.sh at bf227607...",
+      "count": 5,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-prompts.sh",
+      "title": "database-management/.claude-skills/.claude/hooks at bf2276079b704f5ac6420cf27...",
+      "count": 4,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "vishalsachdev/database-management: Database Management - An intelligent textb...",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-managemen...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",
+      "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-managemen...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/debug-hook-data.sh",
+      "title": "database-management/.claude-skills/.claude/hooks at bf2276079b704f5ac6420cf27...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-end.sh",
+      "title": "database-management/.claude-skills/.claude/hooks at bf2276079b704f5ac6420cf27...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",
+      "title": "database-management/.claude-skills/.claude/hooks at bf2276079b704f5ac6420cf27...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.gitignore",
+      "title": "database-management/.gitignore at main \u00b7 vishalsachdev/database-management \u00b7 ...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/plugins/social_override.py",
+      "title": "database-management/.claude-skills/skills at main \u00b7 vishalsachdev/database-ma...",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}

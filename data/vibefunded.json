@@ -1,0 +1,136 @@
+{
+  "repo": "vibefunded",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 196,
+      "uniques": 63
+    },
+    "2026-02-03": {
+      "count": 253,
+      "uniques": 82
+    },
+    "2026-02-04": {
+      "count": 271,
+      "uniques": 86
+    },
+    "2026-02-05": {
+      "count": 268,
+      "uniques": 85
+    },
+    "2026-02-06": {
+      "count": 277,
+      "uniques": 80
+    },
+    "2026-02-07": {
+      "count": 358,
+      "uniques": 111
+    },
+    "2026-02-08": {
+      "count": 292,
+      "uniques": 95
+    },
+    "2026-02-09": {
+      "count": 191,
+      "uniques": 61
+    },
+    "2026-02-10": {
+      "count": 197,
+      "uniques": 62
+    },
+    "2026-02-11": {
+      "count": 227,
+      "uniques": 66
+    },
+    "2026-02-12": {
+      "count": 251,
+      "uniques": 82
+    },
+    "2026-02-13": {
+      "count": 260,
+      "uniques": 79
+    },
+    "2026-02-14": {
+      "count": 374,
+      "uniques": 115
+    },
+    "2026-02-15": {
+      "count": 370,
+      "uniques": 115
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 2,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/vibefunded",
+      "title": "vishalsachdev/vibefunded",
+      "count": 2,
+      "uniques": 1
+    }
+  ]
+}

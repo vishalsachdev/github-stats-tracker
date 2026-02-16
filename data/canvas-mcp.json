@@ -1,0 +1,235 @@
+{
+  "repo": "canvas-mcp",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 74,
+      "uniques": 27
+    },
+    "2026-02-03": {
+      "count": 63,
+      "uniques": 23
+    },
+    "2026-02-04": {
+      "count": 65,
+      "uniques": 29
+    },
+    "2026-02-05": {
+      "count": 43,
+      "uniques": 26
+    },
+    "2026-02-06": {
+      "count": 32,
+      "uniques": 20
+    },
+    "2026-02-07": {
+      "count": 16,
+      "uniques": 12
+    },
+    "2026-02-08": {
+      "count": 17,
+      "uniques": 14
+    },
+    "2026-02-09": {
+      "count": 51,
+      "uniques": 26
+    },
+    "2026-02-10": {
+      "count": 40,
+      "uniques": 21
+    },
+    "2026-02-11": {
+      "count": 32,
+      "uniques": 21
+    },
+    "2026-02-12": {
+      "count": 33,
+      "uniques": 22
+    },
+    "2026-02-13": {
+      "count": 12,
+      "uniques": 9
+    },
+    "2026-02-14": {
+      "count": 21,
+      "uniques": 10
+    },
+    "2026-02-15": {
+      "count": 28,
+      "uniques": 14
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 170,
+      "uniques": 53
+    },
+    "2026-02-03": {
+      "count": 63,
+      "uniques": 25
+    },
+    "2026-02-04": {
+      "count": 314,
+      "uniques": 72
+    },
+    "2026-02-05": {
+      "count": 14,
+      "uniques": 13
+    },
+    "2026-02-06": {
+      "count": 10,
+      "uniques": 8
+    },
+    "2026-02-07": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-02-08": {
+      "count": 14,
+      "uniques": 6
+    },
+    "2026-02-09": {
+      "count": 10,
+      "uniques": 9
+    },
+    "2026-02-10": {
+      "count": 14,
+      "uniques": 9
+    },
+    "2026-02-11": {
+      "count": 10,
+      "uniques": 9
+    },
+    "2026-02-12": {
+      "count": 22,
+      "uniques": 5
+    },
+    "2026-02-13": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-14": {
+      "count": 7,
+      "uniques": 7
+    },
+    "2026-02-15": {
+      "count": 19,
+      "uniques": 9
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "Google",
+      "count": 242,
+      "uniques": 158
+    },
+    {
+      "referrer": "github.com",
+      "count": 72,
+      "uniques": 23
+    },
+    {
+      "referrer": "Bing",
+      "count": 22,
+      "uniques": 12
+    },
+    {
+      "referrer": "canvas-mcp.illinihunt.org",
+      "count": 11,
+      "uniques": 6
+    },
+    {
+      "referrer": "search.brave.com",
+      "count": 6,
+      "uniques": 3
+    },
+    {
+      "referrer": "com.linkedin.android",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "referrer": "chatgpt.com",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "claude.ai",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "perplexity.ai",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "vishalsachdev.github.io",
+      "count": 2,
+      "uniques": 2
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/canvas-mcp",
+      "title": "vishalsachdev/canvas-mcp: A Model Context Protocol server to run locally and ...",
+      "count": 335,
+      "uniques": 225
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
+      "title": "canvas-mcp/docs/STUDENT_GUIDE.md at main \u00b7 vishalsachdev/canvas-mcp",
+      "count": 28,
+      "uniques": 22
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/.claude/skills",
+      "title": "canvas-mcp/.claude/skills at main \u00b7 vishalsachdev/canvas-mcp",
+      "count": 9,
+      "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pulls",
+      "title": "Pull requests \u00b7 vishalsachdev/canvas-mcp",
+      "count": 9,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/issues",
+      "title": "GitHub \u00b7 Where software is built",
+      "count": 6,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/graphs/traffic",
+      "title": "Traffic \u00b7 vishalsachdev/canvas-mcp",
+      "count": 6,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",
+      "title": "canvas-mcp/AGENTS.md at main \u00b7 vishalsachdev/canvas-mcp",
+      "count": 5,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main",
+      "title": "GitHub - vishalsachdev/canvas-mcp: A Model Context Protocol server to run loc...",
+      "count": 5,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pull/71",
+      "title": "Feat/deanonymization by jaymesdec \u00b7 Pull Request #71 \u00b7 vishalsachdev/canvas-mcp",
+      "count": 5,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pull/61",
+      "title": "Automate GitHub release creation and README updates on tag push by Copilot \u00b7 ...",
+      "count": 5,
+      "uniques": 1
+    }
+  ]
+}

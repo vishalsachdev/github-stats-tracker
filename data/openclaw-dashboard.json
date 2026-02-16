@@ -1,0 +1,189 @@
+{
+  "repo": "openclaw-dashboard",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 11,
+      "uniques": 5
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-07": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-08": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-09": {
+      "count": 11,
+      "uniques": 6
+    },
+    "2026-02-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-13": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-03": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-04": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-05": {
+      "count": 14,
+      "uniques": 12
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 3,
+      "uniques": 3
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 26,
+      "uniques": 17
+    },
+    {
+      "referrer": "yandex.ru",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/openclaw-dashboard",
+      "title": "vishalsachdev/openclaw-dashboard: Streamlit dashboard for tracking the OpenCl...",
+      "count": 25,
+      "uniques": 20
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/fork",
+      "title": "Fork vishalsachdev/openclaw-dashboard",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/blob/1a712c44aef8d6f158fb3c9334ae5f8ae35a4a13/app.py",
+      "title": "openclaw-dashboard/app.py at 1a712c44aef8d6f158fb3c9334ae5f8ae35a4a13 \u00b7 visha...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/blob/654ec8fef1d99eec8e767157bfc07cfaf4205f2d/CLAUDE.md",
+      "title": "openclaw-dashboard/CLAUDE.md at 654ec8fef1d99eec8e767157bfc07cfaf4205f2d \u00b7 vi...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/blob/654ec8fef1d99eec8e767157bfc07cfaf4205f2d/app.py",
+      "title": "openclaw-dashboard/app.py at 654ec8fef1d99eec8e767157bfc07cfaf4205f2d \u00b7 visha...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/blob/main/.gitignore",
+      "title": "openclaw-dashboard/.gitignore at main \u00b7 vishalsachdev/openclaw-dashboard",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/blob/main/app.py",
+      "title": "openclaw-dashboard/app.py at main \u00b7 vishalsachdev/openclaw-dashboard",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/blob/main/data_fetcher.py",
+      "title": "openclaw-dashboard/data_fetcher.py at main \u00b7 vishalsachdev/openclaw-dashboard",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard/commits/main",
+      "title": "Commits \u00b7 vishalsachdev/openclaw-dashboard",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}

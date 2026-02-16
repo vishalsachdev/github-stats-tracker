@@ -1,0 +1,172 @@
+{
+  "repo": "legal-ai",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-16T19:15:03.234840+00:00",
+  "views": {
+    "2026-02-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 4,
+      "uniques": 1
+    },
+    "2026-02-09": {
+      "count": 12,
+      "uniques": 4
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-13": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-02-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-08": {
+      "count": 27,
+      "uniques": 20
+    },
+    "2026-02-09": {
+      "count": 16,
+      "uniques": 12
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 14,
+      "uniques": 4
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/legal-ai",
+      "title": "vishalsachdev/legal-ai: Guest lecture materials: Teaching law students to bui...",
+      "count": 8,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/blob/main/STUDENT-GUIDE.md",
+      "title": "legal-ai/STUDENT-GUIDE.md at main \u00b7 vishalsachdev/legal-ai",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/blob/main/LECTURE-OVERVIEW.md",
+      "title": "legal-ai/LECTURE-OVERVIEW.md at main \u00b7 vishalsachdev/legal-ai",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/blob/main/.gitignore",
+      "title": "legal-ai/.gitignore at main \u00b7 vishalsachdev/legal-ai \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/blob/main/FACILITATOR-RUNSHEET.md",
+      "title": "legal-ai/FACILITATOR-RUNSHEET.md at main \u00b7 vishalsachdev/legal-ai",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/commits",
+      "title": "Commits \u00b7 vishalsachdev/legal-ai",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/commits/main",
+      "title": "Commits \u00b7 vishalsachdev/legal-ai \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}
