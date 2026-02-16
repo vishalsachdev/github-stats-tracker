@@ -1,5 +1,5 @@
 {
-  "repo": "claude-interviewer-clone",
+  "repo": "github-stats-tracker",
   "owner": "vishalsachdev",
   "last_updated": "2026-02-16T19:16:47.336216+00:00",
   "views": {
@@ -12,24 +12,24 @@
       "uniques": 0
     },
     "2026-02-04": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-05": {
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-06": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-07": {
       "count": 0,
       "uniques": 0
     },
     "2026-02-08": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-09": {
       "count": 0,
@@ -52,8 +52,8 @@
       "uniques": 0
     },
     "2026-02-14": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-15": {
       "count": 0,
@@ -66,24 +66,24 @@
       "uniques": 0
     },
     "2026-02-03": {
-      "count": 6,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-04": {
-      "count": 13,
-      "uniques": 10
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-05": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-06": {
       "count": 0,
       "uniques": 0
     },
     "2026-02-07": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-02-08": {
       "count": 0,
@@ -118,31 +118,6 @@
       "uniques": 0
     }
   },
-  "referrers": [
-    {
-      "referrer": "github.com",
-      "count": 2,
-      "uniques": 1
-    }
-  ],
-  "paths": [
-    {
-      "path": "/vishalsachdev/claude-interviewer-clone/issues",
-      "title": "Issues \u00b7 vishalsachdev/claude-interviewer-clone \u00b7 GitHub",
-      "count": 5,
-      "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/claude-interviewer-clone",
-      "title": "GitHub - vishalsachdev/claude-interviewer-clone",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-interviewer-clone/branches/stale",
-      "title": "Branches \u00b7 vishalsachdev/claude-interviewer-clone \u00b7 GitHub",
-      "count": 2,
-      "uniques": 2
-    }
-  ]
+  "referrers": [],
+  "paths": []
 }
