@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 3,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -61,6 +61,34 @@
     "2026-02-15": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -119,18 +147,46 @@
     "2026-02-15": {
       "count": 12,
       "uniques": 9
+    },
+    "2026-02-16": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-17": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-02-18": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-19": {
+      "count": 8,
+      "uniques": 3
+    },
+    "2026-02-20": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-02-21": {
+      "count": 5,
+      "uniques": 5
+    },
+    "2026-02-22": {
+      "count": 7,
+      "uniques": 6
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 6,
-      "uniques": 3
+      "count": 10,
+      "uniques": 4
     },
     {
       "referrer": "linkedin.com",
-      "count": 5,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "lnkd.in",
@@ -141,26 +197,14 @@
   "paths": [
     {
       "path": "/vishalsachdev/claude-code-skills",
-      "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
-      "count": 17,
-      "uniques": 14
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing",
-      "title": "claude-code-skills/skills/paper-writing at main \u00b7 vishalsachdev/claude-code-s...",
+      "title": "GitHub - vishalsachdev/claude-code-skills: Professional skills for Claude Cod...",
       "count": 10,
       "uniques": 8
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
-      "title": "claude-code-skills/skills/paper-writing/LICENSE.txt at main \u00b7 vishalsachdev/c...",
-      "count": 3,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
-      "title": "claude-code-skills/releases at main \u00b7 vishalsachdev/claude-code-skills",
-      "count": 3,
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing",
+      "title": "claude-code-skills/skills/paper-writing at main \u00b7 vishalsachdev/claude-code-s...",
+      "count": 4,
       "uniques": 3
     },
     {
@@ -198,6 +242,30 @@
       "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
+      "title": "claude-code-skills/skills/paper-writing/SKILL.md at main \u00b7 vishalsachdev/clau...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
+      "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/.github/workflows/package-skills.yml",
+      "title": "claude-code-skills/.github/workflows at main \u00b7 vishalsachdev/claude-code-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/.github/workflows",
+      "title": "claude-code-skills/.github/workflows at main \u00b7 vishalsachdev/claude-code-skills",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }

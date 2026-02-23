@@ -1,7 +1,7 @@
 {
   "repo": "badm554-survey-bot",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 0,
   "forks": 0,
   "description": "AI-powered pre-course survey bot for BADM554 Enterprise Database Management. Supports OpenAI and Google Gemini.",
@@ -59,6 +59,34 @@
       "uniques": 0
     },
     "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
       "count": 0,
       "uniques": 0
     }
@@ -119,8 +147,54 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
-  "referrers": [],
-  "paths": []
+  "referrers": [
+    {
+      "referrer": "linkedin.com",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/badm554-survey-bot",
+      "title": "GitHub - vishalsachdev/badm554-survey-bot: AI-powered pre-course survey bot f...",
+      "count": 3,
+      "uniques": 2
+    }
+  ]
 }

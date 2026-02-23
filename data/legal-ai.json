@@ -1,7 +1,7 @@
 {
   "repo": "legal-ai",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Guest lecture materials: Teaching law students to build AI skills for legal practice (class action litigation)",
@@ -59,6 +59,34 @@
       "uniques": 0
     },
     "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
       "count": 0,
       "uniques": 0
     }
@@ -119,12 +147,40 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-02-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 14,
+      "count": 10,
       "uniques": 4
     }
   ],
@@ -132,7 +188,7 @@
     {
       "path": "/vishalsachdev/legal-ai",
       "title": "vishalsachdev/legal-ai: Guest lecture materials: Teaching law students to bui...",
-      "count": 8,
+      "count": 6,
       "uniques": 5
     },
     {
@@ -144,7 +200,7 @@
     {
       "path": "/vishalsachdev/legal-ai/blob/main/LECTURE-OVERVIEW.md",
       "title": "legal-ai/LECTURE-OVERVIEW.md at main \u00b7 vishalsachdev/legal-ai",
-      "count": 3,
+      "count": 2,
       "uniques": 1
     },
     {

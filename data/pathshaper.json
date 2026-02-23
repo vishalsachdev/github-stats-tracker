@@ -1,0 +1,187 @@
+{
+  "repo": "pathshaper",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "stars": 0,
+  "forks": 0,
+  "description": "Learning 3.0 Prototype \u2014 Faculty as Shapers on the Path. Disruption Lab proof of concept for adaptive learning architecture.",
+  "views": {
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 34,
+      "uniques": 6
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-02-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 21,
+      "uniques": 18
+    },
+    "2026-02-21": {
+      "count": 7,
+      "uniques": 5
+    },
+    "2026-02-22": {
+      "count": 4,
+      "uniques": 4
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/pathshaper",
+      "title": "GitHub - vishalsachdev/pathshaper: Learning 3.0 Prototype \u2014 Faculty as Shaper...",
+      "count": 26,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/.gitignore",
+      "title": "pathshaper/CLAUDE.md at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/CLAUDE.md",
+      "title": "pathshaper/CLAUDE.md at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/next.config.ts",
+      "title": "pathshaper/.gitignore at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/package-lock.json",
+      "title": "pathshaper/next.config.ts at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/package.json",
+      "title": "pathshaper/package-lock.json at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/postcss.config.mjs",
+      "title": "pathshaper/package.json at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/blob/main/tsconfig.json",
+      "title": "pathshaper/postcss.config.mjs at main \u00b7 vishalsachdev/pathshaper \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/pathshaper/tree/main",
+      "title": "GitHub - vishalsachdev/pathshaper: Learning 3.0 Prototype \u2014 Faculty as Shaper...",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}

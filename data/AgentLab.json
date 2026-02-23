@@ -1,7 +1,7 @@
 {
   "repo": "AgentLab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 2,
   "forks": 0,
   "description": "AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies College of Business exploring how intelligent agent teams can transform learning experiences.",
@@ -59,6 +59,34 @@
       "uniques": 0
     },
     "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-02-22": {
       "count": 0,
       "uniques": 0
     }
@@ -119,15 +147,49 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
-  "referrers": [],
+  "referrers": [
+    {
+      "referrer": "Google",
+      "count": 2,
+      "uniques": 1
+    }
+  ],
   "paths": [
     {
       "path": "/vishalsachdev/AgentLab",
-      "title": "GitHub - vishalsachdev/AgentLab: AgentLab - Pioneering Multi-Agent AI for Edu...",
-      "count": 1,
-      "uniques": 1
+      "title": "vishalsachdev/AgentLab: AgentLab - Pioneering Multi-Agent AI for Education. S...",
+      "count": 3,
+      "uniques": 2
     }
   ]
 }

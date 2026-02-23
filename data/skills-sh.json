@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -61,6 +61,34 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 7,
+      "uniques": 2
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 5,
+      "uniques": 3
+    },
+    "2026-02-22": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -119,8 +147,70 @@
     "2026-02-15": {
       "count": 11,
       "uniques": 9
+    },
+    "2026-02-16": {
+      "count": 71,
+      "uniques": 40
+    },
+    "2026-02-17": {
+      "count": 13,
+      "uniques": 10
+    },
+    "2026-02-18": {
+      "count": 25,
+      "uniques": 17
+    },
+    "2026-02-19": {
+      "count": 41,
+      "uniques": 24
+    },
+    "2026-02-20": {
+      "count": 31,
+      "uniques": 19
+    },
+    "2026-02-21": {
+      "count": 16,
+      "uniques": 11
+    },
+    "2026-02-22": {
+      "count": 14,
+      "uniques": 12
     }
   },
-  "referrers": [],
-  "paths": []
+  "referrers": [
+    {
+      "referrer": "linkedin.com",
+      "count": 4,
+      "uniques": 3
+    },
+    {
+      "referrer": "vishalsachdev.github.io",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "referrer": "com.linkedin.android",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 2,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/skills-sh",
+      "title": "vishalsachdev/skills-sh: Longitudinal analysis of skills.sh ecosystem for vib...",
+      "count": 10,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/tree/main/snapshots",
+      "title": "skills-sh/snapshots at main \u00b7 vishalsachdev/skills-sh \u00b7 GitHub",
+      "count": 3,
+      "uniques": 3
+    }
+  ]
 }

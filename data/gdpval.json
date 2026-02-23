@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -59,6 +59,34 @@
       "uniques": 0
     },
     "2026-02-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
       "count": 0,
       "uniques": 0
     }
@@ -119,13 +147,41 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-18": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
       "count": 2,
-      "uniques": 1
+      "uniques": 2
     }
   ],
   "paths": [
@@ -133,7 +189,7 @@
       "path": "/vishalsachdev/gdpval",
       "title": "vishalsachdev/gdpval: Interactive Streamlit app that helps instructors design...",
       "count": 3,
-      "uniques": 1
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/actions",
@@ -156,6 +212,12 @@
     {
       "path": "/vishalsachdev/gdpval/actions/runs/18141770683",
       "title": "Fix vulnerability scoring and add dynamic redesign suggestions \u00b7 vishalsachde...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/README.md",
+      "title": "gdpval/README.md at main \u00b7 vishalsachdev/gdpval",
       "count": 1,
       "uniques": 1
     }

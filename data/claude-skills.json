@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 1,
   "forks": 1,
   "description": "",
@@ -61,6 +61,34 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-17": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-02-18": {
+      "count": 10,
+      "uniques": 5
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -119,6 +147,34 @@
     "2026-02-15": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-02-16": {
+      "count": 61,
+      "uniques": 55
+    },
+    "2026-02-17": {
+      "count": 31,
+      "uniques": 17
+    },
+    "2026-02-18": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-02-19": {
+      "count": 58,
+      "uniques": 9
+    },
+    "2026-02-20": {
+      "count": 16,
+      "uniques": 9
+    },
+    "2026-02-21": {
+      "count": 30,
+      "uniques": 10
+    },
+    "2026-02-22": {
+      "count": 28,
+      "uniques": 11
     }
   },
   "referrers": [
@@ -141,20 +197,37 @@
       "referrer": "linkedin.com",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "Google",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/claude-skills",
-      "title": "vishalsachdev/claude-skills",
-      "count": 7,
-      "uniques": 4
+      "title": "GitHub - vishalsachdev/claude-skills",
+      "count": 11,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
       "title": "claude-skills/chartjs-generator/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
       "count": 3,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "vishalsachdev/claude-skills",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/HEAD/vibe-coder-sdlc/SKILL.md",
@@ -201,6 +274,36 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/f769feeab171c82a41d50fa7e591aa855d9bd530/vibe-coder-sdlc",
       "title": "claude-skills/vibe-coder-sdlc/references at f769feeab171c82a41d50fa7e591aa855...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/complex-state-management/SKILL.md",
+      "title": "vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/skill-creator/SKILL.md",
+      "title": "claude-skills/skill-creator/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/vercel-react-best-practices/SKILL.md",
+      "title": "vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/complex-state-management",
+      "title": "claude-skills/complex-state-management at main \u00b7 vishalsachdev/claude-skills",
       "count": 1,
       "uniques": 1
     }

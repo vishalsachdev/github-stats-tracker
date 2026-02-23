@@ -1,7 +1,7 @@
 {
   "repo": "build-to-learn",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Building to Learn - A workshop about shifting from teachers as content deliverers to teachers as builders",
@@ -61,6 +61,34 @@
     "2026-02-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-02-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 9,
+      "uniques": 1
     }
   },
   "clones": {
@@ -119,10 +147,56 @@
     "2026-02-15": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-02-16": {
+      "count": 39,
+      "uniques": 18
+    },
+    "2026-02-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-18": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-20": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-02-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-02-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
-  "referrers": [],
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 12,
+      "uniques": 2
+    }
+  ],
   "paths": [
+    {
+      "path": "/vishalsachdev/build-to-learn",
+      "title": "vishalsachdev/build-to-learn: Building to Learn - A workshop about shifting f...",
+      "count": 4,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/tree/main/slides",
+      "title": "build-to-learn/slides at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 2,
+      "uniques": 1
+    },
     {
       "path": "/vishalsachdev/build-to-learn/blob/main/original-outline.md",
       "title": "build-to-learn/original-outline.md at main \u00b7 vishalsachdev/build-to-learn \u00b7 G...",
@@ -132,6 +206,42 @@
     {
       "path": "/vishalsachdev/build-to-learn/blob/main/outline.md",
       "title": "build-to-learn/outline.md at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/blob/main/scripts/new-talk.mjs",
+      "title": "build-to-learn/scripts at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/tree/main",
+      "title": "build-to-learn/slides at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/tree/main/materials",
+      "title": "build-to-learn/ at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/tree/main/scripts",
+      "title": "build-to-learn/ at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/tree/main/slides/2026-01-13-illinois-tech",
+      "title": "build-to-learn/slides at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn/tree/main/slides/2026-05-18-lltlc",
+      "title": "build-to-learn/slides at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
       "count": 1,
       "uniques": 1
     }

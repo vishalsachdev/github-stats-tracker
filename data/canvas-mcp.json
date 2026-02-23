@@ -1,9 +1,9 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-16T19:52:32.634707+00:00",
-  "stars": 59,
-  "forks": 25,
+  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "stars": 61,
+  "forks": 26,
   "description": "A Model Context Protocol server to run locally and connect to a Canvas LMS ",
   "views": {
     "2026-02-02": {
@@ -61,6 +61,34 @@
     "2026-02-15": {
       "count": 28,
       "uniques": 14
+    },
+    "2026-02-16": {
+      "count": 97,
+      "uniques": 33
+    },
+    "2026-02-17": {
+      "count": 133,
+      "uniques": 30
+    },
+    "2026-02-18": {
+      "count": 27,
+      "uniques": 20
+    },
+    "2026-02-19": {
+      "count": 38,
+      "uniques": 17
+    },
+    "2026-02-20": {
+      "count": 44,
+      "uniques": 22
+    },
+    "2026-02-21": {
+      "count": 39,
+      "uniques": 16
+    },
+    "2026-02-22": {
+      "count": 32,
+      "uniques": 17
     }
   },
   "clones": {
@@ -119,32 +147,70 @@
     "2026-02-15": {
       "count": 19,
       "uniques": 9
+    },
+    "2026-02-16": {
+      "count": 411,
+      "uniques": 94
+    },
+    "2026-02-17": {
+      "count": 14,
+      "uniques": 14
+    },
+    "2026-02-18": {
+      "count": 16,
+      "uniques": 10
+    },
+    "2026-02-19": {
+      "count": 7,
+      "uniques": 6
+    },
+    "2026-02-20": {
+      "count": 40,
+      "uniques": 19
+    },
+    "2026-02-21": {
+      "count": 42,
+      "uniques": 20
+    },
+    "2026-02-22": {
+      "count": 86,
+      "uniques": 37
     }
   },
   "referrers": [
     {
       "referrer": "Google",
       "count": 242,
-      "uniques": 158
+      "uniques": 135
     },
     {
       "referrer": "github.com",
-      "count": 72,
-      "uniques": 23
+      "count": 110,
+      "uniques": 27
     },
     {
-      "referrer": "Bing",
-      "count": 22,
-      "uniques": 12
+      "referrer": "claude.ai",
+      "count": 28,
+      "uniques": 1
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
+      "count": 20,
+      "uniques": 7
+    },
+    {
+      "referrer": "Bing",
+      "count": 13,
+      "uniques": 9
+    },
+    {
+      "referrer": "linkedin.com",
       "count": 11,
-      "uniques": 6
+      "uniques": 5
     },
     {
       "referrer": "search.brave.com",
-      "count": 6,
+      "count": 4,
       "uniques": 3
     },
     {
@@ -158,11 +224,6 @@
       "uniques": 2
     },
     {
-      "referrer": "claude.ai",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "referrer": "perplexity.ai",
       "count": 2,
       "uniques": 2
@@ -171,32 +232,78 @@
       "referrer": "vishalsachdev.github.io",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "referrer": "statics.teams.cdn.office.net",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "DuckDuckGo",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "vishalsachdev/canvas-mcp: A Model Context Protocol server to run locally and ...",
-      "count": 335,
-      "uniques": 225
+      "count": 371,
+      "uniques": 219
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
       "title": "canvas-mcp/docs/STUDENT_GUIDE.md at main \u00b7 vishalsachdev/canvas-mcp",
-      "count": 28,
-      "uniques": 22
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main/.claude/skills",
-      "title": "canvas-mcp/.claude/skills at main \u00b7 vishalsachdev/canvas-mcp",
-      "count": 9,
-      "uniques": 8
+      "count": 25,
+      "uniques": 18
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
       "title": "Pull requests \u00b7 vishalsachdev/canvas-mcp",
-      "count": 9,
-      "uniques": 2
+      "count": 16,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main",
+      "title": "vishalsachdev/canvas-mcp: A Model Context Protocol server to run locally and ...",
+      "count": 13,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/commits/main",
+      "title": "Commits \u00b7 vishalsachdev/canvas-mcp",
+      "count": 11,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/commits",
+      "title": "Commits \u00b7 vishalsachdev/canvas-mcp",
+      "count": 10,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
+      "title": "canvas-mcp/src/canvas_mcp at main \u00b7 vishalsachdev/canvas-mcp",
+      "count": 10,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/.claude/skills/canvas-morning-check/SKILL.md",
+      "title": "canvas-mcp/.claude/skills/canvas-morning-check at main \u00b7 vishalsachdev/canvas...",
+      "count": 8,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/.claude/skills",
+      "title": "canvas-mcp/.claude/skills at main \u00b7 vishalsachdev/canvas-mcp",
+      "count": 7,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/releases/tag/v1.0.8",
+      "title": "Release v1.0.8 \u00b7 vishalsachdev/canvas-mcp \u00b7 GitHub",
+      "count": 7,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
@@ -215,12 +322,6 @@
       "title": "canvas-mcp/AGENTS.md at main \u00b7 vishalsachdev/canvas-mcp",
       "count": 5,
       "uniques": 4
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main",
-      "title": "GitHub - vishalsachdev/canvas-mcp: A Model Context Protocol server to run loc...",
-      "count": 5,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pull/71",

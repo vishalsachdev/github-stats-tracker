@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-02-16T19:52:32.634707+00:00",
-  "repos_checked": 69,
-  "repos_with_traffic": 69,
+  "collected_at": "2026-02-23T07:14:20.862439+00:00",
+  "repos_checked": 70,
+  "repos_with_traffic": 70,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -59,6 +59,7 @@
     "nber",
     "openclaw-dashboard",
     "openprose-workspace",
+    "pathshaper",
     "portfolio",
     "practicum",
     "python4class",
