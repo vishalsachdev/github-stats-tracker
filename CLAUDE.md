@@ -52,10 +52,13 @@ Each `data/{repo}.json` stores:
 - `paths` — popular pages (merged across runs)
 
 ### Automation
-- Workflow runs weekly, collects data, rebuilds dashboard, commits, and pushes
+- **Local launchd agent** runs daily at 9am CST via `scripts/collect-and-push.sh`
+  - Plist: `~/Library/LaunchAgents/com.vishal.github-stats.plist`
+  - Logs: `/tmp/github-stats.log` and `/tmp/github-stats-launchd.log`
+  - Check status: `launchctl list | grep github-stats`
+  - Uses `gh auth token` for credentials (no separate PAT needed)
 - GitHub Pages auto-deploys from `docs/` on push
-- `TRAFFIC_TOKEN` secret: PAT with `repo` scope (needed for traffic endpoints on other repos)
-- If the token expires, update the secret at: Settings > Secrets > TRAFFIC_TOKEN
+- GitHub Actions workflow still exists (`.github/workflows/collect-stats.yml`) but is currently blocked
 
 ## Current Focus
 
@@ -68,6 +71,7 @@ Dashboard is live and collecting. Future improvements:
 - [x] Centralized traffic collection for all public repos
 - [x] Static dashboard on GitHub Pages
 - [x] Bot-aware methodology (exclude clones/total views)
+- [x] Local launchd automation (daily 9am, replaces blocked GitHub Actions)
 - [ ] Week-over-week trend arrows on dashboard
 - [ ] Stars time-series (track star count changes over time)
 - [ ] Email/Slack digest of weekly changes
@@ -76,4 +80,5 @@ Dashboard is live and collecting. Future improvements:
 
 | Date | Summary |
 |------|---------|
+| 2026-03-20 | Switched from blocked GitHub Actions to local launchd agent (daily 9am CST). Created `scripts/collect-and-push.sh`. Recovered data gap (last run was Feb 16). 10 new repos discovered. |
 | 2026-02-16 | Initial build: collector, dashboard, GitHub Actions workflow. Security scan of all 98 public repos with gitleaks. Redesigned dashboard to focus on unique visitors + stars after discovering bot inflation in clone data. |
