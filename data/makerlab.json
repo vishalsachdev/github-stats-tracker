@@ -1,7 +1,7 @@
 {
   "repo": "makerlab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Makerlab website ",
@@ -89,6 +89,62 @@
     "2026-02-22": {
       "count": 3,
       "uniques": 1
+    },
+    "2026-03-06": {
+      "count": 4,
+      "uniques": 1
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 7,
+      "uniques": 2
+    },
+    "2026-03-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -175,21 +231,82 @@
     "2026-02-22": {
       "count": 11,
       "uniques": 8
+    },
+    "2026-03-06": {
+      "count": 23,
+      "uniques": 13
+    },
+    "2026-03-07": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 37,
+      "uniques": 17
+    },
+    "2026-03-10": {
+      "count": 22,
+      "uniques": 10
+    },
+    "2026-03-11": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-03-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-13": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-15": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-16": {
+      "count": 20,
+      "uniques": 5
+    },
+    "2026-03-17": {
+      "count": 6,
+      "uniques": 3
+    },
+    "2026-03-18": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 23,
-      "uniques": 2
+      "count": 6,
+      "uniques": 3
+    },
+    {
+      "referrer": "chatwithgpt.substack.com",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/makerlab",
       "title": "vishalsachdev/makerlab: Makerlab website",
-      "count": 16,
-      "uniques": 2
+      "count": 6,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/makerlab/issues/25",
@@ -242,6 +359,48 @@
     {
       "path": "/vishalsachdev/makerlab/issues/31",
       "title": "Staff update: Sanidhya Ghatiya \u00b7 Issue #31 \u00b7 vishalsachdev/makerlab",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/actions",
+      "title": "Workflow runs \u00b7 vishalsachdev/makerlab",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/blob/main/CLAUDE.md",
+      "title": "vishalsachdev/makerlab: Makerlab website",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/blob/main/CNAME",
+      "title": "vishalsachdev/makerlab: Makerlab website",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/tree/main/api",
+      "title": "vishalsachdev/makerlab: Makerlab website",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/tree/main/images",
+      "title": "vishalsachdev/makerlab: Makerlab website",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/tree/main/summer",
+      "title": "vishalsachdev/makerlab: Makerlab website",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/tree/main/summer/camps-2026",
+      "title": "makerlab/summer at main \u00b7 vishalsachdev/makerlab",
       "count": 1,
       "uniques": 1
     }

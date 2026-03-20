@@ -1,8 +1,8 @@
 {
   "repo": "AgentLab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
-  "stars": 2,
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
+  "stars": 3,
   "forks": 0,
   "description": "AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies College of Business exploring how intelligent agent teams can transform learning experiences.",
   "views": {
@@ -89,6 +89,62 @@
     "2026-02-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-03-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 6,
+      "uniques": 1
     }
   },
   "clones": {
@@ -175,9 +231,70 @@
     "2026-02-22": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 106,
+      "uniques": 52
+    },
+    "2026-03-09": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-10": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 29,
+      "uniques": 13
+    },
+    "2026-03-13": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-15": {
+      "count": 51,
+      "uniques": 24
+    },
+    "2026-03-16": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-17": {
+      "count": 8,
+      "uniques": 7
+    },
+    "2026-03-18": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 15,
+      "uniques": 6
+    },
     {
       "referrer": "Google",
       "count": 2,
@@ -188,8 +305,44 @@
     {
       "path": "/vishalsachdev/AgentLab",
       "title": "vishalsachdev/AgentLab: AgentLab - Pioneering Multi-Agent AI for Education. S...",
-      "count": 3,
-      "uniques": 2
+      "count": 9,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/blob/main/CLAUDE.md",
+      "title": "AgentLab/templates at main \u00b7 vishalsachdev/AgentLab",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/blob/main/cognitive-swarm.html",
+      "title": "AgentLab/projects.html at main \u00b7 vishalsachdev/AgentLab",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/blob/main/projects.html",
+      "title": "vishalsachdev/AgentLab: AgentLab - Pioneering Multi-Agent AI for Education. S...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/pull/2",
+      "title": "Add The Cognitive Swarm project to AgentLab site by vishalsachdev \u00b7 Pull Requ...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/stargazers",
+      "title": "Stargazers \u00b7 vishalsachdev/AgentLab",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/tree/main/templates",
+      "title": "AgentLab/cognitive-swarm.html at main \u00b7 vishalsachdev/AgentLab",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }

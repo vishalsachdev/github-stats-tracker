@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -89,6 +89,62 @@
     "2026-02-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 10,
+      "uniques": 3
+    },
+    "2026-03-13": {
+      "count": 10,
+      "uniques": 1
+    },
+    "2026-03-14": {
+      "count": 5,
+      "uniques": 4
+    },
+    "2026-03-15": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-18": {
+      "count": 5,
+      "uniques": 1
+    },
+    "2026-03-19": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -175,21 +231,105 @@
     "2026-02-22": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 54,
+      "uniques": 3
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
+      "referrer": "Google",
+      "count": 17,
+      "uniques": 2
+    },
+    {
       "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "usso.uberinternal.com",
       "count": 1,
       "uniques": 1
     }
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/database-management",
+      "title": "vishalsachdev/database-management: Database Management - An intelligent textb...",
+      "count": 9,
+      "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/SKILL.md at m...",
+      "count": 9,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/database-management/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
       "title": "database-management/.claude-skills/.claude/hooks/track-prompts.sh at bf227607...",
       "count": 5,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/README.md at ...",
+      "count": 5,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-prompts.sh",
@@ -198,9 +338,9 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
-      "count": 4,
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
+      "title": "database-management/.claude-skills/skills at main \u00b7 vishalsachdev/database-ma...",
+      "count": 3,
       "uniques": 3
     },
     {
@@ -210,14 +350,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
-      "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-management",
-      "count": 1,
-      "uniques": 1
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",
+      "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-managemen...",
+      "count": 2,
+      "uniques": 2
     },
     {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",
-      "title": "vishalsachdev/database-management: Database Management - An intelligent textb...",
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-management",
       "count": 1,
       "uniques": 1
     },
@@ -248,6 +388,36 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/scripts",
       "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-management",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/book-metrics-generator/SKILL.md",
+      "title": "database-management/.claude-skills/skills/book-metrics-generator/SKILL.md at ...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/chapter-content-generator/SKILL.md",
+      "title": "database-management/.claude-skills/skills/chapter-content-generator at main \u00b7...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/analyze-skills.py",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/README.md at ...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-skill-end.sh",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/scripts/track...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-skill-start.sh",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/scripts at ma...",
       "count": 1,
       "uniques": 1
     }

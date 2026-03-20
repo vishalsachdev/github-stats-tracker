@@ -1,0 +1,133 @@
+{
+  "repo": "stripe-annual-letter-2025",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
+  "stars": 0,
+  "forks": 0,
+  "description": "Interactive exploration of Stripe's 2025 annual letter by Patrick & John Collison",
+  "views": {
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  "referrers": [],
+  "paths": [
+    {
+      "path": "/vishalsachdev/stripe-annual-letter-2025/blob/79544af7720efc50951471e121cdface5dd6395c/.github/workflows/pages.yml",
+      "title": "stripe-annual-letter-2025/.github/workflows/pages.yml at 79544af7720efc509514...",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
+}

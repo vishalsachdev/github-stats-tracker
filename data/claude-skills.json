@@ -1,9 +1,9 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
   "stars": 1,
-  "forks": 1,
+  "forks": 2,
   "description": "",
   "views": {
     "2026-02-02": {
@@ -87,6 +87,62 @@
       "uniques": 0
     },
     "2026-02-22": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-07": {
+      "count": 8,
+      "uniques": 2
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 6,
+      "uniques": 1
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-16": {
+      "count": 8,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
       "count": 2,
       "uniques": 2
     }
@@ -175,9 +231,70 @@
     "2026-02-22": {
       "count": 28,
       "uniques": 11
+    },
+    "2026-03-06": {
+      "count": 17,
+      "uniques": 9
+    },
+    "2026-03-07": {
+      "count": 20,
+      "uniques": 11
+    },
+    "2026-03-08": {
+      "count": 17,
+      "uniques": 9
+    },
+    "2026-03-09": {
+      "count": 26,
+      "uniques": 12
+    },
+    "2026-03-10": {
+      "count": 24,
+      "uniques": 10
+    },
+    "2026-03-11": {
+      "count": 26,
+      "uniques": 14
+    },
+    "2026-03-12": {
+      "count": 68,
+      "uniques": 12
+    },
+    "2026-03-13": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-03-14": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-03-15": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-03-16": {
+      "count": 22,
+      "uniques": 14
+    },
+    "2026-03-17": {
+      "count": 23,
+      "uniques": 15
+    },
+    "2026-03-18": {
+      "count": 24,
+      "uniques": 14
+    },
+    "2026-03-19": {
+      "count": 77,
+      "uniques": 14
     }
   },
   "referrers": [
+    {
+      "referrer": "Bing",
+      "count": 8,
+      "uniques": 2
+    },
     {
       "referrer": "skills.sh",
       "count": 4,
@@ -202,20 +319,19 @@
       "referrer": "Google",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "DuckDuckGo",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/claude-skills",
-      "title": "GitHub - vishalsachdev/claude-skills",
-      "count": 11,
-      "uniques": 9
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "claude-skills/chartjs-generator/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
-      "count": 3,
-      "uniques": 1
+      "title": "vishalsachdev/claude-skills",
+      "count": 9,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
@@ -228,6 +344,24 @@
       "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "claude-skills/paper-writing/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/codebase-singularity",
+      "title": "claude-skills/codebase-singularity at main \u00b7 vishalsachdev/claude-skills",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "claude-skills/chartjs-generator at main \u00b7 vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/HEAD/vibe-coder-sdlc/SKILL.md",
@@ -284,12 +418,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/skill-creator/SKILL.md",
       "title": "claude-skills/skill-creator/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
       "count": 1,
@@ -304,6 +432,42 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/complex-state-management",
       "title": "claude-skills/complex-state-management at main \u00b7 vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/ai-model-cascade/SKILL.md",
+      "title": "claude-skills/ai-model-cascade at main \u00b7 vishalsachdev/claude-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/SKILL.md",
+      "title": "claude-skills/install-skill-tracker/SKILL.md at main \u00b7 vishalsachdev/claude-s...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
+      "title": "claude-skills/install-skill-tracker/assets/settings.json at main \u00b7 vishalsach...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/scripts/track-prompts.sh",
+      "title": "claude-skills/install-skill-tracker/scripts/track-prompts.sh at main \u00b7 vishal...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
+      "title": "claude-skills/remotion-best-practices/rules/can-decode.md at main \u00b7 vishalsac...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/import-srt-captions.md",
+      "title": "claude-skills/remotion-best-practices/rules/import-srt-captions.md at main \u00b7 ...",
       "count": 1,
       "uniques": 1
     }

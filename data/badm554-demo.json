@@ -1,0 +1,150 @@
+{
+  "repo": "badm554-demo",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
+  "stars": 0,
+  "forks": 0,
+  "description": "",
+  "views": {
+    "2026-03-06": {
+      "count": 4,
+      "uniques": 2
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  "clones": {
+    "2026-03-06": {
+      "count": 5,
+      "uniques": 5
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "Google",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/badm554-demo",
+      "title": "vishalsachdev/badm554-demo",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/badm554-demo/commits",
+      "title": "Commits \u00b7 vishalsachdev/badm554-demo",
+      "count": 2,
+      "uniques": 1
+    }
+  ]
+}

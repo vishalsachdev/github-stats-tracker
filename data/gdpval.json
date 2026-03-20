@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -87,6 +87,62 @@
       "uniques": 0
     },
     "2026-02-22": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 17,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
       "count": 0,
       "uniques": 0
     }
@@ -175,21 +231,95 @@
     "2026-02-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 2,
-      "uniques": 2
+      "count": 6,
+      "uniques": 4
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/gdpval",
       "title": "vishalsachdev/gdpval: Interactive Streamlit app that helps instructors design...",
-      "count": 3,
-      "uniques": 2
+      "count": 7,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
+      "title": "gdpval/CLAUDE.md at main \u00b7 vishalsachdev/gdpval",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/task_schema.md",
+      "title": "gdpval/data/reference_links.csv at main \u00b7 vishalsachdev/gdpval",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/tasks.parquet",
+      "title": "gdpval/data/task_schema.md at main \u00b7 vishalsachdev/gdpval",
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/gdpval/actions",
@@ -217,7 +347,37 @@
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/README.md",
-      "title": "gdpval/README.md at main \u00b7 vishalsachdev/gdpval",
+      "title": "vishalsachdev/gdpval: Interactive Streamlit app that helps instructors design...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/AGENTS.md",
+      "title": "gdpval/docs at main \u00b7 vishalsachdev/gdpval",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/CLAUDE.md",
+      "title": "gdpval/AGENTS.md at main \u00b7 vishalsachdev/gdpval",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/by_occupation.csv",
+      "title": "gdpval/data at main \u00b7 vishalsachdev/gdpval",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/examples_per_sector.md",
+      "title": "gdpval/data at main \u00b7 vishalsachdev/gdpval",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
+      "title": "gdpval/data/examples_per_sector.md at main \u00b7 vishalsachdev/gdpval",
       "count": 1,
       "uniques": 1
     }

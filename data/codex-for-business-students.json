@@ -1,0 +1,218 @@
+{
+  "repo": "codex-for-business-students",
+  "owner": "vishalsachdev",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
+  "stars": 0,
+  "forks": 0,
+  "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
+  "views": {
+    "2026-03-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-07": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-03-16": {
+      "count": 53,
+      "uniques": 4
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 15,
+      "uniques": 14
+    }
+  },
+  "clones": {
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  "referrers": [
+    {
+      "referrer": "linkedin.com",
+      "count": 8,
+      "uniques": 8
+    },
+    {
+      "referrer": "Google",
+      "count": 6,
+      "uniques": 6
+    },
+    {
+      "referrer": "com.linkedin.android",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "referrer": "chatwithgpt.substack.com",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "lnkd.in",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/codex-for-business-students",
+      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
+      "count": 27,
+      "uniques": 24
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
+      "title": "codex-for-business-students/articles at main \u00b7 vishalsachdev/codex-for-busine...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario",
+      "title": "codex-for-business-students/business-scenario at main \u00b7 vishalsachdev/codex-f...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/docs",
+      "title": "codex-for-business-students/docs at main \u00b7 vishalsachdev/codex-for-business-s...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
+      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals/1.6-project-memory",
+      "title": "codex-for-business-students/lesson-modules/1-fundamentals at main \u00b7 vishalsac...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding",
+      "title": "codex-for-business-students/lesson-modules/2-vibe-coding at main \u00b7 vishalsach...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding/2.1-setup",
+      "title": "codex-for-business-students/lesson-modules/2-vibe-coding at main \u00b7 vishalsach...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/3-capstone/3.1-your-project",
+      "title": "codex-for-business-students/lesson-modules/3-capstone/3.1-your-project at mai...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
+      "title": "codex-for-business-students/templates at main \u00b7 vishalsachdev/codex-for-busin...",
+      "count": 2,
+      "uniques": 1
+    }
+  ]
+}

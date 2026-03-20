@@ -1,8 +1,8 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
-  "stars": 3,
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
+  "stars": 4,
   "forks": 0,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
   "views": {
@@ -87,6 +87,62 @@
       "uniques": 0
     },
     "2026-02-22": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 6,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-15": {
+      "count": 4,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
       "count": 0,
       "uniques": 0
     }
@@ -175,21 +231,129 @@
     "2026-02-22": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-11": {
+      "count": 12,
+      "uniques": 3
+    },
+    "2026-03-12": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
+      "referrer": "Google",
+      "count": 7,
+      "uniques": 2
+    },
+    {
       "referrer": "github.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "claude.ai",
+      "count": 1,
       "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/learning-design-pillars",
+      "title": "GitHub - vishalsachdev/learning-design-pillars: Claude Code skills for applyi...",
+      "count": 6,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/blob/main/articles/2024-12-27-cover-image.png",
+      "title": "learning-design-pillars/articles at main \u00b7 vishalsachdev/learning-design-pill...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/blob/main/articles/2024-12-27-pdf-to-shareable-skills.html",
+      "title": "learning-design-pillars/articles at main \u00b7 vishalsachdev/learning-design-pill...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/blob/main/articles/2024-12-27-substack-banner.png",
+      "title": "learning-design-pillars/articles at main \u00b7 vishalsachdev/learning-design-pill...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/blob/main/articles/2024-12-27-twitter-card.png",
+      "title": "learning-design-pillars/articles at main \u00b7 vishalsachdev/learning-design-pill...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main/articles",
       "title": "vishalsachdev/learning-design-pillars: Claude Code skills for applying eviden...",
-      "count": 3,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main/skills",
+      "title": "vishalsachdev/learning-design-pillars: Claude Code skills for applying eviden...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-course-audit",
+      "title": "learning-design-pillars/skills at main \u00b7 vishalsachdev/learning-design-pillars",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "repo": "openclaw-dashboard",
   "owner": "vishalsachdev",
-  "last_updated": "2026-02-23T07:14:20.862439+00:00",
+  "last_updated": "2026-03-20T23:10:12.003731+00:00",
   "stars": 0,
-  "forks": 1,
+  "forks": 2,
   "description": "Streamlit dashboard for tracking the OpenClaw AI agent ecosystem on Base blockchain",
   "views": {
     "2026-02-02": {
@@ -89,6 +89,62 @@
     "2026-02-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-14": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-17": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-19": {
+      "count": 7,
+      "uniques": 4
     }
   },
   "clones": {
@@ -175,13 +231,69 @@
     "2026-02-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-07": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-10": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-11": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-12": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-13": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-03-14": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-03-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-18": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-03-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 18,
-      "uniques": 14
+      "count": 5,
+      "uniques": 4
     },
     {
       "referrer": "yandex.ru",
@@ -198,8 +310,8 @@
     {
       "path": "/vishalsachdev/openclaw-dashboard",
       "title": "vishalsachdev/openclaw-dashboard: Streamlit dashboard for tracking the OpenCl...",
-      "count": 19,
-      "uniques": 18
+      "count": 13,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/openclaw-dashboard/fork",
