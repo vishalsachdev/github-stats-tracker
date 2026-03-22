@@ -1,19 +1,11 @@
 {
-  "repo": "canvas-lms-plugin",
+  "repo": "giesclaw",
   "owner": "vishalsachdev",
   "last_updated": "2026-03-22T14:00:05.309338+00:00",
   "stars": 0,
   "forks": 0,
-  "description": "Canvas LMS plugin for Claude Code & Cowork \u2014 manage pages, assignments, modules, and more",
+  "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
   "views": {
-    "2026-03-06": {
-      "count": 0,
-      "uniques": 0
-    },
-    "2026-03-07": {
-      "count": 0,
-      "uniques": 0
-    },
     "2026-03-08": {
       "count": 0,
       "uniques": 0
@@ -72,14 +64,6 @@
     }
   },
   "clones": {
-    "2026-03-06": {
-      "count": 0,
-      "uniques": 0
-    },
-    "2026-03-07": {
-      "count": 0,
-      "uniques": 0
-    },
     "2026-03-08": {
       "count": 0,
       "uniques": 0
@@ -93,8 +77,8 @@
       "uniques": 0
     },
     "2026-03-11": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-03-12": {
       "count": 0,
@@ -113,28 +97,28 @@
       "uniques": 0
     },
     "2026-03-16": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-03-17": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-03-18": {
       "count": 0,
       "uniques": 0
     },
     "2026-03-19": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "2026-03-20": {
       "count": 0,
       "uniques": 0
     },
     "2026-03-21": {
-      "count": 1,
-      "uniques": 1
+      "count": 77,
+      "uniques": 31
     }
   },
   "referrers": [],

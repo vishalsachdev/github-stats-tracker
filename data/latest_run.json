@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-03-20T23:10:12.003731+00:00",
-  "repos_checked": 79,
-  "repos_with_traffic": 79,
+  "collected_at": "2026-03-22T14:00:05.309338+00:00",
+  "repos_checked": 81,
+  "repos_with_traffic": 81,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -23,6 +23,7 @@
     "badm554-demo",
     "badm554-survey-bot",
     "build-to-learn",
+    "businessclaw-infinite",
     "canvas-discussion-analysis",
     "canvas-lms-mcp-extension",
     "canvas-lms-plugin",
@@ -44,6 +45,7 @@
     "gdpval",
     "genai-literacy",
     "gies-ai-curriculum",
+    "giesclaw",
     "gitdemo",
     "github-pages-with-jekyll",
     "github-stats-tracker",

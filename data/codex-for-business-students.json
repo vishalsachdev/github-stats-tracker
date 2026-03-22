@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-20T23:10:12.003731+00:00",
+  "last_updated": "2026-03-22T14:00:05.309338+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -61,6 +61,14 @@
     "2026-03-19": {
       "count": 15,
       "uniques": 14
+    },
+    "2026-03-20": {
+      "count": 23,
+      "uniques": 20
+    },
+    "2026-03-21": {
+      "count": 11,
+      "uniques": 7
     }
   },
   "clones": {
@@ -119,21 +127,29 @@
     "2026-03-19": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-21": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 8,
-      "uniques": 8
-    },
-    {
-      "referrer": "Google",
-      "count": 6,
-      "uniques": 6
+      "count": 28,
+      "uniques": 26
     },
     {
       "referrer": "com.linkedin.android",
+      "count": 9,
+      "uniques": 7
+    },
+    {
+      "referrer": "Google",
       "count": 4,
       "uniques": 4
     },
@@ -157,14 +173,14 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 27,
-      "uniques": 24
+      "count": 53,
+      "uniques": 47
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
       "title": "codex-for-business-students/articles at main \u00b7 vishalsachdev/codex-for-busine...",
-      "count": 2,
-      "uniques": 1
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario",
@@ -213,6 +229,12 @@
       "title": "codex-for-business-students/templates at main \u00b7 vishalsachdev/codex-for-busin...",
       "count": 2,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/AGENTS.md",
+      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
+      "count": 2,
+      "uniques": 2
     }
   ]
 }
