@@ -1,7 +1,7 @@
 {
   "repo": "giesclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-22T14:00:05.309338+00:00",
+  "last_updated": "2026-03-23T14:00:07.076057+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
@@ -61,6 +61,10 @@
     "2026-03-21": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-22": {
+      "count": 5,
+      "uniques": 2
     }
   },
   "clones": {
@@ -119,8 +123,42 @@
     "2026-03-21": {
       "count": 77,
       "uniques": 31
+    },
+    "2026-03-22": {
+      "count": 287,
+      "uniques": 85
     }
   },
-  "referrers": [],
-  "paths": []
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "referrer": "giesclaw.illinihunt.org",
+      "count": 2,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/giesclaw",
+      "title": "vishalsachdev/giesclaw: GiesClaw \u2014 Autonomous business research platform for ...",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/issues",
+      "title": "GitHub \u00b7 Where software is built",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/issues/4",
+      "title": "[Bug] full audit \u00b7 Issue #4 \u00b7 vishalsachdev/giesclaw",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
 }
