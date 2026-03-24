@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-23T14:00:07.076057+00:00",
+  "last_updated": "2026-03-24T14:00:11.881747+00:00",
   "stars": 3,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -157,6 +157,10 @@
     "2026-03-22": {
       "count": 5,
       "uniques": 1
+    },
+    "2026-03-23": {
+      "count": 8,
+      "uniques": 2
     }
   },
   "clones": {
@@ -311,6 +315,10 @@
     "2026-03-22": {
       "count": 50,
       "uniques": 28
+    },
+    "2026-03-23": {
+      "count": 43,
+      "uniques": 29
     }
   },
   "referrers": [
@@ -321,7 +329,12 @@
     },
     {
       "referrer": "linkedin.com",
-      "count": 1,
+      "count": 5,
+      "uniques": 2
+    },
+    {
+      "referrer": "Bing",
+      "count": 4,
       "uniques": 1
     },
     {
@@ -339,8 +352,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
-      "count": 18,
-      "uniques": 14
+      "count": 21,
+      "uniques": 16
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
@@ -385,14 +398,20 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
-      "title": "claude-code-skills/skills/paper-writing/SKILL.md at main \u00b7 vishalsachdev/clau...",
-      "count": 1,
+      "path": "/vishalsachdev/claude-code-skills/tree/main",
+      "title": "claude-code-skills/skill-specs at main \u00b7 vishalsachdev/claude-code-skills",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/releases",
+      "title": "Releases \u00b7 vishalsachdev/claude-code-skills",
+      "count": 2,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/tree/main",
-      "title": "claude-code-skills/skills/paper-writing at main \u00b7 vishalsachdev/claude-code-s...",
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
+      "title": "claude-code-skills/skills/paper-writing/SKILL.md at main \u00b7 vishalsachdev/clau...",
       "count": 1,
       "uniques": 1
     },
@@ -405,6 +424,18 @@
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/.github/workflows",
       "title": "claude-code-skills/.github/workflows at main \u00b7 vishalsachdev/claude-code-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/qm-canvas-evaluator-spec.md",
+      "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skill-specs",
+      "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
       "count": 1,
       "uniques": 1
     }

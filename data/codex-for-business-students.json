@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-23T14:00:07.076057+00:00",
+  "last_updated": "2026-03-24T14:00:11.881747+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -73,6 +73,10 @@
     "2026-03-22": {
       "count": 12,
       "uniques": 10
+    },
+    "2026-03-23": {
+      "count": 24,
+      "uniques": 14
     }
   },
   "clones": {
@@ -143,36 +147,40 @@
     "2026-03-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-23": {
+      "count": 22,
+      "uniques": 11
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 33,
-      "uniques": 31
+      "count": 49,
+      "uniques": 37
     },
     {
       "referrer": "com.linkedin.android",
-      "count": 10,
-      "uniques": 8
+      "count": 12,
+      "uniques": 10
     },
     {
       "referrer": "Google",
-      "count": 4,
-      "uniques": 4
-    },
-    {
-      "referrer": "chatwithgpt.substack.com",
-      "count": 1,
-      "uniques": 1
+      "count": 5,
+      "uniques": 5
     },
     {
       "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "lnkd.in",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "chatwithgpt.substack.com",
       "count": 1,
       "uniques": 1
     }
@@ -181,12 +189,24 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 64,
-      "uniques": 54
+      "count": 78,
+      "uniques": 66
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
+      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
+      "count": 5,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
       "title": "codex-for-business-students/articles at main \u00b7 vishalsachdev/codex-for-busine...",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
+      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
       "count": 3,
       "uniques": 2
     },
@@ -199,12 +219,6 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/docs",
       "title": "codex-for-business-students/docs at main \u00b7 vishalsachdev/codex-for-business-s...",
-      "count": 2,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
-      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
       "count": 2,
       "uniques": 1
     },
@@ -233,14 +247,26 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
-      "title": "codex-for-business-students/templates at main \u00b7 vishalsachdev/codex-for-busin...",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/AGENTS.md",
       "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/templates/business-model-canvas.md",
+      "title": "codex-for-business-students/templates at main \u00b7 vishalsachdev/codex-for-busin...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/templates/competitive-analysis.md",
+      "title": "codex-for-business-students/templates at main \u00b7 vishalsachdev/codex-for-busin...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
+      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
       "count": 2,
       "uniques": 2
     }
