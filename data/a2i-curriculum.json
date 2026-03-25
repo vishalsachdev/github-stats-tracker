@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-24T14:00:11.881747+00:00",
+  "last_updated": "2026-03-25T14:00:05.223302+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -161,6 +161,10 @@
     "2026-03-23": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-24": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -319,8 +323,25 @@
     "2026-03-23": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-24": {
+      "count": 1,
+      "uniques": 1
     }
   },
-  "referrers": [],
-  "paths": []
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/a2i-curriculum",
+      "title": "vishalsachdev/a2i-curriculum",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
 }
