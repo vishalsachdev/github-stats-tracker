@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-25T14:00:05.223302+00:00",
+  "last_updated": "2026-03-26T14:00:13.176890+00:00",
   "stars": 1,
   "forks": 2,
   "description": "",
@@ -165,6 +165,10 @@
     "2026-03-24": {
       "count": 14,
       "uniques": 2
+    },
+    "2026-03-25": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -327,13 +331,17 @@
     "2026-03-24": {
       "count": 19,
       "uniques": 11
+    },
+    "2026-03-25": {
+      "count": 16,
+      "uniques": 8
     }
   },
   "referrers": [
     {
       "referrer": "skillsplayground.com",
-      "count": 19,
-      "uniques": 3
+      "count": 21,
+      "uniques": 4
     },
     {
       "referrer": "Bing",
@@ -385,14 +393,14 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "vishalsachdev/claude-skills",
-      "count": 13,
-      "uniques": 10
+      "count": 14,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
-      "count": 5,
-      "uniques": 3
+      "count": 6,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",

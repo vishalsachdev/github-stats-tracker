@@ -1,7 +1,7 @@
 {
   "repo": "giesclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-25T14:00:05.223302+00:00",
+  "last_updated": "2026-03-26T14:00:13.176890+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
@@ -73,6 +73,10 @@
     "2026-03-24": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-25": {
+      "count": 6,
+      "uniques": 1
     }
   },
   "clones": {
@@ -143,13 +147,17 @@
     "2026-03-24": {
       "count": 171,
       "uniques": 35
+    },
+    "2026-03-25": {
+      "count": 20,
+      "uniques": 6
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 6,
-      "uniques": 3
+      "count": 12,
+      "uniques": 4
     },
     {
       "referrer": "giesclaw.illinihunt.org",
@@ -161,8 +169,8 @@
     {
       "path": "/vishalsachdev/giesclaw",
       "title": "vishalsachdev/giesclaw: GiesClaw \u2014 Autonomous business research platform for ...",
-      "count": 5,
-      "uniques": 3
+      "count": 6,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/giesclaw/issues",
@@ -175,6 +183,24 @@
       "title": "[Bug] full audit \u00b7 Issue #4 \u00b7 vishalsachdev/giesclaw",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/blame/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
+      "title": "giesclaw/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html a...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/blob/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
+      "title": "Blaming giesclaw/articles/2026-03-22-the-classroom-where-ai-and-students-argu...",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/actions",
+      "title": "Actions \u00b7 vishalsachdev/giesclaw \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }
