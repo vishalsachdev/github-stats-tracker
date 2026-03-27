@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-26T14:00:13.176890+00:00",
+  "last_updated": "2026-03-27T14:00:08.486633+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -169,6 +169,10 @@
     "2026-03-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-26": {
+      "count": 8,
+      "uniques": 2
     }
   },
   "clones": {
@@ -335,13 +339,17 @@
     "2026-03-25": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-26": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 17,
-      "uniques": 2
+      "count": 9,
+      "uniques": 1
     },
     {
       "referrer": "github.com",
@@ -364,7 +372,7 @@
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
       "title": "database-management/.claude-skills/skills/install-skill-tracker/SKILL.md at m...",
-      "count": 9,
+      "count": 6,
       "uniques": 3
     },
     {
@@ -372,12 +380,6 @@
       "title": "database-management/.claude-skills/.claude/hooks/track-prompts.sh at bf227607...",
       "count": 5,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
-      "title": "database-management/.claude-skills/skills/install-skill-tracker/README.md at ...",
-      "count": 5,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
@@ -394,20 +396,38 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
-      "count": 4,
-      "uniques": 3
+      "count": 5,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/README.md at ...",
+      "count": 3,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
-      "count": 2,
-      "uniques": 1
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",
       "title": "database-management/.claude-skills/.claude/hooks at bf2276079b704f5ac6420cf27...",
       "count": 2,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/plugins",
+      "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-managemen...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.github/workflows",
+      "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-prompts.sh",

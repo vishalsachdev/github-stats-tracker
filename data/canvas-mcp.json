@@ -1,8 +1,8 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-26T14:00:13.176890+00:00",
-  "stars": 82,
+  "last_updated": "2026-03-27T14:00:08.486633+00:00",
+  "stars": 84,
   "forks": 30,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
   "views": {
@@ -169,6 +169,10 @@
     "2026-03-25": {
       "count": 83,
       "uniques": 51
+    },
+    "2026-03-26": {
+      "count": 83,
+      "uniques": 44
     }
   },
   "clones": {
@@ -335,33 +339,42 @@
     "2026-03-25": {
       "count": 25,
       "uniques": 16
+    },
+    "2026-03-26": {
+      "count": 34,
+      "uniques": 22
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 669,
-      "uniques": 340
+      "count": 640,
+      "uniques": 331
     },
     {
       "referrer": "github.com",
-      "count": 118,
-      "uniques": 48
+      "count": 121,
+      "uniques": 51
     },
     {
       "referrer": "search.brave.com",
-      "count": 44,
+      "count": 45,
       "uniques": 13
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
-      "count": 43,
-      "uniques": 14
+      "count": 44,
+      "uniques": 17
     },
     {
       "referrer": "Bing",
       "count": 21,
-      "uniques": 16
+      "uniques": 15
+    },
+    {
+      "referrer": "statics.teams.cdn.office.net",
+      "count": 12,
+      "uniques": 3
     },
     {
       "referrer": "linkedin.com",
@@ -369,19 +382,19 @@
       "uniques": 5
     },
     {
-      "referrer": "DuckDuckGo",
+      "referrer": "mcpservers.org",
       "count": 8,
+      "uniques": 3
+    },
+    {
+      "referrer": "DuckDuckGo",
+      "count": 6,
       "uniques": 4
     },
     {
       "referrer": "perplexity.ai",
-      "count": 5,
-      "uniques": 3
-    },
-    {
-      "referrer": "mcpservers.org",
       "count": 4,
-      "uniques": 2
+      "uniques": 3
     },
     {
       "referrer": "claude.ai",
@@ -407,25 +420,20 @@
       "referrer": "vishalsachdev.github.io",
       "count": 2,
       "uniques": 2
-    },
-    {
-      "referrer": "statics.teams.cdn.office.net",
-      "count": 2,
-      "uniques": 2
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 747,
-      "uniques": 484
+      "count": 754,
+      "uniques": 483
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 53,
-      "uniques": 40
+      "count": 51,
+      "uniques": 39
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
@@ -436,32 +444,32 @@
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 29,
+      "count": 26,
       "uniques": 16
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "GitHub \u00b7 Where software is built",
-      "count": 25,
-      "uniques": 17
+      "count": 26,
+      "uniques": 18
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 20,
-      "uniques": 18
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main",
-      "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 17,
-      "uniques": 12
+      "count": 19,
+      "uniques": 17
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
       "title": "Pull requests \u00b7 vishalsachdev/canvas-mcp",
       "count": 16,
       "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main",
+      "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
+      "count": 14,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp/code_api",
@@ -492,6 +500,12 @@
       "title": "Commits \u00b7 vishalsachdev/canvas-mcp",
       "count": 10,
       "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/.claude",
+      "title": "GitHub - vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 ag...",
+      "count": 9,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/.claude/skills/canvas-morning-check/SKILL.md",

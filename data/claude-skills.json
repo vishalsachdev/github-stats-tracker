@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-26T14:00:13.176890+00:00",
+  "last_updated": "2026-03-27T14:00:08.486633+00:00",
   "stars": 1,
   "forks": 2,
   "description": "",
@@ -169,6 +169,10 @@
     "2026-03-25": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-03-26": {
+      "count": 9,
+      "uniques": 4
     }
   },
   "clones": {
@@ -335,6 +339,10 @@
     "2026-03-25": {
       "count": 16,
       "uniques": 8
+    },
+    "2026-03-26": {
+      "count": 25,
+      "uniques": 15
     }
   },
   "referrers": [
@@ -393,8 +401,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "vishalsachdev/claude-skills",
-      "count": 14,
-      "uniques": 11
+      "count": 13,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
@@ -405,14 +413,14 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "claude-skills/SKILL_CREATION_GUIDE.md at main \u00b7 vishalsachdev/claude-skills \u00b7...",
-      "count": 4,
-      "uniques": 4
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "claude-skills/chartjs-generator at main \u00b7 vishalsachdev/claude-skills",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
@@ -423,6 +431,12 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
       "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "claude-skills/quiz-generator at main \u00b7 vishalsachdev/claude-skills \u00b7 GitHub",
       "count": 3,
       "uniques": 2
     },

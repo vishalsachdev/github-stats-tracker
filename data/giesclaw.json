@@ -1,7 +1,7 @@
 {
   "repo": "giesclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-26T14:00:13.176890+00:00",
+  "last_updated": "2026-03-27T14:00:08.486633+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
@@ -77,6 +77,10 @@
     "2026-03-25": {
       "count": 6,
       "uniques": 1
+    },
+    "2026-03-26": {
+      "count": 7,
+      "uniques": 1
     }
   },
   "clones": {
@@ -151,12 +155,16 @@
     "2026-03-25": {
       "count": 20,
       "uniques": 6
+    },
+    "2026-03-26": {
+      "count": 16,
+      "uniques": 10
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 12,
+      "count": 19,
       "uniques": 4
     },
     {
@@ -169,13 +177,13 @@
     {
       "path": "/vishalsachdev/giesclaw",
       "title": "vishalsachdev/giesclaw: GiesClaw \u2014 Autonomous business research platform for ...",
-      "count": 6,
+      "count": 7,
       "uniques": 4
     },
     {
       "path": "/vishalsachdev/giesclaw/issues",
       "title": "GitHub \u00b7 Where software is built",
-      "count": 2,
+      "count": 5,
       "uniques": 2
     },
     {
@@ -199,6 +207,24 @@
     {
       "path": "/vishalsachdev/giesclaw/actions",
       "title": "Actions \u00b7 vishalsachdev/giesclaw \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/issues/6",
+      "title": "[Bug] Contributing insight \u00b7 Issue #6 \u00b7 vishalsachdev/giesclaw",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/issues/8",
+      "title": "[Feature] Change contribute button \u00b7 Issue #8 \u00b7 vishalsachdev/giesclaw",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw/pulse",
+      "title": "Pulse \u00b7 vishalsachdev/giesclaw",
       "count": 1,
       "uniques": 1
     }
