@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-27T14:00:08.486633+00:00",
+  "last_updated": "2026-03-28T14:00:07.608801+00:00",
   "stars": 1,
   "forks": 2,
   "description": "",
@@ -173,6 +173,10 @@
     "2026-03-26": {
       "count": 9,
       "uniques": 4
+    },
+    "2026-03-27": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -343,6 +347,10 @@
     "2026-03-26": {
       "count": 25,
       "uniques": 15
+    },
+    "2026-03-27": {
+      "count": 24,
+      "uniques": 13
     }
   },
   "referrers": [
@@ -401,8 +409,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "vishalsachdev/claude-skills",
-      "count": 13,
-      "uniques": 10
+      "count": 14,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",

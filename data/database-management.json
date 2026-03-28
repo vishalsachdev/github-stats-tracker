@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-27T14:00:08.486633+00:00",
+  "last_updated": "2026-03-28T14:00:07.608801+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -173,6 +173,10 @@
     "2026-03-26": {
       "count": 8,
       "uniques": 2
+    },
+    "2026-03-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -343,12 +347,16 @@
     "2026-03-26": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-27": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 9,
+      "count": 2,
       "uniques": 1
     },
     {
@@ -366,14 +374,8 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "vishalsachdev/database-management: Database Management - An intelligent textb...",
-      "count": 12,
-      "uniques": 11
-    },
-    {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
-      "title": "database-management/.claude-skills/skills/install-skill-tracker/SKILL.md at m...",
-      "count": 6,
-      "uniques": 3
+      "count": 11,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/database-management/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
@@ -382,22 +384,28 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/SKILL.md at m...",
+      "count": 4,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
       "title": "database-management/.claude-skills/skills at main \u00b7 vishalsachdev/database-ma...",
-      "count": 5,
-      "uniques": 4
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",
       "title": "database-management/.claude-skills at main \u00b7 vishalsachdev/database-managemen...",
-      "count": 5,
-      "uniques": 4
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
-      "count": 5,
-      "uniques": 4
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
