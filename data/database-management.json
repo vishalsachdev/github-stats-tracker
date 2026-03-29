@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-28T14:00:07.608801+00:00",
+  "last_updated": "2026-03-29T14:14:33.213821+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -175,6 +175,10 @@
       "uniques": 2
     },
     "2026-03-27": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-03-28": {
       "count": 0,
       "uniques": 0
     }
@@ -351,6 +355,10 @@
     "2026-03-27": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-28": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -374,20 +382,14 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "vishalsachdev/database-management: Database Management - An intelligent textb...",
-      "count": 11,
-      "uniques": 10
+      "count": 9,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/database-management/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
       "title": "database-management/.claude-skills/.claude/hooks/track-prompts.sh at bf227607...",
       "count": 5,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
-      "title": "database-management/.claude-skills/skills/install-skill-tracker/SKILL.md at m...",
-      "count": 4,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
@@ -417,6 +419,12 @@
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
+      "title": "database-management/.claude-skills/skills/install-skill-tracker/SKILL.md at m...",
+      "count": 2,
       "uniques": 2
     },
     {

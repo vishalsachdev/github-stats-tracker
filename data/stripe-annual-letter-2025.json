@@ -1,7 +1,7 @@
 {
   "repo": "stripe-annual-letter-2025",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-28T14:00:07.608801+00:00",
+  "last_updated": "2026-03-29T14:14:33.213821+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Interactive exploration of Stripe's 2025 annual letter by Patrick & John Collison",
@@ -93,6 +93,10 @@
     "2026-03-27": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-28": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -183,6 +187,10 @@
     "2026-03-27": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-03-28": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [],
@@ -190,6 +198,12 @@
     {
       "path": "/vishalsachdev/stripe-annual-letter-2025/blob/79544af7720efc50951471e121cdface5dd6395c/.github/workflows/pages.yml",
       "title": "stripe-annual-letter-2025/.github/workflows/pages.yml at 79544af7720efc509514...",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/stripe-annual-letter-2025/blob/main/Stripe-annual-letter-2025-desktop.pdf",
+      "title": "stripe-annual-letter-2025/Stripe-annual-letter-2025-desktop.pdf at main \u00b7 vis...",
       "count": 1,
       "uniques": 1
     }
