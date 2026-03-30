@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-29T14:14:33.213821+00:00",
+  "last_updated": "2026-03-30T14:00:03.236598+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -97,6 +97,10 @@
     "2026-03-28": {
       "count": 11,
       "uniques": 6
+    },
+    "2026-03-29": {
+      "count": 19,
+      "uniques": 7
     }
   },
   "clones": {
@@ -191,23 +195,27 @@
     "2026-03-28": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-29": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 91,
-      "uniques": 58
+      "count": 92,
+      "uniques": 59
     },
     {
       "referrer": "com.linkedin.android",
-      "count": 14,
-      "uniques": 12
+      "count": 15,
+      "uniques": 13
     },
     {
       "referrer": "Google",
-      "count": 5,
-      "uniques": 5
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "github.com",
@@ -229,8 +237,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 129,
-      "uniques": 104
+      "count": 132,
+      "uniques": 106
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
@@ -247,8 +255,20 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
       "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 4,
-      "uniques": 3
+      "count": 7,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding",
+      "title": "codex-for-business-students/lesson-modules/2-vibe-coding at main \u00b7 vishalsach...",
+      "count": 6,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
+      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/issues",
@@ -269,26 +289,14 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding",
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding/2.1-setup",
       "title": "codex-for-business-students/lesson-modules/2-vibe-coding at main \u00b7 vishalsach...",
       "count": 3,
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
-      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/docs",
       "title": "codex-for-business-students/docs at main \u00b7 vishalsachdev/codex-for-business-s...",
-      "count": 2,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding/2.1-setup",
-      "title": "codex-for-business-students/lesson-modules/2-vibe-coding at main \u00b7 vishalsach...",
       "count": 2,
       "uniques": 1
     },

@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-29T14:14:33.213821+00:00",
+  "last_updated": "2026-03-30T14:00:03.236598+00:00",
   "stars": 1,
   "forks": 2,
   "description": "",
@@ -181,6 +181,10 @@
     "2026-03-28": {
       "count": 8,
       "uniques": 6
+    },
+    "2026-03-29": {
+      "count": 9,
+      "uniques": 5
     }
   },
   "clones": {
@@ -359,6 +363,10 @@
     "2026-03-28": {
       "count": 18,
       "uniques": 10
+    },
+    "2026-03-29": {
+      "count": 20,
+      "uniques": 11
     }
   },
   "referrers": [
@@ -415,16 +423,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "vishalsachdev/claude-skills",
-      "count": 13,
-      "uniques": 10
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "claude-skills/SKILL_CREATION_GUIDE.md at main \u00b7 vishalsachdev/claude-skills \u00b7...",
-      "count": 11,
-      "uniques": 9
+      "count": 15,
+      "uniques": 12
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "GitHub - vishalsachdev/claude-skills \u00b7 GitHub",
+      "count": 14,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
@@ -455,6 +463,12 @@
       "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
       "count": 3,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
+      "title": "claude-skills/canvas-course-audit/SKILL.md at main \u00b7 vishalsachdev/claude-ski...",
+      "count": 3,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/codebase-singularity",

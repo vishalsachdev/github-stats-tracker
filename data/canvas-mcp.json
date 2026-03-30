@@ -1,7 +1,7 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-29T14:14:33.213821+00:00",
+  "last_updated": "2026-03-30T14:00:03.236598+00:00",
   "stars": 85,
   "forks": 30,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
@@ -181,6 +181,10 @@
     "2026-03-28": {
       "count": 43,
       "uniques": 22
+    },
+    "2026-03-29": {
+      "count": 30,
+      "uniques": 23
     }
   },
   "clones": {
@@ -359,12 +363,16 @@
     "2026-03-28": {
       "count": 32,
       "uniques": 21
+    },
+    "2026-03-29": {
+      "count": 33,
+      "uniques": 22
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 600,
+      "count": 584,
       "uniques": 324
     },
     {
@@ -374,8 +382,8 @@
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
-      "count": 42,
-      "uniques": 15
+      "count": 40,
+      "uniques": 13
     },
     {
       "referrer": "search.brave.com",
@@ -384,12 +392,12 @@
     },
     {
       "referrer": "Bing",
-      "count": 22,
-      "uniques": 15
+      "count": 21,
+      "uniques": 14
     },
     {
       "referrer": "statics.teams.cdn.office.net",
-      "count": 19,
+      "count": 21,
       "uniques": 6
     },
     {
@@ -442,32 +450,26 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 735,
-      "uniques": 479
+      "count": 704,
+      "uniques": 475
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 51,
-      "uniques": 39
+      "count": 52,
+      "uniques": 40
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 32,
+      "count": 33,
       "uniques": 24
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "GitHub \u00b7 Where software is built",
-      "count": 24,
-      "uniques": 18
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
-      "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 16,
-      "uniques": 14
+      "count": 23,
+      "uniques": 17
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
@@ -476,10 +478,22 @@
       "uniques": 6
     },
     {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
+      "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
+      "count": 15,
+      "uniques": 13
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main",
+      "title": "canvas-mcp/docs/STUDENT_GUIDE.md at main \u00b7 vishalsachdev/canvas-mcp",
+      "count": 12,
+      "uniques": 10
+    },
+    {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
-      "count": 12,
-      "uniques": 12
+      "count": 11,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp/code_api",
@@ -498,12 +512,6 @@
       "title": "Commits \u00b7 vishalsachdev/canvas-mcp",
       "count": 11,
       "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main",
-      "title": "canvas-mcp/docs/STUDENT_GUIDE.md at main \u00b7 vishalsachdev/canvas-mcp",
-      "count": 11,
-      "uniques": 9
     },
     {
       "path": "/vishalsachdev/canvas-mcp/commits",
@@ -525,7 +533,7 @@
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/CLAUDE.md",
-      "title": "vishalsachdev/canvas-mcp: Canvas LMS MCP server \u2014 80+ tools and 5 agent skill...",
+      "title": "canvas-mcp/CLAUDE.md at main \u00b7 vishalsachdev/canvas-mcp \u00b7 GitHub",
       "count": 9,
       "uniques": 6
     },
