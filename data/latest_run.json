@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-03-31T14:00:07.773514+00:00",
-  "repos_checked": 82,
-  "repos_with_traffic": 82,
+  "collected_at": "2026-04-01T14:00:04.179750+00:00",
+  "repos_checked": 84,
+  "repos_with_traffic": 84,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -15,6 +15,7 @@
     "a2i-curriculum",
     "aei",
     "ai-impact",
+    "ai-innovation-engine",
     "ai-problem-framing",
     "ai-taskforce",
     "api-demo",
@@ -62,6 +63,7 @@
     "llms-text",
     "local-kg",
     "makerlab",
+    "makerlab-infra",
     "math-genart",
     "msba2025-cohort",
     "musictheoryflow",

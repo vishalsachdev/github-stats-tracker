@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-03-31T14:00:07.773514+00:00",
+  "last_updated": "2026-04-01T14:00:04.179750+00:00",
   "stars": 3,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -189,6 +189,10 @@
     "2026-03-30": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-03-31": {
+      "count": 7,
+      "uniques": 5
     }
   },
   "clones": {
@@ -375,13 +379,17 @@
     "2026-03-30": {
       "count": 47,
       "uniques": 36
+    },
+    "2026-03-31": {
+      "count": 40,
+      "uniques": 28
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 14,
-      "uniques": 6
+      "count": 17,
+      "uniques": 8
     },
     {
       "referrer": "linkedin.com",
@@ -408,14 +416,14 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
-      "count": 23,
-      "uniques": 17
+      "count": 28,
+      "uniques": 21
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
       "title": "vishalsachdev/claude-code-skills: Professional skills for Claude Code followi...",
-      "count": 6,
-      "uniques": 4
+      "count": 7,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing",
