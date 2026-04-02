@@ -1,7 +1,7 @@
 {
   "repo": "unit4-cte-visit",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 0,
   "forks": 0,
   "description": "AI in Business \u2014 15-min talk for Unit 4 CTE teachers, March 12 2026",
@@ -107,6 +107,10 @@
       "uniques": 1
     },
     "2026-03-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-01": {
       "count": 0,
       "uniques": 0
     }
@@ -215,6 +219,10 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -227,7 +235,7 @@
   "paths": [
     {
       "path": "/vishalsachdev/unit4-cte-visit",
-      "title": "vishalsachdev/unit4-cte-visit: AI in Business \u2014 15-min talk for Unit 4 CTE te...",
+      "title": "Overview",
       "count": 2,
       "uniques": 1
     }

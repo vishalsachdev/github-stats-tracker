@@ -1,7 +1,7 @@
 {
   "repo": "giesclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
@@ -99,6 +99,10 @@
       "uniques": 0
     },
     "2026-03-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-01": {
       "count": 0,
       "uniques": 0
     }
@@ -199,6 +203,10 @@
     "2026-03-31": {
       "count": 7,
       "uniques": 2
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -216,55 +224,55 @@
   "paths": [
     {
       "path": "/vishalsachdev/giesclaw",
-      "title": "vishalsachdev/giesclaw: GiesClaw \u2014 Autonomous business research platform for ...",
+      "title": "Overview",
       "count": 7,
       "uniques": 4
     },
     {
       "path": "/vishalsachdev/giesclaw/issues",
-      "title": "GitHub \u00b7 Where software is built",
+      "title": "/issues",
       "count": 5,
       "uniques": 2
     },
     {
       "path": "/vishalsachdev/giesclaw/issues/4",
-      "title": "[Bug] full audit \u00b7 Issue #4 \u00b7 vishalsachdev/giesclaw",
+      "title": "/issues/4",
       "count": 2,
       "uniques": 2
     },
     {
       "path": "/vishalsachdev/giesclaw/blame/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
-      "title": "giesclaw/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html a...",
+      "title": "/blame/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
       "count": 2,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/giesclaw/blob/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
-      "title": "Blaming giesclaw/articles/2026-03-22-the-classroom-where-ai-and-students-argu...",
+      "title": "/blob/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
       "count": 2,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/giesclaw/actions",
-      "title": "Actions \u00b7 vishalsachdev/giesclaw \u00b7 GitHub",
+      "title": "/actions",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/giesclaw/issues/6",
-      "title": "[Bug] Contributing insight \u00b7 Issue #6 \u00b7 vishalsachdev/giesclaw",
+      "title": "/issues/6",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/giesclaw/issues/8",
-      "title": "[Feature] Change contribute button \u00b7 Issue #8 \u00b7 vishalsachdev/giesclaw",
+      "title": "/issues/8",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/giesclaw/pulse",
-      "title": "Pulse \u00b7 vishalsachdev/giesclaw",
+      "title": "/pulse",
       "count": 1,
       "uniques": 1
     }

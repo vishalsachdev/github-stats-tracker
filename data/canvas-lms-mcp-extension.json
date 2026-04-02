@@ -1,7 +1,7 @@
 {
   "repo": "canvas-lms-mcp-extension",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 0,
   "forks": 0,
   "description": "A Model Context Protocol Extension for Claude Desktop to run locally and connect to a Canvas LMS",
@@ -191,6 +191,10 @@
       "uniques": 1
     },
     "2026-03-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-01": {
       "count": 0,
       "uniques": 0
     }
@@ -383,6 +387,10 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -401,13 +409,13 @@
     },
     {
       "path": "/vishalsachdev/canvas-lms-mcp-extension/issues",
-      "title": "Issues \u00b7 vishalsachdev/canvas-lms-mcp-extension \u00b7 GitHub",
+      "title": "/issues",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/canvas-lms-mcp-extension/releases",
-      "title": "Releases \u00b7 vishalsachdev/canvas-lms-mcp-extension",
+      "title": "/releases",
       "count": 1,
       "uniques": 1
     }

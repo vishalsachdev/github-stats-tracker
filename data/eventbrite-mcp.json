@@ -1,7 +1,7 @@
 {
   "repo": "eventbrite-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 2,
   "forks": 0,
   "description": "",
@@ -193,6 +193,10 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -383,13 +387,17 @@
     "2026-03-31": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-01": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "pulsemcp.com",
       "count": 3,
-      "uniques": 2
+      "uniques": 1
     },
     {
       "referrer": "Google",
@@ -410,31 +418,43 @@
   "paths": [
     {
       "path": "/vishalsachdev/eventbrite-mcp",
-      "title": "vishalsachdev/eventbrite-mcp",
-      "count": 8,
-      "uniques": 6
+      "title": "Overview",
+      "count": 9,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/eventbrite-mcp/blob/main/src/api/eventbriteClient.ts",
-      "title": "eventbrite-mcp/src/tools/events/getEventDetails.ts at main \u00b7 vishalsachdev/ev...",
+      "title": "/blob/main/src/api/eventbriteClient.ts",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/eventbrite-mcp/blob/main/src/tools/events/getEventDetails.ts",
-      "title": "eventbrite-mcp/src/tools/events at main \u00b7 vishalsachdev/eventbrite-mcp",
+      "title": "/blob/main/src/tools/events/getEventDetails.ts",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/eventbrite-mcp/tree/main/src",
-      "title": "vishalsachdev/eventbrite-mcp",
+      "title": "/tree/main/src",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/eventbrite-mcp/tree/main/src/tools/events",
-      "title": "eventbrite-mcp/src at main \u00b7 vishalsachdev/eventbrite-mcp",
+      "title": "/tree/main/src/tools/events",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/blob/main/api-docs/eventbriteapiv3public.apib",
+      "title": "/blob/main/api-docs/eventbriteapiv3public.apib",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/tree/main/api-docs",
+      "title": "/tree/main/api-docs",
       "count": 1,
       "uniques": 1
     }

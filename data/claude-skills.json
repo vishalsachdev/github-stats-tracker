@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -193,6 +193,10 @@
     "2026-03-31": {
       "count": 24,
       "uniques": 14
+    },
+    "2026-04-01": {
+      "count": 8,
+      "uniques": 8
     }
   },
   "clones": {
@@ -383,6 +387,10 @@
     "2026-03-31": {
       "count": 22,
       "uniques": 13
+    },
+    "2026-04-01": {
+      "count": 6,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -440,49 +448,49 @@
   "paths": [
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
-      "title": "claude-skills/SKILL_CREATION_GUIDE.md at main \u00b7 vishalsachdev/claude-skills \u00b7...",
-      "count": 40,
-      "uniques": 33
+      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
+      "count": 47,
+      "uniques": 40
     },
     {
       "path": "/vishalsachdev/claude-skills",
-      "title": "GitHub - vishalsachdev/claude-skills \u00b7 GitHub",
-      "count": 12,
-      "uniques": 11
+      "title": "Overview",
+      "count": 13,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "claude-skills/quiz-generator at main \u00b7 vishalsachdev/claude-skills \u00b7 GitHub",
+      "title": "/tree/main/quiz-generator",
       "count": 7,
       "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/tree/main/paper-writing",
       "count": 6,
       "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "claude-skills/chartjs-generator at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/tree/main",
       "count": 4,
       "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
-      "title": "claude-skills/canvas-course-audit/SKILL.md at main \u00b7 vishalsachdev/claude-ski...",
+      "title": "/blob/main/canvas-course-audit/SKILL.md",
       "count": 4,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/blob/main/paper-writing/SKILL.md",
       "count": 3,
       "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
-      "title": "claude-skills/paper-writing at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/tree/main/paper-writing/scripts",
       "count": 3,
       "uniques": 2
     },
@@ -494,7 +502,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/scripts/check_paper.py",
-      "title": "claude-skills/paper-writing/scripts at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/blob/main/paper-writing/scripts/check_paper.py",
       "count": 2,
       "uniques": 2
     },
@@ -512,7 +520,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/learning-design-review/SKILL.md",
-      "title": "claude-skills/learning-design-review at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/blob/main/learning-design-review/SKILL.md",
       "count": 2,
       "uniques": 2
     },

@@ -1,7 +1,7 @@
 {
   "repo": "AgentLab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 4,
   "forks": 0,
   "description": "AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies College of Business exploring how intelligent agent teams can transform learning experiences.",
@@ -191,6 +191,10 @@
       "uniques": 0
     },
     "2026-03-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-01": {
       "count": 0,
       "uniques": 0
     }
@@ -383,6 +387,10 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -400,25 +408,25 @@
   "paths": [
     {
       "path": "/vishalsachdev/AgentLab",
-      "title": "vishalsachdev/AgentLab: AgentLab - Pioneering Multi-Agent AI for Education. S...",
+      "title": "Overview",
       "count": 5,
       "uniques": 3
     },
     {
       "path": "/vishalsachdev/AgentLab/blob/main/CLAUDE.md",
-      "title": "AgentLab/templates at main \u00b7 vishalsachdev/AgentLab",
+      "title": "/blob/main/CLAUDE.md",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/AgentLab/blob/main/cognitive-swarm.html",
-      "title": "AgentLab/projects.html at main \u00b7 vishalsachdev/AgentLab",
+      "title": "/blob/main/cognitive-swarm.html",
       "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/AgentLab/blob/main/projects.html",
-      "title": "vishalsachdev/AgentLab: AgentLab - Pioneering Multi-Agent AI for Education. S...",
+      "title": "/blob/main/projects.html",
       "count": 1,
       "uniques": 1
     },
@@ -436,7 +444,7 @@
     },
     {
       "path": "/vishalsachdev/AgentLab/tree/main/templates",
-      "title": "AgentLab/cognitive-swarm.html at main \u00b7 vishalsachdev/AgentLab",
+      "title": "/tree/main/templates",
       "count": 1,
       "uniques": 1
     }

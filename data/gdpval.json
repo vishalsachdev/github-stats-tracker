@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -193,6 +193,10 @@
     "2026-03-31": {
       "count": 6,
       "uniques": 1
+    },
+    "2026-04-01": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -383,6 +387,10 @@
     "2026-03-31": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -393,6 +401,12 @@
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/data",
+      "title": "/tree/main/data",
+      "count": 4,
+      "uniques": 2
+    },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/task_schema.md",
       "title": "gdpval/data/reference_links.csv at main \u00b7 vishalsachdev/gdpval",
@@ -406,20 +420,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/gdpval/tree/main/data",
-      "title": "GitHub - vishalsachdev/gdpval: Interactive Streamlit app that helps instructo...",
+      "path": "/vishalsachdev/gdpval",
+      "title": "Overview",
       "count": 2,
-      "uniques": 1
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
-      "title": "gdpval/GDPval.pdf at main \u00b7 vishalsachdev/gdpval \u00b7 GitHub",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/gdpval",
-      "title": "GitHub - vishalsachdev/gdpval: Interactive Streamlit app that helps instructo...",
+      "title": "/blob/main/GDPval_extracted.md",
       "count": 1,
       "uniques": 1
     },
@@ -461,7 +469,7 @@
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/CLAUDE.md",
-      "title": "gdpval/data at main \u00b7 vishalsachdev/gdpval \u00b7 GitHub",
+      "title": "/blob/main/CLAUDE.md",
       "count": 1,
       "uniques": 1
     },
@@ -485,7 +493,7 @@
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
-      "title": "gdpval/CLAUDE.md at main \u00b7 vishalsachdev/gdpval \u00b7 GitHub",
+      "title": "/blob/main/GDPval.pdf",
       "count": 1,
       "uniques": 1
     }

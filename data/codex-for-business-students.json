@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -109,6 +109,10 @@
     "2026-03-31": {
       "count": 8,
       "uniques": 8
+    },
+    "2026-04-01": {
+      "count": 35,
+      "uniques": 11
     }
   },
   "clones": {
@@ -215,18 +219,22 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 106,
-      "uniques": 66
+      "count": 109,
+      "uniques": 68
     },
     {
       "referrer": "com.linkedin.android",
-      "count": 16,
-      "uniques": 14
+      "count": 19,
+      "uniques": 16
     },
     {
       "referrer": "github.com",
@@ -247,48 +255,53 @@
       "referrer": "chatwithgpt.substack.com",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "Bing",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/codex-for-business-students",
-      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 143,
-      "uniques": 114
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
-      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 5,
-      "uniques": 4
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
-      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 5,
-      "uniques": 4
+      "title": "Overview",
+      "count": 156,
+      "uniques": 123
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
-      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 5,
-      "uniques": 3
+      "title": "/tree/main/lesson-modules",
+      "count": 7,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
+      "title": "/tree/main/articles",
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
-      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
+      "title": "/tree/main/lesson-modules/1-fundamentals",
+      "count": 6,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
+      "title": "/tree/main/templates",
       "count": 5,
       "uniques": 4
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding",
-      "title": "codex-for-business-students/lesson-modules at main \u00b7 vishalsachdev/codex-for-...",
+      "title": "/tree/main/lesson-modules/2-vibe-coding",
       "count": 4,
       "uniques": 3
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/issues",
-      "title": "GitHub \u00b7 Where software is built",
+      "title": "/issues",
       "count": 4,
       "uniques": 3
     },
@@ -306,9 +319,9 @@
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario",
-      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
-      "count": 2,
-      "uniques": 2
+      "title": "/tree/main/business-scenario",
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/docs",
@@ -324,7 +337,7 @@
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/AGENTS.md",
-      "title": "GitHub - vishalsachdev/codex-for-business-students: Learn Codex in Codex - Bu...",
+      "title": "/blob/main/AGENTS.md",
       "count": 2,
       "uniques": 2
     },
@@ -355,6 +368,12 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
       "title": "codex-for-business-students/lesson-modules/1-fundamentals/1.3-working-with-fi...",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
+      "title": "/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
       "count": 2,
       "uniques": 2
     },

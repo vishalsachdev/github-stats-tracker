@@ -1,7 +1,7 @@
 {
   "repo": "openclaw-dashboard",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 0,
   "forks": 2,
   "description": "Streamlit dashboard for tracking the OpenClaw AI agent ecosystem on Base blockchain",
@@ -191,6 +191,10 @@
       "uniques": 0
     },
     "2026-03-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-01": {
       "count": 0,
       "uniques": 0
     }
@@ -383,6 +387,10 @@
     "2026-03-31": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-01": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -405,7 +413,7 @@
   "paths": [
     {
       "path": "/vishalsachdev/openclaw-dashboard",
-      "title": "GitHub - vishalsachdev/openclaw-dashboard: Streamlit dashboard for tracking t...",
+      "title": "Overview",
       "count": 11,
       "uniques": 5
     },
@@ -459,7 +467,7 @@
     },
     {
       "path": "/stophobia/openclaw-dashboard5/compare",
-      "title": "Comparing vishalsachdev:main...stophobia:main \u00b7 vishalsachdev/openclaw-dashbo...",
+      "title": "mpare",
       "count": 1,
       "uniques": 1
     }

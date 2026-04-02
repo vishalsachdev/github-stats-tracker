@@ -1,7 +1,7 @@
 {
   "repo": "tldraw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 2,
   "forks": 0,
   "description": "",
@@ -191,6 +191,10 @@
       "uniques": 1
     },
     "2026-03-31": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-04-01": {
       "count": 1,
       "uniques": 1
     }
@@ -383,13 +387,17 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 10,
-      "uniques": 8
+      "count": 11,
+      "uniques": 9
     },
     {
       "referrer": "chatwithgpt.substack.com",
@@ -405,13 +413,13 @@
   "paths": [
     {
       "path": "/vishalsachdev/tldraw",
-      "title": "vishalsachdev/tldraw",
-      "count": 16,
-      "uniques": 12
+      "title": "Overview",
+      "count": 17,
+      "uniques": 13
     },
     {
       "path": "/vishalsachdev/tldraw/blob/main/articles/tldraw-canvas-skill.md",
-      "title": "tldraw/articles/tldraw-canvas-skill.md at main \u00b7 vishalsachdev/tldraw",
+      "title": "/blob/main/articles/tldraw-canvas-skill.md",
       "count": 4,
       "uniques": 3
     }

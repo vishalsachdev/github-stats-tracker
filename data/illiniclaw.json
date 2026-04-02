@@ -1,7 +1,7 @@
 {
   "repo": "illiniclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-01T14:00:04.179750+00:00",
+  "last_updated": "2026-04-02T14:00:09.640753+00:00",
   "stars": 0,
   "forks": 0,
   "description": "A replicable blueprint for building AI-powered WhatsApp teaching assistants.",
@@ -109,6 +109,10 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -215,11 +219,20 @@
     "2026-03-31": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "referrer": "vishalsachdev.github.io",
       "count": 3,
       "uniques": 1
     },
@@ -238,13 +251,13 @@
     },
     {
       "path": "/vishalsachdev/illiniclaw",
-      "title": "vishalsachdev/illiniclaw: A replicable blueprint for building AI-powered What...",
-      "count": 1,
-      "uniques": 1
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/illiniclaw/blob/main/AGENT-PROMPT.md",
-      "title": "vishalsachdev/illiniclaw: A replicable blueprint for building AI-powered What...",
+      "title": "/blob/main/AGENT-PROMPT.md",
       "count": 1,
       "uniques": 1
     },
@@ -257,6 +270,12 @@
     {
       "path": "/vishalsachdev/illiniclaw/blob/main/CUSTOMIZATION.md",
       "title": "illiniclaw/CLAUDE.md at main \u00b7 vishalsachdev/illiniclaw",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/illiniclaw/blob/main/README.md",
+      "title": "/blob/main/README.md",
       "count": 1,
       "uniques": 1
     }
