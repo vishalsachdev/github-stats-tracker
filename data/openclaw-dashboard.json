@@ -1,7 +1,7 @@
 {
   "repo": "openclaw-dashboard",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-02T14:00:09.640753+00:00",
+  "last_updated": "2026-04-03T14:00:04.029021+00:00",
   "stars": 0,
   "forks": 2,
   "description": "Streamlit dashboard for tracking the OpenClaw AI agent ecosystem on Base blockchain",
@@ -197,6 +197,10 @@
     "2026-04-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-02": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -391,13 +395,17 @@
     "2026-04-01": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-02": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "yandex.ru",
@@ -414,8 +422,8 @@
     {
       "path": "/vishalsachdev/openclaw-dashboard",
       "title": "Overview",
-      "count": 11,
-      "uniques": 5
+      "count": 5,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/openclaw-dashboard/fork",

@@ -1,7 +1,7 @@
 {
   "repo": "genai-literacy",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-02T14:00:09.640753+00:00",
+  "last_updated": "2026-04-03T14:00:04.029021+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GenAI for Teacher Productivity micro-credential course materials",
@@ -197,6 +197,10 @@
     "2026-04-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-02": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -391,19 +395,23 @@
     "2026-04-01": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 3,
+      "count": 2,
       "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/genai-literacy",
-      "title": "GitHub - vishalsachdev/genai-literacy: GenAI for Teacher Productivity micro-c...",
+      "title": "Overview",
       "count": 1,
       "uniques": 1
     },
@@ -416,6 +424,12 @@
     {
       "path": "/vishalsachdev/genai-literacy/tree/main/slides",
       "title": "genai-literacy/slides at main \u00b7 vishalsachdev/genai-literacy \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/genai-literacy/blob/main/CLAUDE.md",
+      "title": "/blob/main/CLAUDE.md",
       "count": 1,
       "uniques": 1
     }

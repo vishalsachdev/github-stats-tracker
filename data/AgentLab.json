@@ -1,7 +1,7 @@
 {
   "repo": "AgentLab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-02T14:00:09.640753+00:00",
+  "last_updated": "2026-04-03T14:00:04.029021+00:00",
   "stars": 4,
   "forks": 0,
   "description": "AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies College of Business exploring how intelligent agent teams can transform learning experiences.",
@@ -197,6 +197,10 @@
     "2026-04-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-02": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -391,12 +395,16 @@
     "2026-04-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 9,
+      "count": 6,
       "uniques": 3
     },
     {
@@ -445,6 +453,12 @@
     {
       "path": "/vishalsachdev/AgentLab/tree/main/templates",
       "title": "/tree/main/templates",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/AgentLab/blob/main/team.html",
+      "title": "/blob/main/team.html",
       "count": 1,
       "uniques": 1
     }

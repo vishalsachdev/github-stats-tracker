@@ -1,7 +1,7 @@
 {
   "repo": "gies-ai-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-02T14:00:09.640753+00:00",
+  "last_updated": "2026-04-03T14:00:04.029021+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Gies College of Business AI Curriculum Integration - Leadership Documentation",
@@ -197,6 +197,10 @@
     "2026-04-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-02": {
+      "count": 9,
+      "uniques": 1
     }
   },
   "clones": {
@@ -391,19 +395,65 @@
     "2026-04-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-02": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "count": 10,
+      "uniques": 2
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/gies-ai-curriculum",
       "title": "Overview",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/index.md",
+      "title": "/blob/main/docs/index.md",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/AI_INTEGRATION_STRATEGY.html",
+      "title": "/blob/main/docs/AI_INTEGRATION_STRATEGY.html",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/SAMPLE_AI_LEARNING_OUTCOMES.md",
+      "title": "/blob/main/docs/SAMPLE_AI_LEARNING_OUTCOMES.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/TRASH-FILES.md",
+      "title": "/blob/main/docs/TRASH-FILES.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/UNDERGRAD_CORE_AI_MATRIX.md",
+      "title": "/blob/main/docs/UNDERGRAD_CORE_AI_MATRIX.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/courses/105.html",
+      "title": "/blob/main/docs/courses/105.html",
       "count": 1,
       "uniques": 1
     }

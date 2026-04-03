@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-02T14:00:09.640753+00:00",
+  "last_updated": "2026-04-03T14:00:04.029021+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -197,6 +197,10 @@
     "2026-04-01": {
       "count": 8,
       "uniques": 8
+    },
+    "2026-04-02": {
+      "count": 10,
+      "uniques": 4
     }
   },
   "clones": {
@@ -391,6 +395,10 @@
     "2026-04-01": {
       "count": 6,
       "uniques": 3
+    },
+    "2026-04-02": {
+      "count": 24,
+      "uniques": 13
     }
   },
   "referrers": [
@@ -449,8 +457,8 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 47,
-      "uniques": 40
+      "count": 52,
+      "uniques": 43
     },
     {
       "path": "/vishalsachdev/claude-skills",
@@ -526,9 +534,9 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "claude-skills/chartjs-generator at main \u00b7 vishalsachdev/claude-skills",
-      "count": 1,
-      "uniques": 1
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/HEAD/vibe-coder-sdlc/SKILL.md",
