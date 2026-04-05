@@ -1,7 +1,7 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-03T14:00:04.029021+00:00",
+  "last_updated": "2026-04-05T14:00:06.085128+00:00",
   "stars": 4,
   "forks": 0,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
@@ -199,6 +199,14 @@
       "uniques": 1
     },
     "2026-04-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-03": {
+      "count": 5,
+      "uniques": 4
+    },
+    "2026-04-04": {
       "count": 0,
       "uniques": 0
     }
@@ -399,18 +407,26 @@
     "2026-04-02": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-04": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 5,
-      "uniques": 2
+      "count": 7,
+      "uniques": 4
     },
     {
       "referrer": "Google",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "claude.ai",
@@ -422,8 +438,8 @@
     {
       "path": "/vishalsachdev/learning-design-pillars",
       "title": "Overview",
-      "count": 7,
-      "uniques": 6
+      "count": 10,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/learning-design-pillars/blob/main/CLAUDE.md",
@@ -470,6 +486,18 @@
     {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-course-audit",
       "title": "learning-design-pillars/skills at main \u00b7 vishalsachdev/learning-design-pillars",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/blob/main/skills/canvas-feedback-template/SKILL.md",
+      "title": "/blob/main/skills/canvas-feedback-template/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-feedback-template",
+      "title": "/tree/main/skills/canvas-feedback-template",
       "count": 1,
       "uniques": 1
     }
