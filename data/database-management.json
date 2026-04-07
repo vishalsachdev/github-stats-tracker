@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-06T14:00:06.425381+00:00",
+  "last_updated": "2026-04-07T14:00:09.102413+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -211,6 +211,10 @@
       "uniques": 0
     },
     "2026-04-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-06": {
       "count": 0,
       "uniques": 0
     }
@@ -423,6 +427,10 @@
     "2026-04-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-06": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -446,20 +454,8 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "Overview",
-      "count": 10,
-      "uniques": 9
-    },
-    {
-      "path": "/vishalsachdev/database-management/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
-      "title": "database-management/.claude-skills/.claude/hooks/track-prompts.sh at bf227607...",
-      "count": 5,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
-      "title": "/tree/main/.claude-skills",
-      "count": 3,
-      "uniques": 2
+      "count": 9,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
@@ -502,6 +498,18 @@
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
+      "title": "/tree/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "/tree/main/.claude-skills",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
@@ -578,6 +586,24 @@
     {
       "path": "/vishalsachdev/database-management/blob/main/sync-skills.sh",
       "title": "/blob/main/sync-skills.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main",
+      "title": "/tree/main",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/mcp-servers",
+      "title": "/tree/main/.claude-skills/mcp-servers",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/mcp-servers/skills-lister",
+      "title": "/tree/main/.claude-skills/mcp-servers/skills-lister",
       "count": 1,
       "uniques": 1
     }

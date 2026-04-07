@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-badm350",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-06T14:00:06.425381+00:00",
+  "last_updated": "2026-04-07T14:00:09.102413+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Codex for BADM 350 \u2014 You built the product. Now automate the business. Customized for University of Illinois.",
@@ -61,6 +61,10 @@
     "2026-04-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-06": {
+      "count": 7,
+      "uniques": 3
     }
   },
   "clones": {
@@ -119,8 +123,49 @@
     "2026-04-05": {
       "count": 7,
       "uniques": 6
+    },
+    "2026-04-06": {
+      "count": 26,
+      "uniques": 18
     }
   },
-  "referrers": [],
-  "paths": []
+  "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 6,
+      "uniques": 2
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/codex-for-badm350",
+      "title": "Overview",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-badm350/blob/main/business-scenario/company-context/brand-guidelines.md",
+      "title": "/blob/main/business-scenario/company-context/brand-guidelines.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-badm350/blob/main/docs/superpowers/specs/2026-03-24-ai-for-marketing-design.md",
+      "title": "/blob/main/docs/superpowers/specs/2026-03-24-ai-for-marketing-design.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-badm350/tree/main/business-scenario",
+      "title": "/tree/main/business-scenario",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-badm350/tree/main/business-scenario/company-context",
+      "title": "/tree/main/business-scenario/company-context",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-06T14:00:06.425381+00:00",
+  "last_updated": "2026-04-07T14:00:09.102413+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -129,6 +129,10 @@
     "2026-04-05": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-06": {
+      "count": 14,
+      "uniques": 3
     }
   },
   "clones": {
@@ -255,33 +259,37 @@
     "2026-04-05": {
       "count": 23,
       "uniques": 8
+    },
+    "2026-04-06": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 85,
-      "uniques": 45
+      "count": 83,
+      "uniques": 41
     },
     {
       "referrer": "com.linkedin.android",
-      "count": 13,
-      "uniques": 12
+      "count": 11,
+      "uniques": 10
     },
     {
       "referrer": "github.com",
-      "count": 4,
-      "uniques": 4
+      "count": 3,
+      "uniques": 3
     },
     {
       "referrer": "Google",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "lnkd.in",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "chatwithgpt.substack.com",
@@ -298,20 +306,20 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 120,
-      "uniques": 96
+      "count": 109,
+      "uniques": 86
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
+      "title": "/tree/main/lesson-modules/1-fundamentals",
+      "count": 8,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
       "title": "/tree/main/lesson-modules",
       "count": 7,
       "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
-      "title": "/tree/main/lesson-modules/1-fundamentals",
-      "count": 7,
-      "uniques": 6
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
@@ -332,9 +340,15 @@
       "uniques": 4
     },
     {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
+      "title": "/blob/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
+      "count": 4,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/codex-for-business-students/issues",
       "title": "/issues",
-      "count": 4,
+      "count": 3,
       "uniques": 3
     },
     {
@@ -354,6 +368,12 @@
       "title": "/tree/main/business-scenario",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals/1.1-intro",
+      "title": "/tree/main/lesson-modules/1-fundamentals/1.1-intro",
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/docs",
@@ -399,7 +419,7 @@
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
-      "title": "codex-for-business-students/lesson-modules/1-fundamentals/1.3-working-with-fi...",
+      "title": "/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
       "count": 2,
       "uniques": 2
     },
