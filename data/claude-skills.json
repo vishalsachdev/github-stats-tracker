@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-08T14:06:46.387913+00:00",
+  "last_updated": "2026-04-09T14:00:06.623069+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -221,6 +221,10 @@
     "2026-04-07": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-08": {
+      "count": 11,
+      "uniques": 5
     }
   },
   "clones": {
@@ -439,17 +443,21 @@
     "2026-04-07": {
       "count": 24,
       "uniques": 16
+    },
+    "2026-04-08": {
+      "count": 19,
+      "uniques": 11
     }
   },
   "referrers": [
     {
-      "referrer": "skillsplayground.com",
-      "count": 5,
-      "uniques": 2
-    },
-    {
       "referrer": "skills.sh",
       "count": 4,
+      "uniques": 1
+    },
+    {
+      "referrer": "skillsplayground.com",
+      "count": 3,
       "uniques": 1
     },
     {
@@ -502,14 +510,14 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 51,
-      "uniques": 43
+      "count": 55,
+      "uniques": 46
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 9,
-      "uniques": 9
+      "count": 10,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -538,6 +546,12 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
       "title": "/tree/main/paper-writing/scripts",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
+      "title": "/tree/main/chartjs-generator",
       "count": 3,
       "uniques": 2
     },
@@ -578,26 +592,26 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
-      "title": "/tree/main/chartjs-generator",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
       "count": 2,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/learning-design-review/SKILL.md",
-      "title": "/blob/main/learning-design-review/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
       "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator/assets",
+      "title": "/tree/main/chartjs-generator/assets",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/learning-design-review/SKILL.md",
+      "title": "/blob/main/learning-design-review/SKILL.md",
       "count": 1,
       "uniques": 1
     },

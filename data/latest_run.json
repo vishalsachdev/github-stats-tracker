@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-04-08T14:06:46.387913+00:00",
-  "repos_checked": 85,
-  "repos_with_traffic": 85,
+  "collected_at": "2026-04-09T14:00:06.623069+00:00",
+  "repos_checked": 86,
+  "repos_with_traffic": 86,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -70,6 +70,7 @@
     "musictheoryflow",
     "nano-hack",
     "nber",
+    "nsf-ai-faculty",
     "openclaw-dashboard",
     "openprose-workspace",
     "pathshaper",

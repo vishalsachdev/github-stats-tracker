@@ -1,7 +1,7 @@
 {
   "repo": "giesclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-08T14:06:46.387913+00:00",
+  "last_updated": "2026-04-09T14:00:06.623069+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
@@ -127,6 +127,10 @@
       "uniques": 0
     },
     "2026-04-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-08": {
       "count": 0,
       "uniques": 0
     }
@@ -255,13 +259,17 @@
     "2026-04-07": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-08": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 13,
-      "uniques": 2
+      "count": 7,
+      "uniques": 1
     },
     {
       "referrer": "giesclaw.illinihunt.org",
@@ -277,12 +285,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/giesclaw",
-      "title": "Overview",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/giesclaw/blame/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
       "title": "/blame/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
       "count": 2,
@@ -292,6 +294,12 @@
       "path": "/vishalsachdev/giesclaw/blob/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
       "title": "/blob/main/articles/2026-03-22-the-classroom-where-ai-and-students-argue.html",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/giesclaw",
+      "title": "Overview",
+      "count": 1,
       "uniques": 1
     },
     {
