@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-09T14:00:06.623069+00:00",
+  "last_updated": "2026-04-10T14:02:01.085914+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -223,6 +223,10 @@
       "uniques": 2
     },
     "2026-04-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-09": {
       "count": 0,
       "uniques": 0
     }
@@ -447,6 +451,10 @@
     "2026-04-08": {
       "count": 5,
       "uniques": 3
+    },
+    "2026-04-09": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -470,14 +478,8 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "Overview",
-      "count": 13,
-      "uniques": 9
-    },
-    {
-      "path": "/vishalsachdev/database-management/tree/main/plugins",
-      "title": "/tree/main/plugins",
-      "count": 2,
-      "uniques": 2
+      "count": 11,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",
@@ -508,6 +510,12 @@
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/plugins",
+      "title": "/tree/main/plugins",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/plugins",

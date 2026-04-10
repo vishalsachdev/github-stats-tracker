@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-09T14:00:06.623069+00:00",
+  "last_updated": "2026-04-10T14:02:01.085914+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -225,6 +225,10 @@
     "2026-04-08": {
       "count": 11,
       "uniques": 5
+    },
+    "2026-04-09": {
+      "count": 8,
+      "uniques": 7
     }
   },
   "clones": {
@@ -447,6 +451,10 @@
     "2026-04-08": {
       "count": 19,
       "uniques": 11
+    },
+    "2026-04-09": {
+      "count": 21,
+      "uniques": 13
     }
   },
   "referrers": [
@@ -510,20 +518,20 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 55,
-      "uniques": 46
+      "count": 57,
+      "uniques": 47
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 10,
-      "uniques": 10
+      "count": 14,
+      "uniques": 14
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
       "title": "/tree/main/quiz-generator",
-      "count": 8,
-      "uniques": 5
+      "count": 5,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -635,7 +643,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-radar.html",
-      "title": "claude-skills/chartjs-generator/assets at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/blob/main/chartjs-generator/assets/template-radar.html",
       "count": 1,
       "uniques": 1
     },
