@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-10T14:02:01.085914+00:00",
+  "last_updated": "2026-04-13T14:00:08.111142+00:00",
   "stars": 3,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -229,6 +229,18 @@
     "2026-04-09": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-10": {
+      "count": 6,
+      "uniques": 6
+    },
+    "2026-04-11": {
+      "count": 36,
+      "uniques": 7
+    },
+    "2026-04-12": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -455,18 +467,30 @@
     "2026-04-09": {
       "count": 44,
       "uniques": 32
+    },
+    "2026-04-10": {
+      "count": 43,
+      "uniques": 33
+    },
+    "2026-04-11": {
+      "count": 37,
+      "uniques": 27
+    },
+    "2026-04-12": {
+      "count": 33,
+      "uniques": 23
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 12,
-      "uniques": 6
+      "count": 29,
+      "uniques": 8
     },
     {
       "referrer": "Bing",
-      "count": 4,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "linkedin.com",
@@ -488,36 +512,54 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 26,
-      "uniques": 22
+      "count": 40,
+      "uniques": 34
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 3,
-      "uniques": 3
+      "count": 8,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing",
       "title": "/tree/main/skills/paper-writing",
-      "count": 3,
-      "uniques": 2
+      "count": 8,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing/references",
       "title": "/tree/main/skills/paper-writing/references",
+      "count": 5,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main",
+      "title": "/tree/main",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing/scripts",
+      "title": "/tree/main/skills/paper-writing/scripts",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing/assets",
+      "title": "/tree/main/skills/paper-writing/assets",
       "count": 3,
       "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/conference-paper-template.md",
-      "title": "claude-code-skills/skills/paper-writing/assets at main \u00b7 vishalsachdev/claude...",
+      "title": "/blob/main/skills/paper-writing/assets/conference-paper-template.md",
       "count": 2,
       "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/research-paper-template.md",
-      "title": "claude-code-skills/skills/paper-writing/assets at main \u00b7 vishalsachdev/claude...",
+      "title": "/blob/main/skills/paper-writing/assets/research-paper-template.md",
       "count": 2,
       "uniques": 2
     },
@@ -529,13 +571,7 @@
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/scripts/check_paper.py",
-      "title": "claude-code-skills/skills/paper-writing/references/REFERENCE.md at main \u00b7 vis...",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main",
-      "title": "claude-code-skills/skill-specs at main \u00b7 vishalsachdev/claude-code-skills",
+      "title": "/blob/main/skills/paper-writing/scripts/check_paper.py",
       "count": 2,
       "uniques": 2
     },
@@ -602,12 +638,6 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/STRUCTURE.md",
       "title": "/blob/main/skills/paper-writing/references/STRUCTURE.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing/scripts",
-      "title": "/tree/main/skills/paper-writing/scripts",
       "count": 1,
       "uniques": 1
     }
