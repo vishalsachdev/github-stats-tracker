@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-13T14:00:08.111142+00:00",
+  "last_updated": "2026-04-14T14:00:06.997754+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -157,6 +157,10 @@
     "2026-04-12": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-13": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -311,13 +315,17 @@
     "2026-04-12": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-13": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 49,
-      "uniques": 23
+      "count": 42,
+      "uniques": 22
     },
     {
       "referrer": "com.linkedin.android",
@@ -326,8 +334,8 @@
     },
     {
       "referrer": "Google",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "github.com",
@@ -354,8 +362,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 69,
-      "uniques": 54
+      "count": 66,
+      "uniques": 53
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
@@ -466,16 +474,16 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/codex-for-business-students/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
-      "title": "/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario/inherited-chaos",
       "title": "/tree/main/business-scenario/inherited-chaos",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
+      "title": "/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/CLAUDE.md",
@@ -498,6 +506,12 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/blame/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
       "title": "/blame/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.md",
+      "title": "/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.md",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-13T14:00:08.111142+00:00",
+  "last_updated": "2026-04-14T14:00:06.997754+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -241,6 +241,10 @@
     "2026-04-12": {
       "count": 15,
       "uniques": 4
+    },
+    "2026-04-13": {
+      "count": 4,
+      "uniques": 3
     }
   },
   "clones": {
@@ -479,6 +483,10 @@
     "2026-04-12": {
       "count": 40,
       "uniques": 14
+    },
+    "2026-04-13": {
+      "count": 24,
+      "uniques": 13
     }
   },
   "referrers": [
@@ -542,14 +550,14 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 55,
-      "uniques": 48
+      "count": 49,
+      "uniques": 42
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 15,
-      "uniques": 13
+      "count": 14,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",

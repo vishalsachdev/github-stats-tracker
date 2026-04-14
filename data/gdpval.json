@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-13T14:00:08.111142+00:00",
+  "last_updated": "2026-04-14T14:00:06.997754+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -241,6 +241,10 @@
     "2026-04-12": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-13": {
+      "count": 12,
+      "uniques": 1
     }
   },
   "clones": {
@@ -479,27 +483,31 @@
     "2026-04-12": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-13": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 9,
-      "uniques": 3
+      "count": 21,
+      "uniques": 4
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 6,
-      "uniques": 5
+      "count": 9,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 4,
-      "uniques": 2
+      "count": 7,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/task_schema.md",
@@ -510,6 +518,18 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/tasks.parquet",
       "title": "gdpval/data/task_schema.md at main \u00b7 vishalsachdev/gdpval",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/by_occupation.csv",
+      "title": "/blob/main/data/by_occupation.csv",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
+      "title": "/blob/main/data/reference_links.csv",
       "count": 2,
       "uniques": 1
     },
@@ -562,26 +582,26 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/data/by_occupation.csv",
-      "title": "gdpval/data at main \u00b7 vishalsachdev/gdpval",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/data/examples_per_sector.md",
       "title": "gdpval/data at main \u00b7 vishalsachdev/gdpval",
       "count": 1,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
-      "title": "gdpval/data/examples_per_sector.md at main \u00b7 vishalsachdev/gdpval",
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
+      "title": "/blob/main/GDPval.pdf",
       "count": 1,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
-      "title": "/blob/main/GDPval.pdf",
+      "path": "/vishalsachdev/gdpval/blob/main/data/by_sector.csv",
+      "title": "/blob/main/data/by_sector.csv",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/extract",
+      "title": "/tree/main/extract",
       "count": 1,
       "uniques": 1
     }
