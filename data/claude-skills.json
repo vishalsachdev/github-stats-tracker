@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-14T14:00:06.997754+00:00",
+  "last_updated": "2026-04-16T14:00:07.026103+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -245,6 +245,14 @@
     "2026-04-13": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-04-14": {
+      "count": 9,
+      "uniques": 7
+    },
+    "2026-04-15": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -487,6 +495,14 @@
     "2026-04-13": {
       "count": 24,
       "uniques": 13
+    },
+    "2026-04-14": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-04-15": {
+      "count": 20,
+      "uniques": 12
     }
   },
   "referrers": [
@@ -494,6 +510,11 @@
       "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "referrer": "DuckDuckGo",
+      "count": 4,
+      "uniques": 2
     },
     {
       "referrer": "skillsplayground.com",
@@ -516,22 +537,17 @@
       "uniques": 1
     },
     {
+      "referrer": "Google",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "referrer": "Bing",
       "count": 1,
       "uniques": 1
     },
     {
       "referrer": "linkedin.com",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "referrer": "Google",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "referrer": "DuckDuckGo",
       "count": 1,
       "uniques": 1
     },
@@ -550,14 +566,14 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 49,
-      "uniques": 42
+      "count": 34,
+      "uniques": 28
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 14,
-      "uniques": 12
+      "count": 13,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -596,16 +612,16 @@
       "uniques": 3
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 3,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",

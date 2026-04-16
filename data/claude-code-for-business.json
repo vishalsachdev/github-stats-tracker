@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-for-business",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-14T14:00:06.997754+00:00",
+  "last_updated": "2026-04-16T14:00:07.026103+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Build functional business tools using Claude Code \u2014 no coding experience required. An 8-video YouTube course.",
@@ -245,6 +245,14 @@
     "2026-04-13": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-15": {
+      "count": 5,
+      "uniques": 1
     }
   },
   "clones": {
@@ -487,12 +495,20 @@
     "2026-04-13": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-04-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-04-15": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 2,
+      "count": 5,
       "uniques": 1
     },
     {
@@ -505,12 +521,36 @@
     {
       "path": "/vishalsachdev/claude-code-for-business",
       "title": "Overview",
-      "count": 2,
-      "uniques": 2
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-code-for-business/blob/main/resources/cheatsheet.md",
       "title": "/blob/main/resources/cheatsheet.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/01-first-contact/README.md",
+      "title": "/blob/main/exercises/01-first-contact/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/tree/main/exercises",
+      "title": "/tree/main/exercises",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/tree/main/exercises/01-first-contact",
+      "title": "/tree/main/exercises/01-first-contact",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/tree/main/exercises/04-automation",
+      "title": "/tree/main/exercises/04-automation",
       "count": 1,
       "uniques": 1
     }

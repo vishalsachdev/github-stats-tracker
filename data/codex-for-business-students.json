@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-14T14:00:06.997754+00:00",
+  "last_updated": "2026-04-16T14:00:07.026103+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -161,6 +161,14 @@
     "2026-04-13": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-04-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-04-15": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -319,18 +327,26 @@
     "2026-04-13": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-15": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 42,
-      "uniques": 22
+      "count": 36,
+      "uniques": 15
     },
     {
       "referrer": "com.linkedin.android",
-      "count": 8,
-      "uniques": 7
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "Google",
@@ -362,8 +378,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 66,
-      "uniques": 53
+      "count": 47,
+      "uniques": 37
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
@@ -374,26 +390,14 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals",
       "title": "/tree/main/lesson-modules/1-fundamentals",
-      "count": 4,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding",
-      "title": "/tree/main/lesson-modules/2-vibe-coding",
-      "count": 4,
-      "uniques": 3
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
       "title": "/blob/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
-      "count": 4,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
-      "title": "/tree/main/lesson-modules",
       "count": 3,
-      "uniques": 3
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
@@ -416,8 +420,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals/1.1-intro",
       "title": "/tree/main/lesson-modules/1-fundamentals/1.1-intro",
-      "count": 3,
-      "uniques": 2
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/issues",
@@ -468,16 +472,28 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
-      "title": "/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario/inherited-chaos",
       "title": "/tree/main/business-scenario/inherited-chaos",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding",
+      "title": "/tree/main/lesson-modules/2-vibe-coding",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
+      "title": "/tree/main/lesson-modules",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
+      "title": "/blob/main/lesson-modules/1-fundamentals/1.3-working-with-files/AGENTS.md",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.html",
@@ -512,6 +528,12 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.md",
       "title": "/blob/main/articles/2026-02-26-ai-course-that-teaches-itself.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/1-fundamentals/1.3-working-with-files",
+      "title": "/tree/main/lesson-modules/1-fundamentals/1.3-working-with-files",
       "count": 1,
       "uniques": 1
     }
