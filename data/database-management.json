@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-16T14:00:07.026103+00:00",
+  "last_updated": "2026-04-18T14:00:05.186424+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -253,6 +253,14 @@
     "2026-04-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-17": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -503,13 +511,21 @@
     "2026-04-15": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-17": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 14,
-      "uniques": 2
+      "count": 13,
+      "uniques": 1
     },
     {
       "referrer": "github.com",
@@ -526,8 +542,8 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "Overview",
-      "count": 13,
-      "uniques": 9
+      "count": 9,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
@@ -542,10 +558,16 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
-      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "/tree/main/.claude-skills",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",
@@ -568,12 +590,6 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",
       "title": "/tree/main/.claude-skills/skills",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
-      "title": "/tree/main/.claude-skills",
       "count": 2,
       "uniques": 2
     },
