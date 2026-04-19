@@ -1,7 +1,7 @@
 {
   "repo": "canvas-lms-plugin",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-18T14:00:05.186424+00:00",
+  "last_updated": "2026-04-19T14:03:28.324746+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Canvas LMS plugin for Claude Code & Cowork \u2014 manage pages, assignments, modules, and more",
@@ -177,6 +177,10 @@
     "2026-04-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-18": {
+      "count": 5,
+      "uniques": 1
     }
   },
   "clones": {
@@ -351,21 +355,49 @@
     "2026-04-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-18": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "count": 6,
+      "uniques": 2
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/canvas-lms-plugin",
       "title": "Overview",
-      "count": 2,
-      "uniques": 2
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-plugin/blob/main/skills/canvas-builder/SKILL.md",
+      "title": "/blob/main/skills/canvas-builder/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-plugin/blob/main/skills/canvas-builder/references/canvas-patterns.md",
+      "title": "/blob/main/skills/canvas-builder/references/canvas-patterns.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-plugin/tree/main/skills/canvas-builder",
+      "title": "/tree/main/skills/canvas-builder",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-plugin/tree/main/skills/canvas-builder/references",
+      "title": "/tree/main/skills/canvas-builder/references",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }
