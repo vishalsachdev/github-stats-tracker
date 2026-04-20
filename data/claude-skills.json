@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-19T14:03:28.324746+00:00",
+  "last_updated": "2026-04-20T14:00:06.888169+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -265,6 +265,10 @@
     "2026-04-18": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-19": {
+      "count": 9,
+      "uniques": 7
     }
   },
   "clones": {
@@ -527,13 +531,17 @@
     "2026-04-18": {
       "count": 21,
       "uniques": 12
+    },
+    "2026-04-19": {
+      "count": 17,
+      "uniques": 9
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 6,
-      "uniques": 2
+      "count": 7,
+      "uniques": 3
     },
     {
       "referrer": "skills.sh",
@@ -590,8 +598,8 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 34,
-      "uniques": 29
+      "count": 41,
+      "uniques": 34
     },
     {
       "path": "/vishalsachdev/claude-skills",
@@ -618,6 +626,12 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 4,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
       "count": 3,
@@ -634,12 +648,6 @@
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
       "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 3,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",

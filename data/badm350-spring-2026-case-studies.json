@@ -1,9 +1,9 @@
 {
   "repo": "badm350-spring-2026-case-studies",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-19T14:03:28.324746+00:00",
+  "last_updated": "2026-04-20T14:00:06.888169+00:00",
   "stars": 0,
-  "forks": 1,
+  "forks": 2,
   "description": "BADM 350 Spring 2026 \u2014 student team case studies on Codex automations built for their semester projects",
   "views": {
     "2026-04-05": {
@@ -61,6 +61,10 @@
     "2026-04-18": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-19": {
+      "count": 9,
+      "uniques": 3
     }
   },
   "clones": {
@@ -119,6 +123,10 @@
     "2026-04-18": {
       "count": 11,
       "uniques": 10
+    },
+    "2026-04-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [],
@@ -126,6 +134,30 @@
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies",
       "title": "Overview",
+      "count": 5,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/forks",
+      "title": "/forks",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/actions",
+      "title": "/actions",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/fork",
+      "title": "/fork",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/tree/main/case-studies",
+      "title": "/tree/main/case-studies",
       "count": 1,
       "uniques": 1
     }
