@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-21T14:06:34.775187+00:00",
+  "last_updated": "2026-04-22T14:00:08.487975+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -271,6 +271,10 @@
       "uniques": 1
     },
     "2026-04-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-21": {
       "count": 0,
       "uniques": 0
     }
@@ -543,6 +547,10 @@
     "2026-04-20": {
       "count": 7,
       "uniques": 7
+    },
+    "2026-04-21": {
+      "count": 7,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -564,16 +572,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 9,
-      "uniques": 6
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
       "count": 5,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",

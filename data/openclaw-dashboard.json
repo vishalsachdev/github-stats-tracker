@@ -1,7 +1,7 @@
 {
   "repo": "openclaw-dashboard",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-21T14:06:34.775187+00:00",
+  "last_updated": "2026-04-22T14:00:08.487975+00:00",
   "stars": 0,
   "forks": 2,
   "description": "Streamlit dashboard for tracking the OpenClaw AI agent ecosystem on Base blockchain",
@@ -271,6 +271,10 @@
       "uniques": 0
     },
     "2026-04-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-21": {
       "count": 0,
       "uniques": 0
     }
@@ -543,6 +547,10 @@
     "2026-04-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-21": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -564,16 +572,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/openclaw-dashboard",
-      "title": "Overview",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/openclaw-dashboard/fork",
       "title": "Fork vishalsachdev/openclaw-dashboard",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/openclaw-dashboard",
+      "title": "Overview",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/openclaw-dashboard/blob/1a712c44aef8d6f158fb3c9334ae5f8ae35a4a13/app.py",

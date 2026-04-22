@@ -1,7 +1,7 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-21T14:06:34.775187+00:00",
+  "last_updated": "2026-04-22T14:00:08.487975+00:00",
   "stars": 107,
   "forks": 33,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
@@ -273,6 +273,10 @@
     "2026-04-20": {
       "count": 62,
       "uniques": 52
+    },
+    "2026-04-21": {
+      "count": 100,
+      "uniques": 57
     }
   },
   "clones": {
@@ -543,48 +547,52 @@
     "2026-04-20": {
       "count": 47,
       "uniques": 32
+    },
+    "2026-04-21": {
+      "count": 170,
+      "uniques": 65
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 645,
-      "uniques": 329
+      "count": 629,
+      "uniques": 330
     },
     {
       "referrer": "github.com",
-      "count": 249,
-      "uniques": 90
+      "count": 248,
+      "uniques": 87
     },
     {
       "referrer": "statics.teams.cdn.office.net",
-      "count": 40,
-      "uniques": 12
+      "count": 46,
+      "uniques": 14
     },
     {
       "referrer": "Bing",
-      "count": 36,
-      "uniques": 22
-    },
-    {
-      "referrer": "search.brave.com",
-      "count": 24,
-      "uniques": 8
+      "count": 45,
+      "uniques": 23
     },
     {
       "referrer": "pypi.org",
-      "count": 22,
-      "uniques": 1
+      "count": 24,
+      "uniques": 2
+    },
+    {
+      "referrer": "search.brave.com",
+      "count": 21,
+      "uniques": 7
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
-      "count": 17,
-      "uniques": 9
+      "count": 21,
+      "uniques": 10
     },
     {
       "referrer": "DuckDuckGo",
-      "count": 9,
-      "uniques": 3
+      "count": 12,
+      "uniques": 5
     },
     {
       "referrer": "mcpservers.org",
@@ -593,8 +601,8 @@
     },
     {
       "referrer": "linkedin.com",
-      "count": 6,
-      "uniques": 3
+      "count": 7,
+      "uniques": 4
     },
     {
       "referrer": "perplexity.ai",
@@ -636,31 +644,31 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 827,
-      "uniques": 534
+      "count": 836,
+      "uniques": 548
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
       "title": "/blob/main/docs/STUDENT_GUIDE.md",
-      "count": 76,
-      "uniques": 52
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/pulls",
-      "title": "/pulls",
-      "count": 30,
-      "uniques": 11
+      "count": 71,
+      "uniques": 51
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 30,
-      "uniques": 19
+      "count": 37,
+      "uniques": 22
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pulls",
+      "title": "/pulls",
+      "count": 32,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 26,
+      "count": 27,
       "uniques": 14
     },
     {
@@ -672,8 +680,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
       "title": "/blob/main/docs/EDUCATOR_GUIDE.md",
-      "count": 19,
-      "uniques": 11
+      "count": 20,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/tools",
@@ -686,6 +694,12 @@
       "title": "/pull/90",
       "count": 16,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/commits/main",
+      "title": "/commits/main",
+      "count": 16,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/.claude",
@@ -716,12 +730,6 @@
       "title": "canvas-mcp/src/canvas_mcp at main \u00b7 vishalsachdev/canvas-mcp",
       "count": 11,
       "uniques": 7
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/commits/main",
-      "title": "Commits \u00b7 vishalsachdev/canvas-mcp",
-      "count": 11,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",

@@ -1,7 +1,7 @@
 {
   "repo": "badm350-slides",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-21T14:06:34.775187+00:00",
+  "last_updated": "2026-04-22T14:00:08.487975+00:00",
   "stars": 0,
   "forks": 0,
   "description": "BADM 350 Lecture Slides (Slidev)",
@@ -167,6 +167,10 @@
       "uniques": 0
     },
     "2026-04-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-21": {
       "count": 0,
       "uniques": 0
     }
@@ -335,6 +339,10 @@
     "2026-04-20": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-04-21": {
+      "count": 15,
+      "uniques": 8
     }
   },
   "referrers": [],
