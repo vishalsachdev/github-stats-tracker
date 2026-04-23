@@ -1,7 +1,7 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-22T14:00:08.487975+00:00",
+  "last_updated": "2026-04-23T14:00:08.598926+00:00",
   "stars": 107,
   "forks": 33,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
@@ -277,6 +277,10 @@
     "2026-04-21": {
       "count": 100,
       "uniques": 57
+    },
+    "2026-04-22": {
+      "count": 69,
+      "uniques": 56
     }
   },
   "clones": {
@@ -551,27 +555,31 @@
     "2026-04-21": {
       "count": 170,
       "uniques": 65
+    },
+    "2026-04-22": {
+      "count": 83,
+      "uniques": 48
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 629,
-      "uniques": 330
+      "count": 607,
+      "uniques": 329
     },
     {
       "referrer": "github.com",
-      "count": 248,
-      "uniques": 87
+      "count": 214,
+      "uniques": 77
     },
     {
       "referrer": "statics.teams.cdn.office.net",
-      "count": 46,
-      "uniques": 14
+      "count": 44,
+      "uniques": 13
     },
     {
       "referrer": "Bing",
-      "count": 45,
+      "count": 44,
       "uniques": 23
     },
     {
@@ -581,27 +589,32 @@
     },
     {
       "referrer": "search.brave.com",
-      "count": 21,
-      "uniques": 7
+      "count": 19,
+      "uniques": 5
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
-      "count": 21,
-      "uniques": 10
+      "count": 18,
+      "uniques": 7
     },
     {
       "referrer": "DuckDuckGo",
-      "count": 12,
+      "count": 14,
       "uniques": 5
     },
     {
       "referrer": "mcpservers.org",
-      "count": 9,
+      "count": 8,
       "uniques": 2
     },
     {
       "referrer": "linkedin.com",
       "count": 7,
+      "uniques": 4
+    },
+    {
+      "referrer": "registry.modelcontextprotocol.io",
+      "count": 6,
       "uniques": 4
     },
     {
@@ -644,43 +657,43 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 836,
-      "uniques": 548
+      "count": 813,
+      "uniques": 535
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
       "title": "/blob/main/docs/STUDENT_GUIDE.md",
-      "count": 71,
-      "uniques": 51
+      "count": 57,
+      "uniques": 41
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 37,
-      "uniques": 22
+      "count": 36,
+      "uniques": 21
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
       "title": "/pulls",
-      "count": 32,
-      "uniques": 12
+      "count": 28,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 27,
+      "count": 24,
       "uniques": 14
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main",
       "title": "/tree/main",
-      "count": 25,
+      "count": 23,
       "uniques": 16
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
       "title": "/blob/main/docs/EDUCATOR_GUIDE.md",
-      "count": 20,
+      "count": 19,
       "uniques": 12
     },
     {
@@ -712,6 +725,12 @@
       "title": "/tree/main/src/canvas_mcp",
       "count": 15,
       "uniques": 11
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/skills/canvas-bulk-grading/SKILL.md",
+      "title": "/blob/main/skills/canvas-bulk-grading/SKILL.md",
+      "count": 15,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/README.md",

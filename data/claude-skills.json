@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-22T14:00:08.487975+00:00",
+  "last_updated": "2026-04-23T14:00:08.598926+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -277,6 +277,10 @@
     "2026-04-21": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-04-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -551,6 +555,10 @@
     "2026-04-21": {
       "count": 16,
       "uniques": 8
+    },
+    "2026-04-22": {
+      "count": 14,
+      "uniques": 7
     }
   },
   "referrers": [
@@ -614,20 +622,20 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 47,
+      "count": 45,
       "uniques": 39
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 12,
-      "uniques": 9
+      "count": 10,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
-      "count": 7,
-      "uniques": 3
+      "count": 5,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -668,8 +676,8 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
       "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 3,
-      "uniques": 2
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
@@ -842,6 +850,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/README.md",
       "title": "/blob/main/chartjs-generator/assets/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-bar.html",
+      "title": "/blob/main/chartjs-generator/assets/template-bar.html",
       "count": 1,
       "uniques": 1
     }

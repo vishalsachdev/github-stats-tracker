@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-22T14:00:08.487975+00:00",
+  "last_updated": "2026-04-23T14:00:08.598926+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -277,6 +277,10 @@
     "2026-04-21": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -551,13 +555,17 @@
     "2026-04-21": {
       "count": 7,
       "uniques": 3
+    },
+    "2026-04-22": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 15,
-      "uniques": 1
+      "count": 17,
+      "uniques": 2
     },
     {
       "referrer": "github.com",
@@ -584,6 +592,12 @@
       "uniques": 4
     },
     {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-prompts.sh",
+      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-prompts.sh",
+      "count": 4,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
       "title": "/blob/main/.claude-skills/skills/install-skill-tracker/SKILL.md",
       "count": 3,
@@ -596,16 +610,10 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-prompts.sh",
-      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-prompts.sh",
-      "count": 3,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
       "title": "/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
-      "count": 2,
-      "uniques": 2
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",

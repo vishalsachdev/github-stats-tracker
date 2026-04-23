@@ -1,7 +1,7 @@
 {
   "repo": "badm350-spring-2026-case-studies",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-22T14:00:08.487975+00:00",
+  "last_updated": "2026-04-23T14:00:08.598926+00:00",
   "stars": 0,
   "forks": 16,
   "description": "BADM 350 Spring 2026 \u2014 student team case studies on Codex automations built for their semester projects",
@@ -73,6 +73,10 @@
     "2026-04-21": {
       "count": 67,
       "uniques": 14
+    },
+    "2026-04-22": {
+      "count": 21,
+      "uniques": 6
     }
   },
   "clones": {
@@ -143,6 +147,10 @@
     "2026-04-21": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-04-22": {
+      "count": 6,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -161,7 +169,7 @@
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies",
       "title": "Overview",
-      "count": 37,
+      "count": 42,
       "uniques": 18
     },
     {
@@ -173,25 +181,31 @@
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/tree/main/case-studies",
       "title": "/tree/main/case-studies",
-      "count": 8,
+      "count": 9,
       "uniques": 7
-    },
-    {
-      "path": "/vishalsachdev/badm350-spring-2026-case-studies/forks",
-      "title": "/forks",
-      "count": 5,
-      "uniques": 4
-    },
-    {
-      "path": "/vishalsachdev/badm350-spring-2026-case-studies/pulls",
-      "title": "/pulls",
-      "count": 5,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/blob/main/_TEMPLATE.md",
       "title": "/blob/main/_TEMPLATE.md",
-      "count": 4,
+      "count": 7,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/3",
+      "title": "/pull/3",
+      "count": 7,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/forks",
+      "title": "/forks",
+      "count": 6,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/pulls",
+      "title": "/pulls",
+      "count": 6,
       "uniques": 3
     },
     {
@@ -203,8 +217,8 @@
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/tree/main",
       "title": "/tree/main",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/blob/main/README.md",
