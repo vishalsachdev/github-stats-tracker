@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-23T14:00:08.598926+00:00",
+  "last_updated": "2026-04-24T14:01:10.962826+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -281,6 +281,10 @@
     "2026-04-22": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-23": {
+      "count": 24,
+      "uniques": 1
     }
   },
   "clones": {
@@ -559,9 +563,18 @@
     "2026-04-22": {
       "count": 52,
       "uniques": 23
+    },
+    "2026-04-23": {
+      "count": 62,
+      "uniques": 20
     }
   },
   "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 25,
+      "uniques": 2
+    },
     {
       "referrer": "linkedin.com",
       "count": 4,
@@ -576,24 +589,49 @@
       "referrer": "com.linkedin.android",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
     }
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/skills-sh/tree/main/snapshots",
-      "title": "skills-sh/snapshots at main \u00b7 vishalsachdev/skills-sh \u00b7 GitHub",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/skills-sh",
       "title": "Overview",
-      "count": 1,
+      "count": 7,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/blob/main/analysis/daily/2026-04-23.md",
+      "title": "/blob/main/analysis/daily/2026-04-23.md",
+      "count": 4,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/tree/main/snapshots",
+      "title": "/tree/main/snapshots",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/actions",
+      "title": "/actions",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/tree/main/analysis",
+      "title": "/tree/main/analysis",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/tree/main/analysis/daily",
+      "title": "/tree/main/analysis/daily",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/blob/main/snapshots/2026-04-23.json",
+      "title": "/blob/main/snapshots/2026-04-23.json",
+      "count": 2,
       "uniques": 1
     },
     {
