@@ -1,8 +1,8 @@
 {
   "repo": "illinihunt",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-24T14:01:10.962826+00:00",
-  "stars": 2,
+  "last_updated": "2026-04-25T14:01:19.976920+00:00",
+  "stars": 3,
   "forks": 1,
   "description": "Showcase innovation at uiuc and create a community of builders",
   "views": {
@@ -285,6 +285,10 @@
     "2026-04-23": {
       "count": 9,
       "uniques": 1
+    },
+    "2026-04-24": {
+      "count": 15,
+      "uniques": 2
     }
   },
   "clones": {
@@ -567,26 +571,30 @@
     "2026-04-23": {
       "count": 6,
       "uniques": 4
+    },
+    "2026-04-24": {
+      "count": 30,
+      "uniques": 12
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 7,
-      "uniques": 3
+      "count": 20,
+      "uniques": 4
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/illinihunt",
       "title": "Overview",
-      "count": 7,
-      "uniques": 2
+      "count": 13,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/illinihunt/issues",
       "title": "/issues",
-      "count": 6,
+      "count": 13,
       "uniques": 2
     },
     {
@@ -610,6 +618,12 @@
     {
       "path": "/vishalsachdev/illinihunt/branches",
       "title": "/branches",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/illinihunt/blob/main/docs/design/DESIGN_REFRESH_SUMMARY.md",
+      "title": "/blob/main/docs/design/DESIGN_REFRESH_SUMMARY.md",
       "count": 2,
       "uniques": 1
     },
