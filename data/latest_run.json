@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-04-25T14:01:19.976920+00:00",
-  "repos_checked": 87,
-  "repos_with_traffic": 87,
+  "collected_at": "2026-04-26T14:00:04.795914+00:00",
+  "repos_checked": 88,
+  "repos_with_traffic": 88,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -77,6 +77,7 @@
     "pathshaper",
     "portfolio",
     "practicum",
+    "programos",
     "python4class",
     "recipe-finder",
     "remotion-star",
