@@ -1,7 +1,7 @@
 {
   "repo": "ai-innovation-engine",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-26T14:00:04.795914+00:00",
+  "last_updated": "2026-04-27T14:00:05.482497+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Research and planning for the Gies AI Innovation Engine \u2014 a multi-sided platform for AI challenges, student solutions, and human-AI collaboration research at UIUC",
@@ -157,6 +157,14 @@
     "2026-04-24": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-26": {
+      "count": 4,
+      "uniques": 1
     }
   },
   "clones": {
@@ -311,6 +319,14 @@
     "2026-04-24": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-25": {
+      "count": 5,
+      "uniques": 5
+    },
+    "2026-04-26": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -321,6 +337,12 @@
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/ai-innovation-engine/blob/06723f5edbb513c82bb4666fd21a7a2a8e91b3c8/research/alternatives/comparison.md",
+      "title": "/blob/06723f5edbb513c82bb4666fd21a7a2a8e91b3c8/research/alternatives/comparison.md",
+      "count": 2,
+      "uniques": 1
+    },
     {
       "path": "/vishalsachdev/ai-innovation-engine",
       "title": "Overview",
@@ -336,6 +358,12 @@
     {
       "path": "/vishalsachdev/ai-innovation-engine/blob/main/docs/pitches/executive-summary.md",
       "title": "/blob/main/docs/pitches/executive-summary.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-innovation-engine/blob/main/research/alternatives/comparison.md",
+      "title": "/blob/main/research/alternatives/comparison.md",
       "count": 1,
       "uniques": 1
     }

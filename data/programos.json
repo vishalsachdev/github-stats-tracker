@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-26T14:00:04.795914+00:00",
+  "last_updated": "2026-04-27T14:00:05.482497+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -55,12 +55,12 @@
       "uniques": 0
     },
     "2026-04-25": {
-      "count": 0,
-      "uniques": 0
+      "count": 2,
+      "uniques": 2
     },
     "2026-04-26": {
-      "count": 0,
-      "uniques": 0
+      "count": 7,
+      "uniques": 1
     }
   },
   "clones": {
@@ -113,14 +113,57 @@
       "uniques": 0
     },
     "2026-04-25": {
-      "count": 0,
-      "uniques": 0
+      "count": 33,
+      "uniques": 22
     },
     "2026-04-26": {
-      "count": 0,
-      "uniques": 0
+      "count": 2,
+      "uniques": 2
     }
   },
-  "referrers": [],
-  "paths": []
+  "referrers": [
+    {
+      "referrer": "agentlab.illinihunt.org",
+      "count": 9,
+      "uniques": 2
+    }
+  ],
+  "paths": [
+    {
+      "path": "/vishalsachdev/programos/blob/main/SPEC.md",
+      "title": "/blob/main/SPEC.md",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/ARCHITECTURE.md",
+      "title": "/blob/main/ARCHITECTURE.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/examples/groups",
+      "title": "/blob/main/examples/groups",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/examples/groups/email/CLAUDE.md",
+      "title": "/blob/main/examples/groups/email/CLAUDE.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/tree/main/examples/groups/email",
+      "title": "/tree/main/examples/groups/email",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "repo": "stripe-annual-letter-2025",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-26T14:00:04.795914+00:00",
+  "last_updated": "2026-04-27T14:00:05.482497+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Interactive exploration of Stripe's 2025 annual letter by Patrick & John Collison",
@@ -203,6 +203,14 @@
       "uniques": 0
     },
     "2026-04-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-26": {
       "count": 0,
       "uniques": 0
     }
@@ -407,6 +415,14 @@
     "2026-04-24": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-04-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [],
