@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-27T14:00:05.482497+00:00",
+  "last_updated": "2026-04-28T14:04:07.139217+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -297,6 +297,10 @@
     "2026-04-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-27": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -591,6 +595,10 @@
     "2026-04-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -602,14 +610,14 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/a2i-curriculum",
-      "title": "Overview",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/business-case.md",
       "title": "/blob/main/docs/proposal/business-case.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum",
+      "title": "Overview",
       "count": 1,
       "uniques": 1
     }

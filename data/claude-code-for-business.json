@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-for-business",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-27T14:00:05.482497+00:00",
+  "last_updated": "2026-04-28T14:04:07.139217+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Build functional business tools using Claude Code \u2014 no coding experience required. An 8-video YouTube course.",
@@ -297,6 +297,10 @@
     "2026-04-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-27": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -591,13 +595,17 @@
     "2026-04-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 7,
-      "uniques": 3
+      "count": 9,
+      "uniques": 4
     },
     {
       "referrer": "github.com",
@@ -624,6 +632,12 @@
       "uniques": 2
     },
     {
+      "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/01-first-contact",
+      "title": "/blob/main/exercises/01-first-contact",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-code-for-business/blob/main/resources/cheatsheet.md",
       "title": "/blob/main/resources/cheatsheet.md",
       "count": 1,
@@ -644,12 +658,6 @@
     {
       "path": "/vishalsachdev/claude-code-for-business/tree/main/exercises/04-automation",
       "title": "/tree/main/exercises/04-automation",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/01-first-contact",
-      "title": "/blob/main/exercises/01-first-contact",
       "count": 1,
       "uniques": 1
     },

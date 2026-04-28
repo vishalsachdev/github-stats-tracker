@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-27T14:00:05.482497+00:00",
+  "last_updated": "2026-04-28T14:04:07.139217+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -297,6 +297,10 @@
     "2026-04-26": {
       "count": 11,
       "uniques": 4
+    },
+    "2026-04-27": {
+      "count": 8,
+      "uniques": 3
     }
   },
   "clones": {
@@ -591,6 +595,10 @@
     "2026-04-26": {
       "count": 4,
       "uniques": 1
+    },
+    "2026-04-27": {
+      "count": 6,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -654,7 +662,7 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 50,
+      "count": 53,
       "uniques": 41
     },
     {
@@ -672,8 +680,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 5,
-      "uniques": 4
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
