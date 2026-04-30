@@ -1,7 +1,7 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-29T14:00:09.506041+00:00",
+  "last_updated": "2026-04-30T14:00:09.675019+00:00",
   "stars": 6,
   "forks": 1,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
@@ -299,6 +299,14 @@
       "uniques": 0
     },
     "2026-04-27": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-04-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-29": {
       "count": 1,
       "uniques": 1
     }
@@ -599,13 +607,21 @@
     "2026-04-27": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-04-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-04-29": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 6,
-      "uniques": 2
+      "count": 7,
+      "uniques": 3
     },
     {
       "referrer": "github.com",
@@ -622,8 +638,8 @@
     {
       "path": "/vishalsachdev/learning-design-pillars",
       "title": "Overview",
-      "count": 8,
-      "uniques": 8
+      "count": 9,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/learning-design-pillars/blob/main/CLAUDE.md",

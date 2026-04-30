@@ -1,7 +1,7 @@
 {
   "repo": "badm350-spring-2026-case-studies",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-29T14:00:09.506041+00:00",
+  "last_updated": "2026-04-30T14:00:09.675019+00:00",
   "stars": 0,
   "forks": 17,
   "description": "BADM 350 Spring 2026 \u2014 student team case studies on Codex automations built for their semester projects",
@@ -97,6 +97,14 @@
     "2026-04-27": {
       "count": 60,
       "uniques": 9
+    },
+    "2026-04-28": {
+      "count": 207,
+      "uniques": 20
+    },
+    "2026-04-29": {
+      "count": 4,
+      "uniques": 2
     }
   },
   "clones": {
@@ -191,18 +199,31 @@
     "2026-04-27": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-04-28": {
+      "count": 8,
+      "uniques": 8
+    },
+    "2026-04-29": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
+      "referrer": "github.com",
+      "count": 66,
+      "uniques": 11
+    },
+    {
       "referrer": "canvas.illinois.edu",
-      "count": 31,
+      "count": 42,
       "uniques": 2
     },
     {
-      "referrer": "github.com",
-      "count": 22,
-      "uniques": 7
+      "referrer": "chatgpt.com",
+      "count": 16,
+      "uniques": 2
     },
     {
       "referrer": "statics.teams.cdn.office.net",
@@ -213,61 +234,68 @@
       "referrer": "Google",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "referrer": "chatgpt.com",
-      "count": 1,
-      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies",
       "title": "Overview",
-      "count": 65,
-      "uniques": 23
+      "count": 95,
+      "uniques": 24
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/pulls",
       "title": "/pulls",
-      "count": 33,
-      "uniques": 9
+      "count": 72,
+      "uniques": 13
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/3",
       "title": "/pull/3",
-      "count": 28,
-      "uniques": 9
+      "count": 33,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/blob/main/_TEMPLATE.md",
       "title": "/blob/main/_TEMPLATE.md",
-      "count": 19,
+      "count": 32,
+      "uniques": 16
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/7",
+      "title": "/pull/7",
+      "count": 30,
+      "uniques": 10
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/tree/main/case-studies",
+      "title": "/tree/main/case-studies",
+      "count": 24,
       "uniques": 12
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/fork",
       "title": "/fork",
-      "count": 17,
+      "count": 19,
       "uniques": 13
-    },
-    {
-      "path": "/vishalsachdev/badm350-spring-2026-case-studies/tree/main/case-studies",
-      "title": "/tree/main/case-studies",
-      "count": 13,
-      "uniques": 9
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/4",
       "title": "/pull/4",
-      "count": 12,
-      "uniques": 6
+      "count": 16,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/5",
       "title": "/pull/5",
-      "count": 11,
-      "uniques": 4
+      "count": 16,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/8",
+      "title": "/pull/8",
+      "count": 12,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/2",

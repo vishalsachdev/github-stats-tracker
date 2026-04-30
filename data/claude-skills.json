@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-29T14:00:09.506041+00:00",
+  "last_updated": "2026-04-30T14:00:09.675019+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -301,6 +301,14 @@
     "2026-04-27": {
       "count": 8,
       "uniques": 3
+    },
+    "2026-04-28": {
+      "count": 6,
+      "uniques": 5
+    },
+    "2026-04-29": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -599,6 +607,14 @@
     "2026-04-27": {
       "count": 6,
       "uniques": 3
+    },
+    "2026-04-28": {
+      "count": 4,
+      "uniques": 2
+    },
+    "2026-04-29": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -609,7 +625,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 10,
+      "count": 11,
       "uniques": 2
     },
     {
@@ -663,19 +679,19 @@
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
       "count": 53,
-      "uniques": 41
+      "uniques": 42
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 8,
-      "uniques": 5
+      "count": 7,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
       "title": "/tree/main/quiz-generator",
-      "count": 8,
-      "uniques": 3
+      "count": 6,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills",
@@ -690,6 +706,12 @@
       "uniques": 2
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 5,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
       "title": "/blob/main/canvas-course-audit/SKILL.md",
       "count": 4,
@@ -700,12 +722,6 @@
       "title": "/tree/main/paper-writing/references",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 4,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
