@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-04-30T14:00:09.675019+00:00",
+  "last_updated": "2026-05-04T14:12:49.383310+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -309,6 +309,22 @@
     "2026-04-29": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-04-30": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-05-01": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-05-02": {
+      "count": 22,
+      "uniques": 21
+    },
+    "2026-05-03": {
+      "count": 131,
+      "uniques": 115
     }
   },
   "clones": {
@@ -615,17 +631,33 @@
     "2026-04-29": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-04-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-01": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-05-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-03": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
-      "referrer": "Bing",
-      "count": 14,
-      "uniques": 4
+      "referrer": "skillsplayground.com",
+      "count": 12,
+      "uniques": 2
     },
     {
-      "referrer": "skillsplayground.com",
-      "count": 11,
+      "referrer": "Bing",
+      "count": 8,
       "uniques": 2
     },
     {
@@ -678,14 +710,50 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 53,
-      "uniques": 42
+      "count": 48,
+      "uniques": 38
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
+      "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
+      "title": "/tree/main/chapter-content-generator",
+      "count": 8,
+      "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
+      "title": "/tree/main/agentic-validators",
       "count": 7,
-      "uniques": 4
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/badm350-canvas-builder",
+      "title": "/tree/main/badm350-canvas-builder",
+      "count": 7,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/canvas-assignment-design",
+      "title": "/tree/main/canvas-assignment-design",
+      "count": 7,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/canvas-feedback-template",
+      "title": "/tree/main/canvas-feedback-template",
+      "count": 7,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/venn-diagram-generator",
+      "title": "/tree/main/venn-diagram-generator",
+      "count": 7,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/vis-network",
+      "title": "/tree/main/vis-network",
+      "count": 7,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -697,13 +765,19 @@
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
       "count": 6,
-      "uniques": 5
+      "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
-      "title": "/tree/main/chartjs-generator",
+      "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
+      "title": "/tree/main/microsim-screen-capture",
+      "count": 6,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
       "count": 5,
-      "uniques": 2
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
@@ -740,6 +814,12 @@
       "title": "/blob/main/chartjs-generator/SKILL.md",
       "count": 3,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
+      "title": "/tree/main/chartjs-generator",
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
