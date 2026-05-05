@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-04T14:12:49.383310+00:00",
+  "last_updated": "2026-05-05T14:00:07.714559+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -325,6 +325,10 @@
     "2026-05-03": {
       "count": 131,
       "uniques": 115
+    },
+    "2026-05-04": {
+      "count": 42,
+      "uniques": 36
     }
   },
   "clones": {
@@ -647,17 +651,21 @@
     "2026-05-03": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-04": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
-      "referrer": "skillsplayground.com",
-      "count": 12,
-      "uniques": 2
+      "referrer": "Bing",
+      "count": 13,
+      "uniques": 3
     },
     {
-      "referrer": "Bing",
-      "count": 8,
+      "referrer": "skillsplayground.com",
+      "count": 12,
       "uniques": 2
     },
     {
@@ -710,8 +718,20 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 48,
-      "uniques": 38
+      "count": 46,
+      "uniques": 36
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 10,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 9,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -754,18 +774,6 @@
       "title": "/tree/main/vis-network",
       "count": 7,
       "uniques": 7
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 6,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 6,
-      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
