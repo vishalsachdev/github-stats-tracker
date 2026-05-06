@@ -1,8 +1,8 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-05T14:00:07.714559+00:00",
-  "stars": 123,
+  "last_updated": "2026-05-06T14:02:07.015423+00:00",
+  "stars": 124,
   "forks": 35,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
   "views": {
@@ -329,6 +329,10 @@
     "2026-05-04": {
       "count": 76,
       "uniques": 39
+    },
+    "2026-05-05": {
+      "count": 59,
+      "uniques": 43
     }
   },
   "clones": {
@@ -655,23 +659,22 @@
     "2026-05-04": {
       "count": 27,
       "uniques": 20
+    },
+    "2026-05-05": {
+      "count": 16,
+      "uniques": 11
     }
   },
   "referrers": [
     {
       "referrer": "Google",
       "count": 417,
-      "uniques": 292
+      "uniques": 291
     },
     {
       "referrer": "github.com",
-      "count": 158,
-      "uniques": 65
-    },
-    {
-      "referrer": "Bing",
-      "count": 37,
-      "uniques": 24
+      "count": 154,
+      "uniques": 67
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
@@ -679,9 +682,9 @@
       "uniques": 14
     },
     {
-      "referrer": "DuckDuckGo",
-      "count": 26,
-      "uniques": 7
+      "referrer": "Bing",
+      "count": 27,
+      "uniques": 21
     },
     {
       "referrer": "pypi.org",
@@ -689,14 +692,19 @@
       "uniques": 2
     },
     {
-      "referrer": "statics.teams.cdn.office.net",
-      "count": 13,
-      "uniques": 6
+      "referrer": "DuckDuckGo",
+      "count": 21,
+      "uniques": 7
     },
     {
       "referrer": "claude.ai",
       "count": 10,
       "uniques": 1
+    },
+    {
+      "referrer": "statics.teams.cdn.office.net",
+      "count": 8,
+      "uniques": 4
     },
     {
       "referrer": "linkedin.com",
@@ -709,14 +717,14 @@
       "uniques": 4
     },
     {
-      "referrer": "perplexity.ai",
-      "count": 5,
-      "uniques": 4
-    },
-    {
       "referrer": "l.facebook.com",
       "count": 5,
       "uniques": 1
+    },
+    {
+      "referrer": "perplexity.ai",
+      "count": 4,
+      "uniques": 3
     },
     {
       "referrer": "search.brave.com",
@@ -753,20 +761,14 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 621,
-      "uniques": 469
+      "count": 607,
+      "uniques": 461
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 24,
-      "uniques": 13
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
-      "title": "/tree/main/skills",
       "count": 23,
-      "uniques": 14
+      "uniques": 13
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
@@ -775,16 +777,16 @@
       "uniques": 10
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/blob/main/skills/canvas-bulk-grading/SKILL.md",
-      "title": "/blob/main/skills/canvas-bulk-grading/SKILL.md",
-      "count": 19,
-      "uniques": 5
+      "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
+      "title": "/tree/main/skills",
+      "count": 17,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
       "title": "/pulls",
-      "count": 17,
-      "uniques": 8
+      "count": 16,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
@@ -803,6 +805,12 @@
       "title": "/pull/90",
       "count": 16,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/skills/canvas-bulk-grading/SKILL.md",
+      "title": "/blob/main/skills/canvas-bulk-grading/SKILL.md",
+      "count": 15,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/.claude",
@@ -845,6 +853,12 @@
       "title": "/pull/99",
       "count": 13,
       "uniques": 10
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pull/96",
+      "title": "/pull/96",
+      "count": 13,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/CLAUDE.md",
