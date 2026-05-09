@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-06T14:02:07.015423+00:00",
+  "last_updated": "2026-05-09T14:29:24.131997+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -333,6 +333,18 @@
     "2026-05-05": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-06": {
+      "count": 13,
+      "uniques": 9
+    },
+    "2026-05-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-08": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -663,6 +675,18 @@
     "2026-05-05": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-05-07": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-05-08": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -673,8 +697,8 @@
     },
     {
       "referrer": "Google",
-      "count": 3,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "github.com",
@@ -689,28 +713,28 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 10,
+      "uniques": 10
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generat",
+      "title": "/tree/main/.claude-skills/skills/mermaid-generat",
+      "count": 5,
+      "uniques": 5
+    },
+    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator",
       "title": "/tree/main/.claude-skills/skills/mermaid-generator",
       "count": 4,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
-      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",
@@ -755,9 +779,15 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-prompts.sh",
       "title": "/blob/main/.claude-skills/skills/install-skill-tracker/scripts/track-prompts.sh",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {
@@ -913,6 +943,12 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator/assets",
       "title": "/tree/main/.claude-skills/skills/mermaid-generator/assets",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/setup.py",
+      "title": "/blob/main/setup.py",
       "count": 1,
       "uniques": 1
     }

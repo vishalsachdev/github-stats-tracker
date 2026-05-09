@@ -1,7 +1,7 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-06T14:02:07.015423+00:00",
+  "last_updated": "2026-05-09T14:29:24.131997+00:00",
   "stars": 6,
   "forks": 1,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
@@ -331,6 +331,18 @@
       "uniques": 0
     },
     "2026-05-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-06": {
+      "count": 7,
+      "uniques": 7
+    },
+    "2026-05-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-08": {
       "count": 0,
       "uniques": 0
     }
@@ -663,13 +675,25 @@
     "2026-05-05": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-05-07": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-05-08": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 6,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "github.com",
@@ -688,6 +712,12 @@
       "title": "Overview",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-course-audit",
+      "title": "/tree/main/skills/canvas-course-audit",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/learning-design-pillars/blob/main/CLAUDE.md",
@@ -740,12 +770,6 @@
     {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/articles",
       "title": "vishalsachdev/learning-design-pillars: Claude Code skills for applying eviden...",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-course-audit",
-      "title": "learning-design-pillars/skills at main \u00b7 vishalsachdev/learning-design-pillars",
       "count": 1,
       "uniques": 1
     },
