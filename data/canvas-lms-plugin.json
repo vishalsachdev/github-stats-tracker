@@ -1,7 +1,7 @@
 {
   "repo": "canvas-lms-plugin",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-09T14:29:24.131997+00:00",
+  "last_updated": "2026-05-10T14:00:21.368416+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Canvas LMS plugin for Claude Code & Cowork \u2014 manage pages, assignments, modules, and more",
@@ -259,6 +259,10 @@
       "uniques": 0
     },
     "2026-05-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-09": {
       "count": 0,
       "uniques": 0
     }
@@ -519,6 +523,10 @@
     "2026-05-08": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-05-09": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [

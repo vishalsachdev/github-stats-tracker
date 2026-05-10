@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-09T14:29:24.131997+00:00",
+  "last_updated": "2026-05-10T14:00:21.368416+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -345,6 +345,10 @@
     "2026-05-08": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-05-09": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -687,18 +691,22 @@
     "2026-05-08": {
       "count": 7,
       "uniques": 5
+    },
+    "2026-05-09": {
+      "count": 10,
+      "uniques": 4
     }
   },
   "referrers": [
     {
       "referrer": "skillsplayground.com",
-      "count": 11,
+      "count": 12,
       "uniques": 3
     },
     {
       "referrer": "Bing",
-      "count": 7,
-      "uniques": 2
+      "count": 5,
+      "uniques": 1
     },
     {
       "referrer": "skills.sh",
@@ -750,14 +758,14 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 31,
-      "uniques": 24
+      "count": 29,
+      "uniques": 23
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 11,
-      "uniques": 8
+      "count": 10,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -770,6 +778,12 @@
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 8,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -818,12 +832,6 @@
       "title": "/tree/main",
       "count": 5,
       "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 5,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",

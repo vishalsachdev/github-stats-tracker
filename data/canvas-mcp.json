@@ -1,7 +1,7 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-09T14:29:24.131997+00:00",
+  "last_updated": "2026-05-10T14:00:21.368416+00:00",
   "stars": 128,
   "forks": 34,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
@@ -345,6 +345,10 @@
     "2026-05-08": {
       "count": 96,
       "uniques": 37
+    },
+    "2026-05-09": {
+      "count": 27,
+      "uniques": 18
     }
   },
   "clones": {
@@ -687,28 +691,32 @@
     "2026-05-08": {
       "count": 47,
       "uniques": 14
+    },
+    "2026-05-09": {
+      "count": 35,
+      "uniques": 17
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 418,
-      "uniques": 261
+      "count": 404,
+      "uniques": 251
     },
     {
       "referrer": "github.com",
-      "count": 156,
-      "uniques": 65
+      "count": 133,
+      "uniques": 62
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
-      "count": 31,
-      "uniques": 14
+      "count": 26,
+      "uniques": 13
     },
     {
       "referrer": "Bing",
       "count": 26,
-      "uniques": 17
+      "uniques": 18
     },
     {
       "referrer": "pypi.org",
@@ -719,11 +727,6 @@
       "referrer": "DuckDuckGo",
       "count": 20,
       "uniques": 5
-    },
-    {
-      "referrer": "claude.ai",
-      "count": 12,
-      "uniques": 2
     },
     {
       "referrer": "statics.teams.cdn.office.net",
@@ -746,14 +749,14 @@
       "uniques": 1
     },
     {
+      "referrer": "search.brave.com",
+      "count": 5,
+      "uniques": 4
+    },
+    {
       "referrer": "perplexity.ai",
       "count": 4,
       "uniques": 3
-    },
-    {
-      "referrer": "search.brave.com",
-      "count": 4,
-      "uniques": 4
     },
     {
       "referrer": "mcpservers.org",
@@ -763,6 +766,11 @@
     {
       "referrer": "uts-edu.atlassian.net",
       "count": 4,
+      "uniques": 1
+    },
+    {
+      "referrer": "claude.ai",
+      "count": 3,
       "uniques": 1
     },
     {
@@ -785,20 +793,14 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 570,
-      "uniques": 426
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
-      "title": "/tree/main/src/canvas_mcp",
-      "count": 23,
-      "uniques": 11
+      "count": 545,
+      "uniques": 407
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 22,
-      "uniques": 14
+      "count": 24,
+      "uniques": 15
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
@@ -825,12 +827,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/blob/main/skills/canvas-bulk-grading/SKILL.md",
-      "title": "/blob/main/skills/canvas-bulk-grading/SKILL.md",
-      "count": 15,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/canvas-mcp/tree/main/.claude",
       "title": "/tree/main/.claude",
       "count": 15,
@@ -847,12 +843,6 @@
       "title": "/commits/main",
       "count": 14,
       "uniques": 4
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main",
-      "title": "/tree/main",
-      "count": 13,
-      "uniques": 9
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",
@@ -877,6 +867,24 @@
       "title": "/blob/main/CLAUDE.md",
       "count": 12,
       "uniques": 11
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/src/canvas_mcp",
+      "title": "/tree/main/src/canvas_mcp",
+      "count": 11,
+      "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/skills/canvas-bulk-grading/SKILL.md",
+      "title": "/blob/main/skills/canvas-bulk-grading/SKILL.md",
+      "count": 11,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/tree/main",
+      "title": "/tree/main",
+      "count": 11,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/tools",
