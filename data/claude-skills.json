@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-10T14:00:21.368416+00:00",
+  "last_updated": "2026-05-11T14:00:06.155749+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -349,6 +349,10 @@
     "2026-05-09": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-05-10": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -695,13 +699,17 @@
     "2026-05-09": {
       "count": 10,
       "uniques": 4
+    },
+    "2026-05-10": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "skillsplayground.com",
-      "count": 12,
-      "uniques": 3
+      "count": 5,
+      "uniques": 2
     },
     {
       "referrer": "Bing",
@@ -758,14 +766,14 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 29,
-      "uniques": 23
+      "count": 25,
+      "uniques": 20
     },
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 10,
-      "uniques": 7
+      "count": 11,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -824,6 +832,12 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
+      "count": 6,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
+      "title": "/tree/main/glossary-generator",
       "count": 6,
       "uniques": 6
     },

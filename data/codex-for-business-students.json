@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-10T14:00:21.368416+00:00",
+  "last_updated": "2026-05-11T14:00:06.155749+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -263,6 +263,10 @@
       "uniques": 1
     },
     "2026-05-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-10": {
       "count": 0,
       "uniques": 0
     }
@@ -527,13 +531,17 @@
     "2026-05-09": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-05-10": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 14,
-      "uniques": 6
+      "count": 13,
+      "uniques": 5
     },
     {
       "referrer": "linkedin.com",
@@ -570,8 +578,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 12,
-      "uniques": 10
+      "count": 10,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/templates",
@@ -652,15 +660,15 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario",
-      "title": "/tree/main/business-scenario",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/docs/assets",
       "title": "/tree/main/docs/assets",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/business-scenario",
+      "title": "/tree/main/business-scenario",
+      "count": 1,
       "uniques": 1
     },
     {

@@ -1,7 +1,7 @@
 {
   "repo": "illinihunt",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-10T14:00:21.368416+00:00",
+  "last_updated": "2026-05-11T14:00:06.155749+00:00",
   "stars": 3,
   "forks": 1,
   "description": "Showcase innovation at uiuc and create a community of builders",
@@ -347,6 +347,10 @@
       "uniques": 0
     },
     "2026-05-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-10": {
       "count": 0,
       "uniques": 0
     }
@@ -695,12 +699,16 @@
     "2026-05-09": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-10": {
+      "count": 63,
+      "uniques": 39
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 16,
+      "count": 10,
       "uniques": 2
     },
     {
@@ -718,25 +726,19 @@
     {
       "path": "/vishalsachdev/illinihunt",
       "title": "Overview",
-      "count": 12,
-      "uniques": 7
-    },
-    {
-      "path": "/vishalsachdev/illinihunt/issues",
-      "title": "/issues",
-      "count": 8,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/illinihunt/issues/76",
-      "title": "/issues/76",
-      "count": 7,
-      "uniques": 4
+      "count": 10,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/illinihunt/pull/78",
       "title": "/pull/78",
       "count": 7,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/illinihunt/issues",
+      "title": "/issues",
+      "count": 6,
       "uniques": 2
     },
     {
@@ -749,6 +751,12 @@
       "path": "/vishalsachdev/illinihunt/issues/77",
       "title": "/issues/77",
       "count": 4,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/illinihunt/issues/76",
+      "title": "/issues/76",
+      "count": 3,
       "uniques": 2
     },
     {
