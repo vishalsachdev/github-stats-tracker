@@ -1,7 +1,7 @@
 {
   "repo": "illinihunt",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-11T14:00:06.155749+00:00",
+  "last_updated": "2026-05-13T14:00:04.264639+00:00",
   "stars": 3,
   "forks": 1,
   "description": "Showcase innovation at uiuc and create a community of builders",
@@ -351,6 +351,14 @@
       "uniques": 0
     },
     "2026-05-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-12": {
       "count": 0,
       "uniques": 0
     }
@@ -703,17 +711,25 @@
     "2026-05-10": {
       "count": 63,
       "uniques": 39
+    },
+    "2026-05-11": {
+      "count": 5,
+      "uniques": 2
+    },
+    "2026-05-12": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "referrers": [
     {
-      "referrer": "github.com",
-      "count": 10,
-      "uniques": 2
-    },
-    {
       "referrer": "statics.teams.cdn.office.net",
       "count": 9,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 4,
       "uniques": 1
     },
     {
@@ -726,8 +742,8 @@
     {
       "path": "/vishalsachdev/illinihunt",
       "title": "Overview",
-      "count": 10,
-      "uniques": 6
+      "count": 7,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/illinihunt/pull/78",
@@ -736,15 +752,9 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/illinihunt/issues",
-      "title": "/issues",
-      "count": 6,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/illinihunt/pulls",
       "title": "/pulls",
-      "count": 5,
+      "count": 4,
       "uniques": 2
     },
     {
@@ -757,6 +767,12 @@
       "path": "/vishalsachdev/illinihunt/issues/76",
       "title": "/issues/76",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/illinihunt/issues",
+      "title": "/issues",
+      "count": 2,
       "uniques": 2
     },
     {
@@ -882,6 +898,18 @@
     {
       "path": "/vishalsachdev/illinihunt/commit/f75735f2c03c911745308fa66d8b16be2401ceea",
       "title": "/commit/f75735f2c03c911745308fa66d8b16be2401ceea",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/illinihunt/pull/78/checks",
+      "title": "/pull/78/checks",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/illinihunt/pull/78/commits",
+      "title": "/pull/78/commits",
       "count": 1,
       "uniques": 1
     }
