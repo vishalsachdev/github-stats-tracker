@@ -1,7 +1,7 @@
 {
   "repo": "grit-cart",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-15T14:00:04.416459+00:00",
+  "last_updated": "2026-05-16T14:02:50.186133+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Grit-CART Framework: Multi-agent critical evaluation of an AI entrepreneurship/intrapreneurship educational framework. 74 sources, 5 independent evaluations, 31K+ words.",
@@ -369,6 +369,10 @@
     "2026-05-14": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-05-15": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -735,18 +739,22 @@
     "2026-05-14": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-15": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
-      "referrer": "linkedin.com",
-      "count": 5,
-      "uniques": 2
-    },
-    {
       "referrer": "github.com",
       "count": 4,
       "uniques": 2
+    },
+    {
+      "referrer": "linkedin.com",
+      "count": 2,
+      "uniques": 1
     },
     {
       "referrer": "substack.com",
@@ -809,8 +817,8 @@
     {
       "path": "/vishalsachdev/grit-cart",
       "title": "Overview",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/grit-cart/tree/main/articles",
@@ -833,6 +841,12 @@
     {
       "path": "/vishalsachdev/grit-cart/blob/main/articles/2026-02-15-universal-paste-cover-twitter.png",
       "title": "/blob/main/articles/2026-02-15-universal-paste-cover-twitter.png",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/grit-cart/blob/main/grok-conversation-grit-cart.md",
+      "title": "/blob/main/grok-conversation-grit-cart.md",
       "count": 1,
       "uniques": 1
     }

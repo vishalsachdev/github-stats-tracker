@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-15T14:00:04.416459+00:00",
+  "last_updated": "2026-05-16T14:02:50.186133+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -369,6 +369,10 @@
     "2026-05-14": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-05-15": {
+      "count": 12,
+      "uniques": 3
     }
   },
   "clones": {
@@ -735,18 +739,22 @@
     "2026-05-14": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-15": {
+      "count": 4,
+      "uniques": 3
     }
   },
   "referrers": [
     {
-      "referrer": "Google",
-      "count": 6,
-      "uniques": 4
+      "referrer": "Bing",
+      "count": 12,
+      "uniques": 2
     },
     {
-      "referrer": "Bing",
-      "count": 5,
-      "uniques": 1
+      "referrer": "Google",
+      "count": 10,
+      "uniques": 5
     },
     {
       "referrer": "skillsplayground.com",
@@ -792,20 +800,25 @@
       "referrer": "kagi.com",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "chatgpt.com",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 11,
-      "uniques": 8
+      "count": 12,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 10,
-      "uniques": 9
+      "count": 8,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",

@@ -1,9 +1,9 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-15T14:00:04.416459+00:00",
+  "last_updated": "2026-05-16T14:02:50.186133+00:00",
   "stars": 129,
-  "forks": 34,
+  "forks": 35,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
   "views": {
     "2026-02-02": {
@@ -369,6 +369,10 @@
     "2026-05-14": {
       "count": 73,
       "uniques": 52
+    },
+    "2026-05-15": {
+      "count": 62,
+      "uniques": 44
     }
   },
   "clones": {
@@ -735,23 +739,22 @@
     "2026-05-14": {
       "count": 87,
       "uniques": 36
+    },
+    "2026-05-15": {
+      "count": 53,
+      "uniques": 26
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 397,
-      "uniques": 254
+      "count": 404,
+      "uniques": 251
     },
     {
       "referrer": "github.com",
-      "count": 124,
-      "uniques": 62
-    },
-    {
-      "referrer": "canvas-mcp.illinihunt.org",
-      "count": 27,
-      "uniques": 10
+      "count": 118,
+      "uniques": 60
     },
     {
       "referrer": "pypi.org",
@@ -759,14 +762,14 @@
       "uniques": 2
     },
     {
+      "referrer": "canvas-mcp.illinihunt.org",
+      "count": 21,
+      "uniques": 8
+    },
+    {
       "referrer": "Bing",
       "count": 20,
       "uniques": 15
-    },
-    {
-      "referrer": "DuckDuckGo",
-      "count": 17,
-      "uniques": 3
     },
     {
       "referrer": "statics.teams.cdn.office.net",
@@ -779,9 +782,24 @@
       "uniques": 4
     },
     {
+      "referrer": "DuckDuckGo",
+      "count": 6,
+      "uniques": 2
+    },
+    {
       "referrer": "registry.modelcontextprotocol.io",
       "count": 6,
       "uniques": 4
+    },
+    {
+      "referrer": "com.reddit.frontpage",
+      "count": 6,
+      "uniques": 6
+    },
+    {
+      "referrer": "reddit.com",
+      "count": 6,
+      "uniques": 5
     },
     {
       "referrer": "l.facebook.com",
@@ -805,8 +823,8 @@
     },
     {
       "referrer": "perplexity.ai",
-      "count": 4,
-      "uniques": 3
+      "count": 3,
+      "uniques": 2
     },
     {
       "referrer": "claude.ai",
@@ -827,37 +845,26 @@
       "referrer": "vishalsachdev.github.io",
       "count": 2,
       "uniques": 2
-    },
-    {
-      "referrer": "com.reddit.frontpage",
-      "count": 2,
-      "uniques": 2
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 535,
-      "uniques": 395
+      "count": 540,
+      "uniques": 403
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 26,
-      "uniques": 16
+      "count": 23,
+      "uniques": 15
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 19,
+      "count": 18,
       "uniques": 15
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/pulls",
-      "title": "/pulls",
-      "count": 16,
-      "uniques": 8
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
@@ -876,6 +883,12 @@
       "title": "/tree/main/.claude",
       "count": 15,
       "uniques": 13
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pulls",
+      "title": "/pulls",
+      "count": 14,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/STUDENT_GUIDE.md",
@@ -922,8 +935,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/discussions",
       "title": "/discussions",
-      "count": 11,
-      "uniques": 9
+      "count": 10,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/CLAUDE.md",
@@ -970,8 +983,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",
       "title": "/blob/main/AGENTS.md",
-      "count": 7,
-      "uniques": 7
+      "count": 8,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/.claude/skills",
