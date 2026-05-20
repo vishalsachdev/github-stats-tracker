@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-19T14:00:08.784124+00:00",
+  "last_updated": "2026-05-20T14:00:08.498398+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -383,6 +383,10 @@
       "uniques": 0
     },
     "2026-05-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-05-19": {
       "count": 0,
       "uniques": 0
     }
@@ -767,6 +771,10 @@
     "2026-05-18": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-05-19": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1141,6 +1149,18 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-bar.html",
       "title": "/blob/main/chartjs-generator/assets/template-bar.html",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/infographic-generator-p5/SKILL.md",
+      "title": "/blob/main/infographic-generator-p5/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/microsim-p5/SKILL.md",
+      "title": "/blob/main/microsim-p5/SKILL.md",
       "count": 1,
       "uniques": 1
     }
