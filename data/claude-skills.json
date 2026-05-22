@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-21T14:00:08.737901+00:00",
+  "last_updated": "2026-05-22T14:01:01.774246+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -393,6 +393,10 @@
     "2026-05-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-21": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -783,13 +787,17 @@
     "2026-05-20": {
       "count": 8,
       "uniques": 5
+    },
+    "2026-05-21": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 10,
-      "uniques": 6
+      "count": 8,
+      "uniques": 5
     },
     {
       "referrer": "Bing",
@@ -798,8 +806,8 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 4,
-      "uniques": 2
+      "count": 5,
+      "uniques": 3
     },
     {
       "referrer": "skills.sh",
@@ -855,12 +863,6 @@
       "uniques": 8
     },
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 7,
-      "uniques": 7
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
       "title": "/tree/main/agentic-validators",
       "count": 7,
@@ -895,6 +897,12 @@
       "title": "/tree/main/vis-network",
       "count": 7,
       "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
@@ -935,8 +943,8 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
-      "count": 3,
-      "uniques": 2
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
@@ -1169,6 +1177,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/microsim-p5/SKILL.md",
       "title": "/blob/main/microsim-p5/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/README.md",
+      "title": "/blob/main/quiz-generator/README.md",
       "count": 1,
       "uniques": 1
     }
