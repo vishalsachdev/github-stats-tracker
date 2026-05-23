@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-22T14:01:01.774246+00:00",
+  "last_updated": "2026-05-23T14:00:06.880466+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -395,6 +395,10 @@
       "uniques": 1
     },
     "2026-05-21": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-05-22": {
       "count": 1,
       "uniques": 1
     }
@@ -791,6 +795,10 @@
     "2026-05-21": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-22": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -829,10 +837,16 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
+      "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
+      "count": 3,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/database-management",
       "title": "Overview",
-      "count": 4,
-      "uniques": 4
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",
@@ -869,12 +883,6 @@
       "title": "/tree/main/.claude-skills/skills/mermaid-generator/references",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
-      "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills",

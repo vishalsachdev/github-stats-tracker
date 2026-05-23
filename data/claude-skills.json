@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-22T14:01:01.774246+00:00",
+  "last_updated": "2026-05-23T14:00:06.880466+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -395,6 +395,10 @@
       "uniques": 1
     },
     "2026-05-21": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-05-22": {
       "count": 2,
       "uniques": 2
     }
@@ -791,13 +795,17 @@
     "2026-05-21": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-05-22": {
+      "count": 5,
+      "uniques": 3
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 8,
-      "uniques": 5
+      "count": 9,
+      "uniques": 6
     },
     {
       "referrer": "Bing",
@@ -806,7 +814,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 5,
+      "count": 4,
       "uniques": 3
     },
     {
@@ -943,7 +951,7 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
-      "count": 4,
+      "count": 3,
       "uniques": 3
     },
     {
@@ -983,12 +991,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
       "count": 2,
@@ -1022,6 +1024,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/vercel-react-best-practices",
       "title": "/tree/main/vercel-react-best-practices",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 1,
       "uniques": 1
     },
     {
