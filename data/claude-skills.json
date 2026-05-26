@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-25T14:00:08.541661+00:00",
+  "last_updated": "2026-05-26T14:00:09.649158+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -409,6 +409,10 @@
     "2026-05-24": {
       "count": 10,
       "uniques": 8
+    },
+    "2026-05-25": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -815,6 +819,10 @@
     "2026-05-24": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-05-25": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -937,8 +945,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 5,
-      "uniques": 5
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -1001,12 +1009,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
-      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
       "count": 2,
@@ -1040,6 +1042,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/vercel-react-best-practices",
       "title": "/tree/main/vercel-react-best-practices",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
+      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
+      "count": 1,
       "uniques": 1
     },
     {
