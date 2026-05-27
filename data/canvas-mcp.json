@@ -1,7 +1,7 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-26T14:00:09.649158+00:00",
+  "last_updated": "2026-05-27T14:00:08.992689+00:00",
   "stars": 134,
   "forks": 34,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
@@ -413,6 +413,10 @@
     "2026-05-25": {
       "count": 57,
       "uniques": 28
+    },
+    "2026-05-26": {
+      "count": 44,
+      "uniques": 25
     }
   },
   "clones": {
@@ -823,18 +827,22 @@
     "2026-05-25": {
       "count": 26,
       "uniques": 10
+    },
+    "2026-05-26": {
+      "count": 30,
+      "uniques": 11
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 333,
-      "uniques": 219
+      "count": 334,
+      "uniques": 216
     },
     {
       "referrer": "github.com",
-      "count": 82,
-      "uniques": 51
+      "count": 81,
+      "uniques": 49
     },
     {
       "referrer": "reddit.com",
@@ -852,13 +860,13 @@
       "uniques": 6
     },
     {
-      "referrer": "Bing",
-      "count": 11,
-      "uniques": 9
-    },
-    {
       "referrer": "com.reddit.frontpage",
       "count": 10,
+      "uniques": 8
+    },
+    {
+      "referrer": "Bing",
+      "count": 9,
       "uniques": 8
     },
     {
@@ -867,19 +875,9 @@
       "uniques": 4
     },
     {
-      "referrer": "linkedin.com",
-      "count": 7,
-      "uniques": 4
-    },
-    {
       "referrer": "registry.modelcontextprotocol.io",
       "count": 6,
       "uniques": 4
-    },
-    {
-      "referrer": "search.brave.com",
-      "count": 5,
-      "uniques": 5
     },
     {
       "referrer": "l.facebook.com",
@@ -887,14 +885,14 @@
       "uniques": 1
     },
     {
+      "referrer": "search.brave.com",
+      "count": 4,
+      "uniques": 4
+    },
+    {
       "referrer": "uts-edu.atlassian.net",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "referrer": "claude.ai",
-      "count": 4,
-      "uniques": 2
     },
     {
       "referrer": "DuckDuckGo",
@@ -917,6 +915,16 @@
       "uniques": 1
     },
     {
+      "referrer": "linkedin.com",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "claude.ai",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "referrer": "mcpservers.org",
       "count": 2,
       "uniques": 1
@@ -936,8 +944,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 529,
-      "uniques": 387
+      "count": 536,
+      "uniques": 380
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
@@ -966,8 +974,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 14,
-      "uniques": 13
+      "count": 13,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pull/99",
@@ -978,7 +986,7 @@
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 12,
+      "count": 13,
       "uniques": 10
     },
     {
@@ -1036,15 +1044,21 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",
-      "title": "/blob/main/AGENTS.md",
+      "path": "/vishalsachdev/canvas-mcp/pulls",
+      "title": "/pulls",
+      "count": 7,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/blob/main/tools/README.md",
+      "title": "/blob/main/tools/README.md",
       "count": 7,
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/pulls",
-      "title": "/pulls",
-      "count": 7,
+      "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",
+      "title": "/blob/main/AGENTS.md",
+      "count": 6,
       "uniques": 6
     },
     {
@@ -1074,12 +1088,6 @@
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/CLAUDE.md",
       "title": "/blob/main/CLAUDE.md",
-      "count": 6,
-      "uniques": 6
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/blob/main/tools/README.md",
-      "title": "/blob/main/tools/README.md",
       "count": 6,
       "uniques": 6
     },

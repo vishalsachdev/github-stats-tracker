@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-26T14:00:09.649158+00:00",
+  "last_updated": "2026-05-27T14:00:08.992689+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -413,6 +413,10 @@
     "2026-05-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-05-26": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -823,18 +827,22 @@
     "2026-05-25": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-05-26": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 9,
-      "uniques": 6
+      "count": 10,
+      "uniques": 7
     },
     {
       "referrer": "Bing",
-      "count": 7,
-      "uniques": 1
+      "count": 8,
+      "uniques": 2
     },
     {
       "referrer": "skills.sh",
@@ -843,7 +851,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 3,
+      "count": 4,
       "uniques": 3
     },
     {
@@ -931,6 +939,12 @@
       "uniques": 7
     },
     {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 7,
+      "uniques": 7
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
@@ -939,12 +953,6 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
       "title": "/tree/main/glossary-generator",
-      "count": 6,
-      "uniques": 6
-    },
-    {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
       "count": 6,
       "uniques": 6
     },
@@ -997,14 +1005,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 2,
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 3,
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
       "count": 2,
       "uniques": 2
     },
