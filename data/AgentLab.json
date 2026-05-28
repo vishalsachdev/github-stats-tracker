@@ -1,7 +1,7 @@
 {
   "repo": "AgentLab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-27T14:00:08.992689+00:00",
+  "last_updated": "2026-05-28T14:00:11.010018+00:00",
   "stars": 5,
   "forks": 0,
   "description": "AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies College of Business exploring how intelligent agent teams can transform learning experiences.",
@@ -830,6 +830,10 @@
     },
     "2026-05-26": {
       "count": 2,
+      "uniques": 1
+    },
+    "2026-05-27": {
+      "count": 1,
       "uniques": 1
     }
   },

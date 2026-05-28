@@ -1,9 +1,8 @@
 {
-  "collected_at": "2026-05-27T14:00:08.992689+00:00",
+  "collected_at": "2026-05-28T14:00:11.010018+00:00",
   "repos_checked": 89,
-  "repos_with_traffic": 89,
+  "repos_with_traffic": 88,
   "repos_with_traffic_names": [
-    "2025-in-review",
     "AgentLab",
     "CanvasGroupDetailsExtractor",
     "GitHireEvaluator",
@@ -35,6 +34,7 @@
     "claude-code-for-business",
     "claude-code-skills",
     "claude-interviewer-clone",
+    "claude-mental-models",
     "claude-skills",
     "claude-soul-viz",
     "codex-for-badm350",
@@ -57,7 +57,6 @@
     "helloworld",
     "icis2025-context-engineering",
     "illiniclaw",
-    "illinihunt",
     "inquiring-agents",
     "kg-learning",
     "learning-design-pillars",

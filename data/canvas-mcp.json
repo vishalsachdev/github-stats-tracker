@@ -1,8 +1,8 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-27T14:00:08.992689+00:00",
-  "stars": 134,
+  "last_updated": "2026-05-28T14:00:11.010018+00:00",
+  "stars": 135,
   "forks": 34,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
   "views": {
@@ -417,6 +417,10 @@
     "2026-05-26": {
       "count": 44,
       "uniques": 25
+    },
+    "2026-05-27": {
+      "count": 46,
+      "uniques": 33
     }
   },
   "clones": {
@@ -831,23 +835,27 @@
     "2026-05-26": {
       "count": 30,
       "uniques": 11
+    },
+    "2026-05-27": {
+      "count": 28,
+      "uniques": 9
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 334,
-      "uniques": 216
+      "count": 332,
+      "uniques": 214
     },
     {
       "referrer": "github.com",
-      "count": 81,
-      "uniques": 49
+      "count": 78,
+      "uniques": 46
     },
     {
       "referrer": "reddit.com",
-      "count": 29,
-      "uniques": 16
+      "count": 30,
+      "uniques": 17
     },
     {
       "referrer": "pypi.org",
@@ -860,19 +868,14 @@
       "uniques": 6
     },
     {
+      "referrer": "Bing",
+      "count": 11,
+      "uniques": 10
+    },
+    {
       "referrer": "com.reddit.frontpage",
       "count": 10,
       "uniques": 8
-    },
-    {
-      "referrer": "Bing",
-      "count": 9,
-      "uniques": 8
-    },
-    {
-      "referrer": "statics.teams.cdn.office.net",
-      "count": 8,
-      "uniques": 4
     },
     {
       "referrer": "registry.modelcontextprotocol.io",
@@ -886,8 +889,8 @@
     },
     {
       "referrer": "search.brave.com",
-      "count": 4,
-      "uniques": 4
+      "count": 5,
+      "uniques": 5
     },
     {
       "referrer": "uts-edu.atlassian.net",
@@ -898,6 +901,11 @@
       "referrer": "DuckDuckGo",
       "count": 4,
       "uniques": 4
+    },
+    {
+      "referrer": "statics.teams.cdn.office.net",
+      "count": 3,
+      "uniques": 3
     },
     {
       "referrer": "perplexity.ai",
@@ -944,8 +952,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 536,
-      "uniques": 380
+      "count": 529,
+      "uniques": 372
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
@@ -974,8 +982,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 13,
-      "uniques": 12
+      "count": 14,
+      "uniques": 13
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pull/99",
@@ -987,7 +995,7 @@
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
       "count": 13,
-      "uniques": 10
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main",
@@ -1044,16 +1052,16 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/pulls",
-      "title": "/pulls",
-      "count": 7,
-      "uniques": 6
-    },
-    {
       "path": "/vishalsachdev/canvas-mcp/blob/main/tools/README.md",
       "title": "/blob/main/tools/README.md",
       "count": 7,
       "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/pulls",
+      "title": "/pulls",
+      "count": 6,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/AGENTS.md",
@@ -1092,6 +1100,12 @@
       "uniques": 6
     },
     {
+      "path": "/vishalsachdev/canvas-mcp/tree/main/skills/canvas-bulk-grading",
+      "title": "/tree/main/skills/canvas-bulk-grading",
+      "count": 6,
+      "uniques": 6
+    },
+    {
       "path": "/vishalsachdev/canvas-mcp/blob/main/README.md",
       "title": "/blob/main/README.md",
       "count": 5,
@@ -1108,12 +1122,6 @@
       "title": "Automate GitHub release creation and README updates on tag push by Copilot \u00b7 ...",
       "count": 5,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/tree/main/skills/canvas-bulk-grading",
-      "title": "/tree/main/skills/canvas-bulk-grading",
-      "count": 5,
-      "uniques": 5
     }
   ]
 }

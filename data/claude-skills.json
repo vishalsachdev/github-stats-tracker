@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-27T14:00:08.992689+00:00",
+  "last_updated": "2026-05-28T14:00:11.010018+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -417,6 +417,10 @@
     "2026-05-26": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-05-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -831,6 +835,10 @@
     "2026-05-26": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-05-27": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1253,6 +1261,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/f769feeab171c82a41d50fa7e591aa855d9bd530/microsim-p5/metadata-minimal.json",
       "title": "/blob/f769feeab171c82a41d50fa7e591aa855d9bd530/microsim-p5/metadata-minimal.json",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
+      "title": "/blob/main/install-skill-tracker/README.md",
       "count": 1,
       "uniques": 1
     }
