@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-05-28T14:00:11.010018+00:00",
+  "last_updated": "2026-05-30T14:00:08.035519+00:00",
   "stars": 2,
   "forks": 2,
   "description": "",
@@ -421,6 +421,14 @@
     "2026-05-27": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-05-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-05-29": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -839,18 +847,21 @@
     "2026-05-27": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-05-28": {
+      "count": 10,
+      "uniques": 5
+    },
+    "2026-05-29": {
+      "count": 29,
+      "uniques": 15
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 10,
-      "uniques": 7
-    },
-    {
-      "referrer": "Bing",
       "count": 8,
-      "uniques": 2
+      "uniques": 6
     },
     {
       "referrer": "skills.sh",
@@ -875,6 +886,11 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "Bing",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -949,8 +965,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 7,
-      "uniques": 7
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
@@ -1001,12 +1017,6 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 3,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
@@ -1015,8 +1025,8 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 3,
-      "uniques": 2
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
@@ -1058,6 +1068,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/vercel-react-best-practices",
       "title": "/tree/main/vercel-react-best-practices",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1267,6 +1283,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
       "title": "/blob/main/install-skill-tracker/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/commit/f769feeab171c82a41d50fa7e591aa855d9bd530",
+      "title": "/commit/f769feeab171c82a41d50fa7e591aa855d9bd530",
       "count": 1,
       "uniques": 1
     }
