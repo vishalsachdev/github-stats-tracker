@@ -1,7 +1,7 @@
 {
   "repo": "giesclaw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-01T14:00:09.093340+00:00",
+  "last_updated": "2026-06-02T14:00:06.742453+00:00",
   "stars": 0,
   "forks": 0,
   "description": "GiesClaw \u2014 Autonomous business research platform for Gies College of Business (agent + platform monorepo)",
@@ -343,6 +343,10 @@
       "uniques": 0
     },
     "2026-05-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-01": {
       "count": 0,
       "uniques": 0
     }
@@ -687,6 +691,10 @@
     "2026-05-31": {
       "count": 28,
       "uniques": 17
+    },
+    "2026-06-01": {
+      "count": 18,
+      "uniques": 12
     }
   },
   "referrers": [
