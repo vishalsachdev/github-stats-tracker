@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-03T14:01:00.625215+00:00",
+  "last_updated": "2026-06-04T14:00:09.930235+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -443,6 +443,10 @@
       "uniques": 1
     },
     "2026-06-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-03": {
       "count": 0,
       "uniques": 0
     }
@@ -887,13 +891,17 @@
     "2026-06-02": {
       "count": 17,
       "uniques": 10
+    },
+    "2026-06-03": {
+      "count": 15,
+      "uniques": 8
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 9,
-      "uniques": 7
+      "count": 8,
+      "uniques": 6
     },
     {
       "referrer": "skills.sh",
@@ -961,8 +969,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 8,
-      "uniques": 8
+      "count": 7,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",

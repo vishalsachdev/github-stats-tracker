@@ -1,7 +1,7 @@
 {
   "repo": "claude-mental-models",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-03T14:01:00.625215+00:00",
+  "last_updated": "2026-06-04T14:00:09.930235+00:00",
   "stars": 0,
   "forks": 0,
   "description": "How Claude Code's evolving surface guides users to build new mental models \u2014 a triangulated, persona-aware analysis of 14 months of releases. Live notebook: https://vishalsachdev.github.io/claude-mental-models/",
@@ -81,6 +81,10 @@
     "2026-06-02": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-03": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -157,6 +161,10 @@
       "uniques": 7
     },
     "2026-06-02": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-03": {
       "count": 1,
       "uniques": 1
     }
