@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-04T14:00:09.930235+00:00",
+  "last_updated": "2026-06-05T14:00:09.257622+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -449,6 +449,10 @@
     "2026-06-03": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-04": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -895,6 +899,10 @@
     "2026-06-03": {
       "count": 39,
       "uniques": 29
+    },
+    "2026-06-04": {
+      "count": 42,
+      "uniques": 29
     }
   },
   "referrers": [
@@ -933,8 +941,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 16,
-      "uniques": 13
+      "count": 13,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/README.md",
@@ -999,14 +1007,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
-      "title": "/blob/main/skills/paper-writing/SKILL.md",
-      "count": 2,
-      "uniques": 2
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/formbuilder-admin",
@@ -1066,6 +1068,18 @@
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/llm-council/SKILL.md",
       "title": "/blob/main/skills/llm-council/SKILL.md",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/llm-council",
+      "title": "/tree/main/skills/llm-council",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
+      "title": "/blob/main/skills/paper-writing/SKILL.md",
+      "count": 1,
       "uniques": 1
     },
     {

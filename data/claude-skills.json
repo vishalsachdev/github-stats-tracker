@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-04T14:00:09.930235+00:00",
+  "last_updated": "2026-06-05T14:00:09.257622+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -449,6 +449,10 @@
     "2026-06-03": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-04": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -895,13 +899,17 @@
     "2026-06-03": {
       "count": 15,
       "uniques": 8
+    },
+    "2026-06-04": {
+      "count": 14,
+      "uniques": 8
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 8,
-      "uniques": 6
+      "count": 7,
+      "uniques": 5
     },
     {
       "referrer": "skills.sh",
@@ -910,8 +918,8 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 3,
-      "uniques": 3
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "majiayu000.github.io",
@@ -925,8 +933,8 @@
     },
     {
       "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "Bing",
@@ -961,16 +969,16 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 9,
+      "uniques": 9
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 7,
-      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1329,6 +1337,12 @@
     {
       "path": "/vishalsachdev/claude-skills/commit/f769feeab171c82a41d50fa7e591aa855d9bd530",
       "title": "/commit/f769feeab171c82a41d50fa7e591aa855d9bd530",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/issues",
+      "title": "/issues",
       "count": 1,
       "uniques": 1
     }

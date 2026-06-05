@@ -1,7 +1,7 @@
 {
   "repo": "makerlab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-04T14:00:09.930235+00:00",
+  "last_updated": "2026-06-05T14:00:09.257622+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Makerlab website ",
@@ -449,6 +449,10 @@
     "2026-06-03": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-04": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -895,6 +899,10 @@
     "2026-06-03": {
       "count": 13,
       "uniques": 5
+    },
+    "2026-06-04": {
+      "count": 23,
+      "uniques": 13
     }
   },
   "referrers": [
@@ -905,7 +913,7 @@
     },
     {
       "referrer": "github.com",
-      "count": 2,
+      "count": 3,
       "uniques": 2
     },
     {
@@ -1038,6 +1046,12 @@
     {
       "path": "/vishalsachdev/makerlab/tree/6bd3f0dc5bff83c935aad2c474ee71db15a90ab5/courses",
       "title": "/tree/6bd3f0dc5bff83c935aad2c474ee71db15a90ab5/courses",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/makerlab/issues/34",
+      "title": "/issues/34",
       "count": 1,
       "uniques": 1
     }
