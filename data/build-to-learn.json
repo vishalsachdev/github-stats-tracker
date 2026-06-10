@@ -1,7 +1,7 @@
 {
   "repo": "build-to-learn",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-09T14:00:04.738223+00:00",
+  "last_updated": "2026-06-10T14:00:07.537438+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Building to Learn - A workshop about shifting from teachers as content deliverers to teachers as builders",
@@ -463,6 +463,10 @@
       "uniques": 0
     },
     "2026-06-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-08": {
       "count": 0,
       "uniques": 0
     }
@@ -927,6 +931,10 @@
     "2026-06-07": {
       "count": 92,
       "uniques": 37
+    },
+    "2026-06-08": {
+      "count": 28,
+      "uniques": 15
     }
   },
   "referrers": [

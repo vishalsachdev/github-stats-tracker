@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-09T14:00:04.738223+00:00",
+  "last_updated": "2026-06-10T14:00:07.537438+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -381,6 +381,10 @@
     "2026-06-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-08": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -759,6 +763,10 @@
     "2026-06-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-08": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -802,8 +810,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 10,
-      "uniques": 6
+      "count": 11,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",
