@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-10T14:00:07.537438+00:00",
+  "last_updated": "2026-06-11T14:00:09.015808+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -469,6 +469,14 @@
     "2026-06-08": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-06-09": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-06-10": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -935,13 +943,21 @@
     "2026-06-08": {
       "count": 22,
       "uniques": 13
+    },
+    "2026-06-09": {
+      "count": 11,
+      "uniques": 7
+    },
+    "2026-06-10": {
+      "count": 13,
+      "uniques": 7
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 8,
-      "uniques": 5
+      "count": 9,
+      "uniques": 6
     },
     {
       "referrer": "skills.sh",
@@ -965,7 +981,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1003,8 +1019,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 9,
-      "uniques": 9
+      "count": 10,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -1105,7 +1121,7 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 3,
+      "count": 2,
       "uniques": 2
     },
     {
@@ -1145,6 +1161,18 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/pulls",
+      "title": "/pulls",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator/assets",
       "title": "/tree/main/chartjs-generator/assets",
       "count": 1,
@@ -1159,12 +1187,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
       "count": 1,
       "uniques": 1
     },
@@ -1381,12 +1403,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-pie.html",
       "title": "/blob/main/chartjs-generator/assets/template-pie.html",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/pulls",
-      "title": "/pulls",
       "count": 1,
       "uniques": 1
     }
