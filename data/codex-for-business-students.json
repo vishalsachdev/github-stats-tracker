@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-12T14:00:03.818974+00:00",
+  "last_updated": "2026-06-15T14:17:22.905476+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -391,6 +391,22 @@
       "uniques": 0
     },
     "2026-06-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-13": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-14": {
       "count": 0,
       "uniques": 0
     }
@@ -783,23 +799,39 @@
     "2026-06-10": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-13": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-14": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
-    {
-      "referrer": "linkedin.com",
-      "count": 5,
-      "uniques": 1
-    },
     {
       "referrer": "com.linkedin.android",
       "count": 4,
       "uniques": 4
     },
     {
-      "referrer": "Google",
-      "count": 1,
+      "referrer": "linkedin.com",
+      "count": 2,
       "uniques": 1
+    },
+    {
+      "referrer": "Google",
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "github.com",
@@ -826,8 +858,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 8,
-      "uniques": 4
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/lesson-modules/1-fundamentals/1.1-intro/AGENTS.md",

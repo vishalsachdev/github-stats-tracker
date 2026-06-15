@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-12T14:00:03.818974+00:00",
+  "last_updated": "2026-06-15T14:17:22.905476+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -241,6 +241,22 @@
     "2026-06-10": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-14": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -479,6 +495,22 @@
     "2026-06-10": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-06-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-13": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-06-14": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -497,7 +529,7 @@
     {
       "path": "/vishalsachdev/programos",
       "title": "Overview",
-      "count": 3,
+      "count": 1,
       "uniques": 1
     },
     {
@@ -527,6 +559,12 @@
     {
       "path": "/vishalsachdev/programos/tree/main/examples/groups/email",
       "title": "/tree/main/examples/groups/email",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/10-content-sources.md",
+      "title": "/blob/main/docs/10-content-sources.md",
       "count": 1,
       "uniques": 1
     }
