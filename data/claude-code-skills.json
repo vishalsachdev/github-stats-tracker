@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-15T14:17:22.905476+00:00",
+  "last_updated": "2026-06-16T14:13:00.995103+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -493,6 +493,10 @@
     "2026-06-14": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-06-15": {
+      "count": 6,
+      "uniques": 3
     }
   },
   "clones": {
@@ -983,6 +987,10 @@
     "2026-06-14": {
       "count": 29,
       "uniques": 21
+    },
+    "2026-06-15": {
+      "count": 60,
+      "uniques": 41
     }
   },
   "referrers": [
@@ -1008,8 +1016,8 @@
     },
     {
       "referrer": "Bing",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "lnkd.in",
@@ -1021,8 +1029,14 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 16,
-      "uniques": 14
+      "count": 18,
+      "uniques": 16
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
+      "title": "/tree/main/skills",
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/README.md",
@@ -1035,12 +1049,6 @@
       "title": "/blob/main/skills/start-session/SKILL.md",
       "count": 5,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
-      "title": "/tree/main/skills",
-      "count": 5,
-      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/REFERENCE.md",
@@ -1109,12 +1117,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/releases",
-      "title": "/releases",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/premortem/SKILL.md",
       "title": "/blob/main/skills/premortem/SKILL.md",
       "count": 2,
@@ -1142,6 +1144,12 @@
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/llm-council",
       "title": "/tree/main/skills/llm-council",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/releases",
+      "title": "/releases",
+      "count": 1,
       "uniques": 1
     },
     {
