@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-16T14:13:00.995103+00:00",
+  "last_updated": "2026-06-17T14:06:54.834587+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -497,6 +497,10 @@
     "2026-06-15": {
       "count": 13,
       "uniques": 4
+    },
+    "2026-06-16": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -991,13 +995,17 @@
     "2026-06-15": {
       "count": 26,
       "uniques": 12
+    },
+    "2026-06-16": {
+      "count": 22,
+      "uniques": 12
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 10,
-      "uniques": 6
+      "count": 11,
+      "uniques": 7
     },
     {
       "referrer": "skills.sh",
@@ -1020,12 +1028,12 @@
       "uniques": 1
     },
     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "referrer": "Bing",
+      "count": 2,
+      "uniques": 2
     },
     {
-      "referrer": "Bing",
+      "referrer": "github.com",
       "count": 1,
       "uniques": 1
     },
@@ -1059,14 +1067,20 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 9,
-      "uniques": 9
+      "count": 10,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 8,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1115,12 +1129,6 @@
       "title": "/tree/main/glossary-generator",
       "count": 6,
       "uniques": 6
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 6,
-      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",

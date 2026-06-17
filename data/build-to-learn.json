@@ -1,7 +1,7 @@
 {
   "repo": "build-to-learn",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-16T14:13:00.995103+00:00",
+  "last_updated": "2026-06-17T14:06:54.834587+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Building to Learn - A workshop about shifting from teachers as content deliverers to teachers as builders",
@@ -497,6 +497,10 @@
     "2026-06-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-16": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -991,26 +995,30 @@
     "2026-06-15": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-06-16": {
+      "count": 13,
+      "uniques": 6
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 12,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/build-to-learn",
-      "title": "vishalsachdev/build-to-learn: Building to Learn - A workshop about shifting f...",
-      "count": 4,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/build-to-learn/tree/main/slides",
       "title": "build-to-learn/slides at main \u00b7 vishalsachdev/build-to-learn \u00b7 GitHub",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/build-to-learn",
+      "title": "Overview",
+      "count": 1,
       "uniques": 1
     },
     {
