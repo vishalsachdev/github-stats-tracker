@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-17T14:06:54.834587+00:00",
+  "last_updated": "2026-06-19T14:00:05.724265+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -499,6 +499,14 @@
       "uniques": 4
     },
     "2026-06-16": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-06-17": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-06-18": {
       "count": 3,
       "uniques": 3
     }
@@ -999,13 +1007,21 @@
     "2026-06-16": {
       "count": 22,
       "uniques": 12
+    },
+    "2026-06-17": {
+      "count": 21,
+      "uniques": 12
+    },
+    "2026-06-18": {
+      "count": 22,
+      "uniques": 12
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 11,
-      "uniques": 7
+      "count": 12,
+      "uniques": 8
     },
     {
       "referrer": "skills.sh",
@@ -1018,6 +1034,11 @@
       "uniques": 2
     },
     {
+      "referrer": "Bing",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "referrer": "majiayu000.github.io",
       "count": 2,
       "uniques": 1
@@ -1026,11 +1047,6 @@
       "referrer": "lobehub.com",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "referrer": "Bing",
-      "count": 2,
-      "uniques": 2
     },
     {
       "referrer": "github.com",
@@ -1065,22 +1081,22 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 10,
+      "uniques": 6
+    },
+    {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 10,
-      "uniques": 10
+      "count": 9,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 8,
-      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1219,6 +1235,12 @@
       "title": "/blob/main/install-skill-tracker/scripts/analyze-skills.py",
       "count": 2,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/install-skill-tracker",
+      "title": "/tree/main/install-skill-tracker",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
