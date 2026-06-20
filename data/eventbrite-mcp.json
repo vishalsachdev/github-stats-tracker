@@ -1,7 +1,7 @@
 {
   "repo": "eventbrite-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-19T14:00:05.724265+00:00",
+  "last_updated": "2026-06-20T14:00:07.291589+00:00",
   "stars": 3,
   "forks": 0,
   "description": "",
@@ -509,6 +509,10 @@
     "2026-06-18": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1015,6 +1019,10 @@
     "2026-06-18": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-19": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "referrers": [

@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-19T14:00:05.724265+00:00",
+  "last_updated": "2026-06-20T14:00:07.291589+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -507,6 +507,10 @@
       "uniques": 0
     },
     "2026-06-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-19": {
       "count": 0,
       "uniques": 0
     }
@@ -1015,6 +1019,10 @@
     "2026-06-18": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-06-19": {
+      "count": 5,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -1043,8 +1051,8 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
-      "count": 9,
-      "uniques": 4
+      "count": 8,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
@@ -1055,8 +1063,8 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "Overview",
-      "count": 6,
-      "uniques": 6
+      "count": 5,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generat",
@@ -1071,16 +1079,16 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
-      "title": "/tree/main/.claude-skills",
-      "count": 4,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker/assets",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker/assets",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "/tree/main/.claude-skills",
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/blob/bf2276079b704f5ac6420cf274e202cc2410501a/.claude-skills/.claude/hooks/track-skill-start.sh",
