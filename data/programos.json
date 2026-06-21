@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-20T14:00:07.291589+00:00",
+  "last_updated": "2026-06-21T14:00:06.873365+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -277,6 +277,10 @@
     "2026-06-19": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-20": {
+      "count": 4,
+      "uniques": 4
     }
   },
   "clones": {
@@ -551,6 +555,10 @@
     "2026-06-19": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-06-20": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -605,6 +613,30 @@
     {
       "path": "/vishalsachdev/programos/blob/main/docs/10-content-sources.md",
       "title": "/blob/main/docs/10-content-sources.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/04-agent-modes.md",
+      "title": "/blob/main/docs/04-agent-modes.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/07-learning-loop.md",
+      "title": "/blob/main/docs/07-learning-loop.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/08-deployment-tiers.md",
+      "title": "/blob/main/docs/08-deployment-tiers.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/09-illinois-quickstart.md",
+      "title": "/blob/main/docs/09-illinois-quickstart.md",
       "count": 1,
       "uniques": 1
     }
