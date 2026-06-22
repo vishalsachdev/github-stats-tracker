@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-21T14:00:06.873365+00:00",
+  "last_updated": "2026-06-22T14:00:08.628928+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -517,6 +517,10 @@
     "2026-06-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-06-21": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1031,6 +1035,10 @@
     "2026-06-20": {
       "count": 44,
       "uniques": 33
+    },
+    "2026-06-21": {
+      "count": 59,
+      "uniques": 35
     }
   },
   "referrers": [
@@ -1040,13 +1048,13 @@
       "uniques": 1
     },
     {
-      "referrer": "github.com",
-      "count": 4,
-      "uniques": 2
-    },
-    {
       "referrer": "linkedin.com",
       "count": 3,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 2,
       "uniques": 1
     },
     {
@@ -1069,14 +1077,14 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 20,
-      "uniques": 18
+      "count": 21,
+      "uniques": 19
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 9,
-      "uniques": 7
+      "count": 8,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/README.md",

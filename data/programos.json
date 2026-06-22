@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-21T14:00:06.873365+00:00",
+  "last_updated": "2026-06-22T14:00:08.628928+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -281,6 +281,10 @@
     "2026-06-20": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-06-21": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -559,6 +563,10 @@
     "2026-06-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-06-21": {
+      "count": 14,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -637,6 +645,18 @@
     {
       "path": "/vishalsachdev/programos/blob/main/docs/09-illinois-quickstart.md",
       "title": "/blob/main/docs/09-illinois-quickstart.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/02-program-repo.md",
+      "title": "/blob/main/docs/02-program-repo.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/05-audit-logging.md",
+      "title": "/blob/main/docs/05-audit-logging.md",
       "count": 1,
       "uniques": 1
     }

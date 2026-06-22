@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-21T14:00:06.873365+00:00",
+  "last_updated": "2026-06-22T14:00:08.628928+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -515,6 +515,10 @@
       "uniques": 0
     },
     "2026-06-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-21": {
       "count": 0,
       "uniques": 0
     }
@@ -1031,6 +1035,10 @@
     "2026-06-20": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-06-21": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1069,16 +1077,16 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 5,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generat",
       "title": "/tree/main/.claude-skills/skills/mermaid-generat",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator",
@@ -1244,7 +1252,7 @@
     },
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/install-skill-tracker/scripts/analyze-skills.py",
-      "title": "database-management/.claude-skills/skills/install-skill-tracker/README.md at ...",
+      "title": "/blob/main/.claude-skills/skills/install-skill-tracker/scripts/analyze-skills.py",
       "count": 1,
       "uniques": 1
     },
