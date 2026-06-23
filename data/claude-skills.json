@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-22T14:00:08.628928+00:00",
+  "last_updated": "2026-06-23T14:00:08.408022+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -519,6 +519,10 @@
       "uniques": 1
     },
     "2026-06-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-22": {
       "count": 0,
       "uniques": 0
     }
@@ -1039,13 +1043,17 @@
     "2026-06-21": {
       "count": 23,
       "uniques": 14
+    },
+    "2026-06-22": {
+      "count": 30,
+      "uniques": 16
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 13,
-      "uniques": 9
+      "count": 11,
+      "uniques": 8
     },
     {
       "referrer": "skills.sh",
@@ -1113,8 +1121,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 9,
-      "uniques": 9
+      "count": 8,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -1509,6 +1517,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/scripts/track-skill-end.sh",
       "title": "/blob/main/install-skill-tracker/scripts/track-skill-end.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/scripts/track-skill-start.sh",
+      "title": "/blob/main/install-skill-tracker/scripts/track-skill-start.sh",
       "count": 1,
       "uniques": 1
     }
