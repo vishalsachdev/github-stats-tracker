@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-23T14:00:08.408022+00:00",
+  "last_updated": "2026-06-24T14:00:07.944957+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -525,6 +525,10 @@
     "2026-06-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-23": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1047,13 +1051,22 @@
     "2026-06-22": {
       "count": 30,
       "uniques": 16
+    },
+    "2026-06-23": {
+      "count": 21,
+      "uniques": 11
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 11,
-      "uniques": 8
+      "count": 10,
+      "uniques": 7
+    },
+    {
+      "referrer": "Bing",
+      "count": 5,
+      "uniques": 4
     },
     {
       "referrer": "skills.sh",
@@ -1064,11 +1077,6 @@
       "referrer": "skillsplayground.com",
       "count": 3,
       "uniques": 2
-    },
-    {
-      "referrer": "Bing",
-      "count": 3,
-      "uniques": 3
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1119,12 +1127,6 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 8,
-      "uniques": 8
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
@@ -1165,6 +1167,12 @@
       "title": "/tree/main/vis-network",
       "count": 7,
       "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
@@ -1271,6 +1279,12 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/install-skill-tracker",
       "title": "/tree/main/install-skill-tracker",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
+      "title": "/blob/main/install-skill-tracker/README.md",
       "count": 2,
       "uniques": 2
     },
@@ -1396,7 +1410,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
-      "title": "claude-skills/install-skill-tracker/assets/settings.json at main \u00b7 vishalsach...",
+      "title": "/blob/main/install-skill-tracker/assets/settings.json",
       "count": 1,
       "uniques": 1
     },
@@ -1487,12 +1501,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/f769feeab171c82a41d50fa7e591aa855d9bd530/microsim-p5/metadata-minimal.json",
       "title": "/blob/f769feeab171c82a41d50fa7e591aa855d9bd530/microsim-p5/metadata-minimal.json",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
-      "title": "/blob/main/install-skill-tracker/README.md",
       "count": 1,
       "uniques": 1
     },

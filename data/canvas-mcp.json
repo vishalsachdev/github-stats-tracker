@@ -1,9 +1,9 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-23T14:00:08.408022+00:00",
-  "stars": 150,
-  "forks": 43,
+  "last_updated": "2026-06-24T14:00:07.944957+00:00",
+  "stars": 151,
+  "forks": 44,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents. v1.1.0",
   "views": {
     "2026-02-02": {
@@ -525,6 +525,10 @@
     "2026-06-22": {
       "count": 93,
       "uniques": 44
+    },
+    "2026-06-23": {
+      "count": 36,
+      "uniques": 24
     }
   },
   "clones": {
@@ -1047,18 +1051,22 @@
     "2026-06-22": {
       "count": 91,
       "uniques": 39
+    },
+    "2026-06-23": {
+      "count": 55,
+      "uniques": 28
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 339,
-      "uniques": 206
+      "count": 330,
+      "uniques": 196
     },
     {
       "referrer": "github.com",
-      "count": 79,
-      "uniques": 56
+      "count": 82,
+      "uniques": 58
     },
     {
       "referrer": "pypi.org",
@@ -1067,23 +1075,23 @@
     },
     {
       "referrer": "Bing",
-      "count": 21,
+      "count": 22,
       "uniques": 14
     },
     {
       "referrer": "reddit.com",
-      "count": 20,
-      "uniques": 17
+      "count": 22,
+      "uniques": 18
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
-      "count": 16,
-      "uniques": 8
+      "count": 14,
+      "uniques": 7
     },
     {
       "referrer": "search.brave.com",
-      "count": 10,
-      "uniques": 4
+      "count": 11,
+      "uniques": 5
     },
     {
       "referrer": "registry.modelcontextprotocol.io",
@@ -1190,8 +1198,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 513,
-      "uniques": 354
+      "count": 501,
+      "uniques": 347
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
@@ -1202,8 +1210,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
       "title": "/pulls",
-      "count": 41,
-      "uniques": 13
+      "count": 39,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/docs/EDUCATOR_GUIDE.md",
@@ -1266,12 +1274,6 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/commits/main",
-      "title": "/commits/main",
-      "count": 11,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/canvas-mcp/pull/131",
       "title": "/pull/131",
       "count": 11,
@@ -1281,6 +1283,12 @@
       "path": "/vishalsachdev/canvas-mcp/issues/112",
       "title": "/issues/112",
       "count": 10,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/commits/main",
+      "title": "/commits/main",
+      "count": 9,
       "uniques": 2
     },
     {
@@ -1316,8 +1324,8 @@
     {
       "path": "/vishalsachdev/canvas-mcp/discussions",
       "title": "/discussions",
-      "count": 8,
-      "uniques": 5
+      "count": 7,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pull/113",
@@ -1359,7 +1367,7 @@
       "path": "/vishalsachdev/canvas-mcp/blob/main/README.md",
       "title": "/blob/main/README.md",
       "count": 7,
-      "uniques": 6
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/canvas-mcp/tree/main",
