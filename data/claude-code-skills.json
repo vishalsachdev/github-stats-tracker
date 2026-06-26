@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-24T14:00:07.944957+00:00",
+  "last_updated": "2026-06-26T14:00:09.985265+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -529,6 +529,14 @@
     "2026-06-23": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-06-24": {
+      "count": 4,
+      "uniques": 2
+    },
+    "2026-06-25": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1055,6 +1063,14 @@
     "2026-06-23": {
       "count": 35,
       "uniques": 21
+    },
+    "2026-06-24": {
+      "count": 26,
+      "uniques": 17
+    },
+    "2026-06-25": {
+      "count": 25,
+      "uniques": 17
     }
   },
   "referrers": [
@@ -1065,7 +1081,7 @@
     },
     {
       "referrer": "linkedin.com",
-      "count": 2,
+      "count": 3,
       "uniques": 1
     },
     {
@@ -1093,14 +1109,14 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 26,
-      "uniques": 25
+      "count": 24,
+      "uniques": 22
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
       "title": "/tree/main/skills",
-      "count": 9,
-      "uniques": 7
+      "count": 7,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -1169,12 +1185,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/research-paper-template.md",
-      "title": "/blob/main/skills/paper-writing/assets/research-paper-template.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/premortem/SKILL.md",
       "title": "/blob/main/skills/premortem/SKILL.md",
       "count": 2,
@@ -1215,6 +1225,18 @@
       "title": "/releases/tag/v1.0.0",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/releases",
+      "title": "/tree/main/releases",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/research-paper-template.md",
+      "title": "/blob/main/skills/paper-writing/assets/research-paper-template.md",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/assets/README.md",

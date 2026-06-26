@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-24T14:00:07.944957+00:00",
+  "last_updated": "2026-06-26T14:00:09.985265+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -529,6 +529,14 @@
     "2026-06-23": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-06-24": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-06-25": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1055,6 +1063,14 @@
     "2026-06-23": {
       "count": 21,
       "uniques": 11
+    },
+    "2026-06-24": {
+      "count": 24,
+      "uniques": 13
+    },
+    "2026-06-25": {
+      "count": 23,
+      "uniques": 14
     }
   },
   "referrers": [
@@ -1065,8 +1081,8 @@
     },
     {
       "referrer": "Bing",
-      "count": 5,
-      "uniques": 4
+      "count": 4,
+      "uniques": 3
     },
     {
       "referrer": "skills.sh",
@@ -1075,8 +1091,8 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 3,
-      "uniques": 2
+      "count": 2,
+      "uniques": 1
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1089,12 +1105,12 @@
       "uniques": 1
     },
     {
-      "referrer": "github.com",
-      "count": 1,
+      "referrer": "DuckDuckGo",
+      "count": 2,
       "uniques": 1
     },
     {
-      "referrer": "DuckDuckGo",
+      "referrer": "github.com",
       "count": 1,
       "uniques": 1
     },
@@ -1123,12 +1139,18 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
       "title": "/tree/main/quiz-generator",
-      "count": 11,
-      "uniques": 6
+      "count": 9,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
+      "count": 8,
+      "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
       "count": 8,
       "uniques": 8
     },
@@ -1167,12 +1189,6 @@
       "title": "/tree/main/vis-network",
       "count": 7,
       "uniques": 7
-    },
-    {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 6,
-      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
