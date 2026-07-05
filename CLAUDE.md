@@ -81,4 +81,6 @@ Dashboard is live and collecting. Future improvements:
 | Date | Summary |
 |------|---------|
 | 2026-03-20 | Switched from blocked GitHub Actions to local launchd agent (daily 9am CST). Created `scripts/collect-and-push.sh`. Recovered data gap (last run was Feb 16). 10 new repos discovered. |
-| 2026-02-16 | Initial build: collector, dashboard, GitHub Actions workflow. Security scan of all 98 public repos with gitleaks. Redesigned dashboard to focus on unique visitors + stars after discovering bot inflation in clone data. |
+
+*Older entries archived to `internal/session-archive.md`*
+
