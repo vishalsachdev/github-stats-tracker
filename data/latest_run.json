@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-06-26T14:00:09.985265+00:00",
-  "repos_checked": 89,
-  "repos_with_traffic": 89,
+  "collected_at": "2026-07-06T14:00:10.260476+00:00",
+  "repos_checked": 90,
+  "repos_with_traffic": 90,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -40,6 +40,7 @@
     "claude-soul-viz",
     "codex-for-badm350",
     "codex-for-business-students",
+    "codifykids",
     "context-graphs",
     "database-management",
     "datacarpentry-test",

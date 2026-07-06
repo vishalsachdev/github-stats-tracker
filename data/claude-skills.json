@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-26T14:00:09.985265+00:00",
+  "last_updated": "2026-07-06T14:00:10.260476+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -537,6 +537,46 @@
     "2026-06-25": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-06-26": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-06-27": {
+      "count": 6,
+      "uniques": 2
+    },
+    "2026-06-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-29": {
+      "count": 6,
+      "uniques": 2
+    },
+    "2026-06-30": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-01": {
+      "count": 26,
+      "uniques": 2
+    },
+    "2026-07-02": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-04": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-05": {
+      "count": 8,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1071,21 +1111,71 @@
     "2026-06-25": {
       "count": 23,
       "uniques": 14
+    },
+    "2026-06-26": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-06-27": {
+      "count": 20,
+      "uniques": 11
+    },
+    "2026-06-28": {
+      "count": 22,
+      "uniques": 14
+    },
+    "2026-06-29": {
+      "count": 23,
+      "uniques": 14
+    },
+    "2026-06-30": {
+      "count": 20,
+      "uniques": 12
+    },
+    "2026-07-01": {
+      "count": 25,
+      "uniques": 16
+    },
+    "2026-07-02": {
+      "count": 19,
+      "uniques": 11
+    },
+    "2026-07-03": {
+      "count": 18,
+      "uniques": 10
+    },
+    "2026-07-04": {
+      "count": 17,
+      "uniques": 10
+    },
+    "2026-07-05": {
+      "count": 18,
+      "uniques": 11
     }
   },
   "referrers": [
     {
-      "referrer": "Google",
-      "count": 10,
-      "uniques": 7
-    },
-    {
       "referrer": "Bing",
-      "count": 4,
+      "count": 32,
       "uniques": 3
     },
     {
+      "referrer": "DuckDuckGo",
+      "count": 6,
+      "uniques": 2
+    },
+    {
+      "referrer": "Google",
+      "count": 4,
+      "uniques": 4
+    },
+    {
       "referrer": "skills.sh",
+      "count": 4,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
       "count": 4,
       "uniques": 1
     },
@@ -1102,16 +1192,6 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
-      "uniques": 1
-    },
-    {
-      "referrer": "DuckDuckGo",
-      "count": 2,
-      "uniques": 1
-    },
-    {
-      "referrer": "github.com",
-      "count": 1,
       "uniques": 1
     },
     {
@@ -1137,16 +1217,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 9,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 8,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills",
@@ -1227,8 +1307,14 @@
       "uniques": 4
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 4,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
       "count": 4,
       "uniques": 2
     },
@@ -1251,8 +1337,8 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
       "count": 2,
       "uniques": 2
     },
@@ -1307,30 +1393,36 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator/assets",
       "title": "/tree/main/chartjs-generator/assets",
-      "count": 1,
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/SKILL.md",
+      "title": "/blob/main/quiz-generator/SKILL.md",
+      "count": 2,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
-      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 1,
+      "path": "/vishalsachdev/claude-skills/tree/main/concept-classifier",
+      "title": "/tree/main/concept-classifier",
+      "count": 2,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
+      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
       "count": 1,
       "uniques": 1
     },
@@ -1390,7 +1482,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/complex-state-management/SKILL.md",
-      "title": "vishalsachdev/claude-skills",
+      "title": "/blob/main/complex-state-management/SKILL.md",
       "count": 1,
       "uniques": 1
     },
@@ -1444,7 +1536,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/book-chapter-generator/SKILL.md",
-      "title": "claude-skills/book-chapter-generator at main \u00b7 vishalsachdev/claude-skills \u00b7 ...",
+      "title": "/blob/main/book-chapter-generator/SKILL.md",
       "count": 1,
       "uniques": 1
     },

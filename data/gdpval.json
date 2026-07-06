@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-06-26T14:00:09.985265+00:00",
+  "last_updated": "2026-07-06T14:00:10.260476+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -537,6 +537,46 @@
     "2026-06-25": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-06-26": {
+      "count": 17,
+      "uniques": 5
+    },
+    "2026-06-27": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-29": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-06-30": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-07-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-02": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-03": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-05": {
+      "count": 4,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1071,16 +1111,61 @@
     "2026-06-25": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-06-26": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-06-27": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-06-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-06-29": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-06-30": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-02": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-07-03": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-04": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-05": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 5,
-      "uniques": 5
+      "count": 30,
+      "uniques": 14
     },
     {
       "referrer": "github.com",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "chatgpt.com",
       "count": 1,
       "uniques": 1
     }
@@ -1089,13 +1174,13 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 11,
-      "uniques": 11
+      "count": 21,
+      "uniques": 19
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 2,
+      "count": 3,
       "uniques": 2
     },
     {
@@ -1125,8 +1210,8 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/gdpval/actions",
@@ -1191,6 +1276,54 @@
     {
       "path": "/vishalsachdev/gdpval/tree/main/extract",
       "title": "/tree/main/extract",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/modules/config.py",
+      "title": "/blob/main/app/modules/config.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/modules/cost.py",
+      "title": "/blob/main/app/modules/cost.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/modules/data_loader.py",
+      "title": "/blob/main/app/modules/data_loader.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/modules/suggestions.py",
+      "title": "/blob/main/app/modules/suggestions.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/modules/vulnerability.py",
+      "title": "/blob/main/app/modules/vulnerability.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/streamlit_app.py",
+      "title": "/blob/main/app/streamlit_app.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main",
+      "title": "/tree/main",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_metrics_candidates.md",
+      "title": "/blob/main/GDPval_metrics_candidates.md",
       "count": 1,
       "uniques": 1
     }
