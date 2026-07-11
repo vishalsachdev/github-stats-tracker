@@ -1,7 +1,7 @@
 {
   "repo": "canvas-lms-plugin",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-06T14:00:10.260476+00:00",
+  "last_updated": "2026-07-11T03:30:07.364834+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Canvas LMS plugin for Claude Code & Cowork \u2014 manage pages, assignments, modules, and more",
@@ -493,6 +493,22 @@
     "2026-07-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-09": {
+      "count": 4,
+      "uniques": 1
     }
   },
   "clones": {
@@ -983,12 +999,33 @@
     "2026-07-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-09": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
       "count": 5,
+      "uniques": 1
+    },
+    {
+      "referrer": "Bing",
+      "count": 4,
       "uniques": 1
     }
   ],
@@ -1020,6 +1057,12 @@
     {
       "path": "/vishalsachdev/canvas-lms-plugin/tree/main/skills/canvas-builder/references",
       "title": "/tree/main/skills/canvas-builder/references",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-plugin/blob/main/README.md",
+      "title": "/blob/main/README.md",
       "count": 1,
       "uniques": 1
     }
