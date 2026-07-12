@@ -1,7 +1,7 @@
 {
   "repo": "ai-problem-framing",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-11T03:30:07.364834+00:00",
+  "last_updated": "2026-07-12T03:30:10.530036+00:00",
   "stars": 1,
   "forks": 0,
   "description": "AI Problem Framing for AI Practitioners - An intelligent textbook teaching systematic AI problem framing using The Loop framework",
@@ -593,6 +593,10 @@
     "2026-07-09": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-10": {
+      "count": 8,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1183,13 +1187,53 @@
     "2026-07-09": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-10": {
+      "count": 0,
+      "uniques": 0
     }
   },
-  "referrers": [],
+  "referrers": [
+    {
+      "referrer": "Bing",
+      "count": 8,
+      "uniques": 2
+    }
+  ],
   "paths": [
     {
+      "path": "/vishalsachdev/ai-problem-framing/blob/main/docs/chapters/02-ai-alternatives/index.md",
+      "title": "/blob/main/docs/chapters/02-ai-alternatives/index.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/ai-problem-framing/tree/main/docs",
+      "title": "/tree/main/docs",
+      "count": 2,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/ai-problem-framing",
-      "title": "GitHub - vishalsachdev/ai-problem-framing: AI Problem Framing for AI Practiti...",
+      "title": "Overview",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-problem-framing/tree/main/docs/chapters",
+      "title": "/tree/main/docs/chapters",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-problem-framing/tree/main/docs/chapters/01-mindset",
+      "title": "/tree/main/docs/chapters/01-mindset",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-problem-framing/tree/main/docs/chapters/02-ai-alternatives",
+      "title": "/tree/main/docs/chapters/02-ai-alternatives",
       "count": 1,
       "uniques": 1
     }
