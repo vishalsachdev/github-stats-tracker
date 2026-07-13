@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-12T03:30:10.530036+00:00",
+  "last_updated": "2026-07-13T03:30:10.034980+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -597,6 +597,10 @@
     "2026-07-10": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-11": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1191,6 +1195,10 @@
     "2026-07-10": {
       "count": 15,
       "uniques": 8
+    },
+    "2026-07-11": {
+      "count": 14,
+      "uniques": 7
     }
   },
   "referrers": [
@@ -1220,11 +1228,6 @@
       "uniques": 1
     },
     {
-      "referrer": "skillsplayground.com",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "referrer": "majiayu000.github.io",
       "count": 2,
       "uniques": 1
@@ -1232,6 +1235,11 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "skillsplayground.com",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1257,16 +1265,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 8,
-      "uniques": 7
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 7,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -1347,18 +1355,6 @@
       "uniques": 4
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 4,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 3,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
       "title": "/tree/main/paper-writing/scripts",
       "count": 3,
@@ -1375,6 +1371,18 @@
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
