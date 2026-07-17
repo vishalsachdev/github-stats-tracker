@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-15T03:30:10.752742+00:00",
+  "last_updated": "2026-07-17T03:35:00.657740+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -609,6 +609,14 @@
     "2026-07-13": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-07-14": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-07-15": {
+      "count": 5,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1215,18 +1223,26 @@
     "2026-07-13": {
       "count": 13,
       "uniques": 7
+    },
+    "2026-07-14": {
+      "count": 19,
+      "uniques": 10
+    },
+    "2026-07-15": {
+      "count": 14,
+      "uniques": 7
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 26,
+      "count": 6,
       "uniques": 2
     },
     {
       "referrer": "Google",
-      "count": 4,
-      "uniques": 3
+      "count": 5,
+      "uniques": 4
     },
     {
       "referrer": "DuckDuckGo",
@@ -1245,7 +1261,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 3,
+      "count": 4,
       "uniques": 2
     },
     {
@@ -1289,8 +1305,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 7,
-      "uniques": 6
+      "count": 8,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1329,12 +1345,6 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 6,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
@@ -1371,6 +1381,18 @@
       "uniques": 4
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 4,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/SKILL.md",
+      "title": "/blob/main/quiz-generator/SKILL.md",
+      "count": 4,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
       "title": "/tree/main/paper-writing/scripts",
       "count": 3,
@@ -1383,15 +1405,9 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
-      "title": "/tree/main/quiz-generator/references",
-      "count": 3,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 3,
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 2,
       "uniques": 2
     },
     {
@@ -1399,12 +1415,6 @@
       "title": "/blob/main/chartjs-generator/SKILL.md",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/codebase-singularity",
@@ -1467,22 +1477,28 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/SKILL.md",
-      "title": "/blob/main/quiz-generator/SKILL.md",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/concept-classifier",
       "title": "/tree/main/concept-classifier",
       "count": 2,
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
+      "title": "/tree/main/quiz-generator/references",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
@@ -1709,6 +1725,18 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/concept-classifier/SKILL.md",
       "title": "/blob/main/concept-classifier/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/math-function-plotter-plotly/SKILL.md",
+      "title": "/blob/main/math-function-plotter-plotly/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/advanced-text-search-matching",
+      "title": "/tree/main/advanced-text-search-matching",
       "count": 1,
       "uniques": 1
     }

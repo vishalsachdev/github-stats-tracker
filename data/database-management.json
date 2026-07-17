@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-15T03:30:10.752742+00:00",
+  "last_updated": "2026-07-17T03:35:00.657740+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -609,6 +609,14 @@
     "2026-07-13": {
       "count": 4,
       "uniques": 1
+    },
+    "2026-07-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-15": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1215,6 +1223,14 @@
     "2026-07-13": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-14": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-15": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1241,16 +1257,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 10,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
       "count": 7,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
@@ -1265,12 +1281,6 @@
       "uniques": 5
     },
     {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
-      "title": "/tree/main/.claude-skills",
-      "count": 5,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator",
       "title": "/tree/main/.claude-skills/skills/mermaid-generator",
       "count": 4,
@@ -1283,9 +1293,15 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "/tree/main/.claude-skills",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/settings.json",
       "title": "/blob/main/.claude-skills/.claude/settings.json",
-      "count": 3,
+      "count": 2,
       "uniques": 1
     },
     {
@@ -1297,12 +1313,6 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.github/workflows",
       "title": "GitHub - vishalsachdev/database-management: Database Management - An intellig...",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/database-management/blob/main/CLAUDE.md",
-      "title": "/blob/main/CLAUDE.md",
       "count": 2,
       "uniques": 2
     },
@@ -1355,18 +1365,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/scripts/analyze-skills.py",
-      "title": "/blob/main/.claude-skills/.claude/scripts/analyze-skills.py",
-      "count": 2,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/scripts/show-skill-tokens.sh",
-      "title": "/blob/main/.claude-skills/.claude/scripts/show-skill-tokens.sh",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/CLAUDE.md",
       "title": "/blob/main/.claude-skills/CLAUDE.md",
       "count": 2,
@@ -1376,6 +1374,24 @@
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/test-specification-timeline.txt",
       "title": "/blob/main/.claude-skills/test-specification-timeline.txt",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/CLAUDE.md",
+      "title": "/blob/main/CLAUDE.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/scripts/analyze-skills.py",
+      "title": "/blob/main/.claude-skills/.claude/scripts/analyze-skills.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/scripts/show-skill-tokens.sh",
+      "title": "/blob/main/.claude-skills/.claude/scripts/show-skill-tokens.sh",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1549,6 +1565,18 @@
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/hooks/track-skill-start.sh",
       "title": "/blob/main/.claude-skills/.claude/hooks/track-skill-start.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/.claude",
+      "title": "/tree/main/.claude-skills/.claude",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/.claude/scripts",
+      "title": "/tree/main/.claude-skills/.claude/scripts",
       "count": 1,
       "uniques": 1
     }

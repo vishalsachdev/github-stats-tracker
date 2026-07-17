@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-15T03:30:10.752742+00:00",
+  "last_updated": "2026-07-17T03:35:00.657740+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -609,6 +609,14 @@
     "2026-07-13": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-07-14": {
+      "count": 9,
+      "uniques": 3
+    },
+    "2026-07-15": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1215,13 +1223,21 @@
     "2026-07-13": {
       "count": 4,
       "uniques": 2
+    },
+    "2026-07-14": {
+      "count": 6,
+      "uniques": 6
+    },
+    "2026-07-15": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 23,
-      "uniques": 16
+      "count": 29,
+      "uniques": 18
     },
     {
       "referrer": "github.com",
@@ -1238,14 +1254,14 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 20,
-      "uniques": 19
+      "count": 21,
+      "uniques": 20
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
-      "count": 6,
-      "uniques": 6
+      "count": 7,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
@@ -1274,6 +1290,12 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/tasks.parquet",
       "title": "gdpval/data/task_schema.md at main \u00b7 vishalsachdev/gdpval",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/README.md",
+      "title": "/blob/main/data/README.md",
       "count": 2,
       "uniques": 1
     },
@@ -1400,6 +1422,12 @@
     {
       "path": "/vishalsachdev/gdpval/commits/main",
       "title": "/commits/main",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/requirements.txt",
+      "title": "/blob/main/requirements.txt",
       "count": 1,
       "uniques": 1
     }
