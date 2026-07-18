@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-17T03:35:00.657740+00:00",
+  "last_updated": "2026-07-18T03:30:10.782983+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -617,6 +617,10 @@
     "2026-07-15": {
       "count": 5,
       "uniques": 1
+    },
+    "2026-07-16": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1231,6 +1235,10 @@
     "2026-07-15": {
       "count": 14,
       "uniques": 7
+    },
+    "2026-07-16": {
+      "count": 18,
+      "uniques": 10
     }
   },
   "referrers": [
@@ -1243,6 +1251,11 @@
       "referrer": "Google",
       "count": 5,
       "uniques": 4
+    },
+    {
+      "referrer": "skillsplayground.com",
+      "count": 5,
+      "uniques": 2
     },
     {
       "referrer": "DuckDuckGo",
@@ -1258,11 +1271,6 @@
       "referrer": "github.com",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "referrer": "skillsplayground.com",
-      "count": 4,
-      "uniques": 2
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1363,6 +1371,12 @@
       "uniques": 5
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 5,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
       "title": "/blob/main/canvas-course-audit/SKILL.md",
       "count": 4,
@@ -1379,12 +1393,6 @@
       "title": "/tree/main/skill-creator",
       "count": 4,
       "uniques": 4
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 4,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/SKILL.md",
@@ -1409,12 +1417,6 @@
       "title": "/tree/main/quiz-generator",
       "count": 2,
       "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 2,
-      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/codebase-singularity",
@@ -1480,6 +1482,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/concept-classifier",
       "title": "/tree/main/concept-classifier",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 1,
       "uniques": 1
     },
     {
