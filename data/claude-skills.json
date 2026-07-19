@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-18T03:30:10.782983+00:00",
+  "last_updated": "2026-07-19T03:30:09.456729+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -621,6 +621,10 @@
     "2026-07-16": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-07-17": {
+      "count": 7,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1239,6 +1243,10 @@
     "2026-07-16": {
       "count": 18,
       "uniques": 10
+    },
+    "2026-07-17": {
+      "count": 15,
+      "uniques": 8
     }
   },
   "referrers": [
@@ -1487,7 +1495,7 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
       "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 1,
+      "count": 2,
       "uniques": 1
     },
     {
@@ -1745,6 +1753,30 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/advanced-text-search-matching",
       "title": "/tree/main/advanced-text-search-matching",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/glossary-generator/INSTALL.md",
+      "title": "/blob/main/glossary-generator/INSTALL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/glossary-generator/README.md",
+      "title": "/blob/main/glossary-generator/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/glossary-generator/SKILL.md",
+      "title": "/blob/main/glossary-generator/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/glossary-generator/references/iso-11179-standards.md",
+      "title": "/blob/main/glossary-generator/references/iso-11179-standards.md",
       "count": 1,
       "uniques": 1
     }

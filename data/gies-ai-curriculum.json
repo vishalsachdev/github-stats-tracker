@@ -1,7 +1,7 @@
 {
   "repo": "gies-ai-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-18T03:30:10.782983+00:00",
+  "last_updated": "2026-07-19T03:30:09.456729+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Gies College of Business AI Curriculum Integration - Leadership Documentation",
@@ -621,6 +621,10 @@
     "2026-07-16": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-17": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1239,12 +1243,16 @@
     "2026-07-16": {
       "count": 28,
       "uniques": 18
+    },
+    "2026-07-17": {
+      "count": 20,
+      "uniques": 13
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 1,
+      "count": 2,
       "uniques": 1
     }
   ],
@@ -1294,6 +1302,12 @@
     {
       "path": "/vishalsachdev/gies-ai-curriculum/blob/main/docs/courses/105.html",
       "title": "/blob/main/docs/courses/105.html",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gies-ai-curriculum/pull/1",
+      "title": "/pull/1",
       "count": 1,
       "uniques": 1
     }
