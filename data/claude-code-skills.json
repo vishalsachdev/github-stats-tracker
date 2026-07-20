@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-19T03:30:09.456729+00:00",
+  "last_updated": "2026-07-20T03:39:36.279852+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -625,6 +625,10 @@
     "2026-07-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-18": {
+      "count": 4,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1247,6 +1251,10 @@
     "2026-07-17": {
       "count": 22,
       "uniques": 14
+    },
+    "2026-07-18": {
+      "count": 62,
+      "uniques": 14
     }
   },
   "referrers": [
@@ -1331,16 +1339,16 @@
       "uniques": 3
     },
     {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
+      "title": "/blob/main/skills/paper-writing/SKILL.md",
+      "count": 3,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
       "title": "/tree/main/skills",
       "count": 2,
       "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/SKILL.md",
-      "title": "/blob/main/skills/paper-writing/SKILL.md",
-      "count": 2,
-      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/ELITE-PAPERS.md",

@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-19T03:30:09.456729+00:00",
+  "last_updated": "2026-07-20T03:39:36.279852+00:00",
   "stars": 2,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -541,6 +541,10 @@
     "2026-07-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-18": {
+      "count": 10,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1079,12 +1083,21 @@
     "2026-07-17": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-18": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
+      "referrer": "github.com",
+      "count": 9,
+      "uniques": 1
+    },
+    {
       "referrer": "linkedin.com",
-      "count": 5,
+      "count": 6,
       "uniques": 1
     },
     {
@@ -1094,11 +1107,6 @@
     },
     {
       "referrer": "Google",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "referrer": "github.com",
       "count": 1,
       "uniques": 1
     },
@@ -1127,14 +1135,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 7,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
-      "title": "/tree/main/lesson-modules",
-      "count": 4,
-      "uniques": 1
+      "count": 9,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
@@ -1191,9 +1193,15 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules",
+      "title": "/tree/main/lesson-modules",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/0-getting-started/0.1-welcome",
       "title": "/tree/main/lesson-modules/0-getting-started/0.1-welcome",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1343,6 +1351,24 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/0-getting-started",
       "title": "/tree/main/lesson-modules/0-getting-started",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/business-scenario/about-novabrew.md",
+      "title": "/blob/main/business-scenario/about-novabrew.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/business-scenario/company-context/brand-guidelines.md",
+      "title": "/blob/main/business-scenario/company-context/brand-guidelines.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/business-scenario/company-context/product-catalog.md",
+      "title": "/blob/main/business-scenario/company-context/product-catalog.md",
       "count": 1,
       "uniques": 1
     }

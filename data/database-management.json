@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-19T03:30:09.456729+00:00",
+  "last_updated": "2026-07-20T03:39:36.279852+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -625,6 +625,10 @@
     "2026-07-17": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-18": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1247,6 +1251,10 @@
     "2026-07-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-18": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1279,12 +1287,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 6,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
       "count": 6,
@@ -1295,6 +1297,12 @@
       "title": "/tree/main/.claude-skills/skills/mermaid-generat",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator",
