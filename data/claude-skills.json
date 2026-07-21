@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-20T03:39:36.279852+00:00",
+  "last_updated": "2026-07-21T03:30:09.316731+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -629,6 +629,10 @@
     "2026-07-18": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1255,6 +1259,10 @@
     "2026-07-18": {
       "count": 16,
       "uniques": 8
+    },
+    "2026-07-19": {
+      "count": 17,
+      "uniques": 9
     }
   },
   "referrers": [
@@ -1270,7 +1278,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 4,
+      "count": 5,
       "uniques": 2
     },
     {
@@ -1327,12 +1335,6 @@
       "uniques": 8
     },
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 8,
-      "uniques": 7
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
       "title": "/tree/main/agentic-validators",
       "count": 7,
@@ -1369,14 +1371,14 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
-      "title": "/tree/main/microsim-screen-capture",
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
       "count": 6,
-      "uniques": 6
+      "uniques": 5
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
-      "title": "/tree/main/glossary-generator",
+      "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
+      "title": "/tree/main/microsim-screen-capture",
       "count": 6,
       "uniques": 6
     },
@@ -1389,7 +1391,7 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 4,
+      "count": 5,
       "uniques": 2
     },
     {
@@ -1504,6 +1506,12 @@
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
       "title": "/blob/main/chartjs-generator/SKILL.md",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
+      "title": "/tree/main/glossary-generator",
+      "count": 1,
       "uniques": 1
     },
     {
