@@ -1,7 +1,7 @@
 {
   "repo": "github-stats-tracker",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-21T03:30:09.316731+00:00",
+  "last_updated": "2026-07-22T03:30:08.840677+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Weekly collection of GitHub traffic stats for all public repos. Dashboard: https://vishalsachdev.github.io/github-stats-tracker/",
@@ -631,6 +631,10 @@
       "uniques": 1
     },
     "2026-07-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-20": {
       "count": 0,
       "uniques": 0
     }
@@ -1263,6 +1267,10 @@
     "2026-07-19": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-07-20": {
+      "count": 12,
+      "uniques": 7
     }
   },
   "referrers": [

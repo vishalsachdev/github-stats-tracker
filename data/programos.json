@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-21T03:30:09.316731+00:00",
+  "last_updated": "2026-07-22T03:30:08.840677+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -397,6 +397,10 @@
     "2026-07-19": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-20": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -791,12 +795,16 @@
     "2026-07-19": {
       "count": 13,
       "uniques": 9
+    },
+    "2026-07-20": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "agentlab.illinihunt.org",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {
@@ -809,7 +817,7 @@
     {
       "path": "/vishalsachdev/programos",
       "title": "Overview",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {

@@ -1,7 +1,7 @@
 {
   "repo": "ai-impact",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-21T03:30:09.316731+00:00",
+  "last_updated": "2026-07-22T03:30:08.840677+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Research on AI's impact: platform usage patterns, demographics, global inequality, and enterprise adoption from frontier labs",
@@ -633,6 +633,10 @@
     "2026-07-19": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-20": {
+      "count": 6,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1263,24 +1267,52 @@
     "2026-07-19": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-20": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
-      "referrer": "github.com",
-      "count": 1,
+      "referrer": "vishalsachdev.github.io",
+      "count": 4,
       "uniques": 1
     },
     {
-      "referrer": "vishalsachdev.github.io",
+      "referrer": "github.com",
       "count": 1,
       "uniques": 1
     }
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/ai-impact/tree/main/ai-capabilities-research/02-capability-trajectory",
+      "title": "/tree/main/ai-capabilities-research/02-capability-trajectory",
+      "count": 2,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/ai-impact",
       "title": "Overview",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-impact/blob/main/ai-capabilities-research",
+      "title": "/blob/main/ai-capabilities-research",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-impact/blob/main/ai-capabilities-research/02-capability-trajectory/sources.md",
+      "title": "/blob/main/ai-capabilities-research/02-capability-trajectory/sources.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/ai-impact/tree/main/ai-capabilities-research/07-educational-implications",
+      "title": "/tree/main/ai-capabilities-research/07-educational-implications",
       "count": 1,
       "uniques": 1
     }
