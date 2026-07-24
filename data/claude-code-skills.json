@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-22T03:30:08.840677+00:00",
+  "last_updated": "2026-07-24T03:30:08.788922+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -635,6 +635,14 @@
       "uniques": 0
     },
     "2026-07-20": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-21": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-22": {
       "count": 1,
       "uniques": 1
     }
@@ -1271,6 +1279,14 @@
     "2026-07-20": {
       "count": 20,
       "uniques": 12
+    },
+    "2026-07-21": {
+      "count": 25,
+      "uniques": 16
+    },
+    "2026-07-22": {
+      "count": 22,
+      "uniques": 14
     }
   },
   "referrers": [
@@ -1280,13 +1296,13 @@
       "uniques": 1
     },
     {
-      "referrer": "linkedin.com",
+      "referrer": "com.linkedin.android",
       "count": 2,
       "uniques": 1
     },
     {
-      "referrer": "com.linkedin.android",
-      "count": 2,
+      "referrer": "linkedin.com",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1309,8 +1325,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 14,
-      "uniques": 13
+      "count": 10,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -1359,12 +1375,6 @@
       "title": "/blob/main/skills/paper-writing/SKILL.md",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
-      "title": "/tree/main/skills",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/ELITE-PAPERS.md",
@@ -1436,6 +1446,12 @@
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/agentic-eval-first-development",
       "title": "/tree/main/skills/agentic-eval-first-development",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
+      "title": "/tree/main/skills",
+      "count": 1,
       "uniques": 1
     },
     {

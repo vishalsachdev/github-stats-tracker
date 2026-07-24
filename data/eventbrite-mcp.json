@@ -1,9 +1,9 @@
 {
   "repo": "eventbrite-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-22T03:30:08.840677+00:00",
+  "last_updated": "2026-07-24T03:30:08.788922+00:00",
   "stars": 3,
-  "forks": 1,
+  "forks": 0,
   "description": "",
   "views": {
     "2026-02-02": {
@@ -637,6 +637,14 @@
     "2026-07-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-22": {
+      "count": 9,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1271,6 +1279,14 @@
     "2026-07-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-22": {
+      "count": 6,
+      "uniques": 6
     }
   },
   "referrers": [
@@ -1319,8 +1335,20 @@
     {
       "path": "/vishalsachdev/eventbrite-mcp",
       "title": "Overview",
-      "count": 4,
-      "uniques": 4
+      "count": 6,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/pull/2",
+      "title": "/pull/2",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/pull/2/changes",
+      "title": "/pull/2/changes",
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/eventbrite-mcp/blob/main/src/api/eventbriteClient.ts",
@@ -1379,6 +1407,24 @@
     {
       "path": "/vishalsachdev/eventbrite-mcp/tree/main/docs",
       "title": "/tree/main/docs",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/compare/main...marek-knappe:eventbrite-mcp:feat/plugin-marketplace",
+      "title": "/compare/main...marek-knappe:eventbrite-mcp:feat/plugin-marketplace",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/pull/3",
+      "title": "/pull/3",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/pulls",
+      "title": "/pulls",
       "count": 1,
       "uniques": 1
     }

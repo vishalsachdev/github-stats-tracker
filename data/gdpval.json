@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-22T03:30:08.840677+00:00",
+  "last_updated": "2026-07-24T03:30:08.788922+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -637,6 +637,14 @@
     "2026-07-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-21": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-07-22": {
+      "count": 6,
+      "uniques": 5
     }
   },
   "clones": {
@@ -1271,13 +1279,21 @@
     "2026-07-20": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-07-21": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-07-22": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 33,
-      "uniques": 21
+      "count": 34,
+      "uniques": 26
     },
     {
       "referrer": "github.com",
@@ -1294,14 +1310,14 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 25,
-      "uniques": 24
+      "count": 30,
+      "uniques": 28
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
-      "count": 8,
-      "uniques": 8
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
