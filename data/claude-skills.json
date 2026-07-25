@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-24T03:30:08.788922+00:00",
+  "last_updated": "2026-07-25T03:30:10.175339+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -643,6 +643,10 @@
       "uniques": 1
     },
     "2026-07-22": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-23": {
       "count": 1,
       "uniques": 1
     }
@@ -1287,22 +1291,26 @@
     "2026-07-22": {
       "count": 16,
       "uniques": 9
+    },
+    "2026-07-23": {
+      "count": 19,
+      "uniques": 10
     }
   },
   "referrers": [
     {
       "referrer": "skillsplayground.com",
-      "count": 11,
+      "count": 12,
       "uniques": 3
     },
     {
       "referrer": "Bing",
-      "count": 6,
-      "uniques": 2
+      "count": 5,
+      "uniques": 1
     },
     {
       "referrer": "Google",
-      "count": 6,
+      "count": 5,
       "uniques": 5
     },
     {
@@ -1395,6 +1403,12 @@
       "uniques": 7
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 7,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
@@ -1403,14 +1417,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 6,
+      "count": 5,
       "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 6,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -1817,6 +1825,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/glossary-generator/references/iso-11179-standards.md",
       "title": "/blob/main/glossary-generator/references/iso-11179-standards.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/.DS_Store",
+      "title": "/blob/main/paper-writing/.DS_Store",
       "count": 1,
       "uniques": 1
     }
