@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-25T03:30:10.175339+00:00",
+  "last_updated": "2026-07-26T03:30:08.963267+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -649,6 +649,10 @@
     "2026-07-23": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-07-24": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1295,13 +1299,17 @@
     "2026-07-23": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-24": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 33,
-      "uniques": 24
+      "count": 35,
+      "uniques": 25
     },
     {
       "referrer": "github.com",
@@ -1328,16 +1336,16 @@
       "uniques": 4
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
-      "title": "/blob/main/GDPval_extracted.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/data/examples_per_sector.md",
       "title": "/blob/main/data/examples_per_sector.md",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
+      "title": "/blob/main/GDPval_extracted.md",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
@@ -1360,6 +1368,12 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/README.md",
       "title": "/blob/main/data/README.md",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/app/streamlit_app.py",
+      "title": "/blob/main/app/streamlit_app.py",
       "count": 2,
       "uniques": 1
     },
@@ -1462,12 +1476,6 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/app/modules/vulnerability.py",
       "title": "/blob/main/app/modules/vulnerability.py",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/app/streamlit_app.py",
-      "title": "/blob/main/app/streamlit_app.py",
       "count": 1,
       "uniques": 1
     },

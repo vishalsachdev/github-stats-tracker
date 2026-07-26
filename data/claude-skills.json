@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-25T03:30:10.175339+00:00",
+  "last_updated": "2026-07-26T03:30:08.963267+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -647,6 +647,10 @@
       "uniques": 1
     },
     "2026-07-23": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-24": {
       "count": 1,
       "uniques": 1
     }
@@ -1295,6 +1299,10 @@
     "2026-07-23": {
       "count": 19,
       "uniques": 10
+    },
+    "2026-07-24": {
+      "count": 20,
+      "uniques": 11
     }
   },
   "referrers": [
@@ -1310,8 +1318,8 @@
     },
     {
       "referrer": "Google",
-      "count": 5,
-      "uniques": 5
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "DuckDuckGo",
@@ -1415,16 +1423,16 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 5,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
       "title": "/tree/main/linkedin-announcement-generator",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
