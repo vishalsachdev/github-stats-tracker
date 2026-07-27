@@ -1,7 +1,7 @@
 {
   "repo": "legal-ai",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-26T03:30:08.963267+00:00",
+  "last_updated": "2026-07-27T03:30:09.427383+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Guest lecture materials: Teaching law students to build AI skills for legal practice (class action litigation)",
@@ -653,6 +653,10 @@
     "2026-07-24": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-25": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1301,6 +1305,10 @@
       "uniques": 0
     },
     "2026-07-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-25": {
       "count": 0,
       "uniques": 0
     }

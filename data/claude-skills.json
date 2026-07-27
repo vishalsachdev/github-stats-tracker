@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-26T03:30:08.963267+00:00",
+  "last_updated": "2026-07-27T03:30:09.427383+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -653,6 +653,10 @@
     "2026-07-24": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-25": {
+      "count": 5,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1303,6 +1307,10 @@
     "2026-07-24": {
       "count": 20,
       "uniques": 11
+    },
+    "2026-07-25": {
+      "count": 15,
+      "uniques": 8
     }
   },
   "referrers": [
@@ -1431,8 +1439,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 4,
-      "uniques": 4
+      "count": 5,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -1469,6 +1477,12 @@
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
+      "title": "/blob/main/timeline-generator/SKILL.md",
+      "count": 3,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
