@@ -1,7 +1,7 @@
 {
   "repo": "nano-hack",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-27T03:30:09.427383+00:00",
+  "last_updated": "2026-08-02T03:30:09.584664+00:00",
   "stars": 0,
   "forks": 0,
   "description": " A simple tool to explore a large number of kaggle hackathon submissions ",
@@ -657,6 +657,30 @@
     "2026-07-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-26": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-27": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-31": {
+      "count": 6,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1311,13 +1335,37 @@
     "2026-07-25": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-26": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-27": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-07-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-31": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 6,
-      "uniques": 5
+      "count": 15,
+      "uniques": 10
     },
     {
       "referrer": "github.com",
@@ -1329,8 +1377,8 @@
     {
       "path": "/vishalsachdev/nano-hack",
       "title": "Overview",
-      "count": 6,
-      "uniques": 5
+      "count": 12,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/nano-hack/blob/main/app.py",
@@ -1353,6 +1401,24 @@
     {
       "path": "/vishalsachdev/nano-hack/blob/main/AGENTS.md",
       "title": "/blob/main/AGENTS.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/blob/main/article/intent-by-human-words-by-ai-nano-banana-explorer.html",
+      "title": "/blob/main/article/intent-by-human-words-by-ai-nano-banana-explorer.html",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/commit/ed7ff6de62060ef1c5fcf7920c1222a62a42f569",
+      "title": "/commit/ed7ff6de62060ef1c5fcf7920c1222a62a42f569",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/tree/main/article",
+      "title": "/tree/main/article",
       "count": 1,
       "uniques": 1
     }

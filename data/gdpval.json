@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-27T03:30:09.427383+00:00",
+  "last_updated": "2026-08-02T03:30:09.584664+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -657,6 +657,30 @@
     "2026-07-25": {
       "count": 8,
       "uniques": 1
+    },
+    "2026-07-26": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-27": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-07-28": {
+      "count": 16,
+      "uniques": 2
+    },
+    "2026-07-29": {
+      "count": 5,
+      "uniques": 2
+    },
+    "2026-07-30": {
+      "count": 11,
+      "uniques": 5
+    },
+    "2026-07-31": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1311,13 +1335,37 @@
     "2026-07-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-26": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-07-27": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-28": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-07-29": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-31": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 43,
-      "uniques": 26
+      "count": 50,
+      "uniques": 21
     },
     {
       "referrer": "github.com",
@@ -1334,8 +1382,26 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 30,
-      "uniques": 26
+      "count": 24,
+      "uniques": 20
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/data",
+      "title": "/tree/main/data",
+      "count": 8,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main",
+      "title": "/tree/main",
+      "count": 7,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
+      "title": "/blob/main/GDPval_extracted.md",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
@@ -1344,22 +1410,16 @@
       "uniques": 4
     },
     {
+      "path": "/vishalsachdev/gdpval/tree/main/docs",
+      "title": "/tree/main/docs",
+      "count": 4,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/gdpval/blob/main/data/examples_per_sector.md",
       "title": "/blob/main/data/examples_per_sector.md",
       "count": 3,
       "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/gdpval/tree/main/data",
-      "title": "/tree/main/data",
-      "count": 3,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
-      "title": "/blob/main/GDPval_extracted.md",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/tasks.parquet",
@@ -1380,20 +1440,26 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/data/task_schema.md",
-      "title": "/blob/main/data/task_schema.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/gdpval/tree/main/app",
       "title": "/tree/main/app",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/by_occupation.csv",
       "title": "/blob/main/data/by_occupation.csv",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/extract",
+      "title": "/tree/main/extract",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/task_schema.md",
+      "title": "/blob/main/data/task_schema.md",
       "count": 1,
       "uniques": 1
     },
@@ -1423,7 +1489,7 @@
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/README.md",
-      "title": "vishalsachdev/gdpval: Interactive Streamlit app that helps instructors design...",
+      "title": "/blob/main/README.md",
       "count": 1,
       "uniques": 1
     },
@@ -1448,12 +1514,6 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/by_sector.csv",
       "title": "/blob/main/data/by_sector.csv",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/gdpval/tree/main/extract",
-      "title": "/tree/main/extract",
       "count": 1,
       "uniques": 1
     },
@@ -1484,12 +1544,6 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/app/modules/vulnerability.py",
       "title": "/blob/main/app/modules/vulnerability.py",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/gdpval/tree/main",
-      "title": "/tree/main",
       "count": 1,
       "uniques": 1
     },

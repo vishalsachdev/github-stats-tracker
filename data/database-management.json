@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-07-27T03:30:09.427383+00:00",
+  "last_updated": "2026-08-02T03:30:09.584664+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -657,6 +657,30 @@
     "2026-07-25": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-07-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-27": {
+      "count": 7,
+      "uniques": 1
+    },
+    "2026-07-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-31": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1311,6 +1335,30 @@
     "2026-07-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-07-26": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-07-27": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-29": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-07-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-07-31": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1336,12 +1384,6 @@
     }
   ],
   "paths": [
-    {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
-      "title": "/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
-      "count": 7,
-      "uniques": 1
-    },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
       "title": "/tree/main/.claude-skills/skills/install-skill-tracker",
@@ -1369,8 +1411,14 @@
     {
       "path": "/vishalsachdev/database-management",
       "title": "Overview",
-      "count": 4,
-      "uniques": 4
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
+      "title": "/tree/main/.claude-skills",
+      "count": 3,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/settings.json",
@@ -1421,12 +1469,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/plugins",
-      "title": "/tree/main/.claude-skills/plugins",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/README.md",
       "title": "/blob/main/.claude-skills/.claude/README.md",
       "count": 2,
@@ -1445,8 +1487,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management/tree/main/.claude-skills",
-      "title": "/tree/main/.claude-skills",
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
+      "title": "/tree/main/.claude-skills/skills/install-skill-tracker/scripts",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/plugins",
+      "title": "/tree/main/.claude-skills/plugins",
       "count": 1,
       "uniques": 1
     },
