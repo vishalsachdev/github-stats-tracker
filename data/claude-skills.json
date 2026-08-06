@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-04T03:30:06.865165+00:00",
+  "last_updated": "2026-08-06T03:30:09.582558+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -689,6 +689,14 @@
     "2026-08-02": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-08-03": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-04": {
+      "count": 4,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1375,14 +1383,17 @@
     "2026-08-02": {
       "count": 26,
       "uniques": 14
+    },
+    "2026-08-03": {
+      "count": 13,
+      "uniques": 8
+    },
+    "2026-08-04": {
+      "count": 19,
+      "uniques": 10
     }
   },
   "referrers": [
-    {
-      "referrer": "skillsplayground.com",
-      "count": 8,
-      "uniques": 2
-    },
     {
       "referrer": "Bing",
       "count": 5,
@@ -1399,14 +1410,19 @@
       "uniques": 1
     },
     {
-      "referrer": "github.com",
+      "referrer": "skillsplayground.com",
       "count": 4,
       "uniques": 1
     },
     {
       "referrer": "Google",
-      "count": 4,
-      "uniques": 3
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "referrer": "github.com",
+      "count": 2,
+      "uniques": 1
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1494,16 +1510,16 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 6,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
       "title": "/blob/main/timeline-generator/SKILL.md",
       "count": 6,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -1538,7 +1554,7 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 3,
+      "count": 4,
       "uniques": 1
     },
     {
@@ -1946,6 +1962,18 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/install-learning-graph-viewer",
       "title": "/tree/main/install-learning-graph-viewer",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/write-article",
+      "title": "/tree/main/write-article",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/skill-specs",
+      "title": "/tree/main/skill-specs",
       "count": 1,
       "uniques": 1
     }
