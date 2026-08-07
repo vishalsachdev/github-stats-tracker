@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-06T03:30:09.582558+00:00",
+  "collected_at": "2026-08-07T03:30:02.420821+00:00",
   "repos_checked": 90,
   "repos_with_traffic": 90,
   "repos_with_traffic_names": [
@@ -75,7 +75,6 @@
     "nsf-ai-faculty",
     "openclaw-dashboard",
     "openprose-workspace",
-    "orchestration-os",
     "pathshaper",
     "portfolio",
     "practicum",
@@ -83,6 +82,7 @@
     "python4class",
     "recipe-finder",
     "remotion-star",
+    "research-swarm-template",
     "roo-cline-comparison",
     "skills-sh",
     "stripe-annual-letter-2025",

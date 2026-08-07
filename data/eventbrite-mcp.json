@@ -1,7 +1,7 @@
 {
   "repo": "eventbrite-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-06T03:30:09.582558+00:00",
+  "last_updated": "2026-08-07T03:30:02.420821+00:00",
   "stars": 3,
   "forks": 0,
   "description": "",
@@ -697,6 +697,10 @@
     "2026-08-04": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-08-05": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1391,6 +1395,10 @@
     "2026-08-04": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-05": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1439,8 +1447,8 @@
     {
       "path": "/vishalsachdev/eventbrite-mcp",
       "title": "Overview",
-      "count": 8,
-      "uniques": 6
+      "count": 6,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/eventbrite-mcp/pull/2",
@@ -1565,6 +1573,24 @@
     {
       "path": "/vishalsachdev/eventbrite-mcp/actions",
       "title": "/actions",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/activity",
+      "title": "/activity",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/blob/main/.env.example",
+      "title": "/blob/main/.env.example",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/eventbrite-mcp/blob/main/.gitignore",
+      "title": "/blob/main/.gitignore",
       "count": 1,
       "uniques": 1
     }

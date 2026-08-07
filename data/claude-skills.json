@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-06T03:30:09.582558+00:00",
+  "last_updated": "2026-08-07T03:30:02.420821+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -697,6 +697,10 @@
     "2026-08-04": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-08-05": {
+      "count": 6,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1391,12 +1395,16 @@
     "2026-08-04": {
       "count": 19,
       "uniques": 10
+    },
+    "2026-08-05": {
+      "count": 17,
+      "uniques": 10
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 5,
+      "count": 6,
       "uniques": 1
     },
     {
@@ -1411,7 +1419,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 4,
+      "count": 3,
       "uniques": 1
     },
     {
@@ -1504,6 +1512,12 @@
       "uniques": 7
     },
     {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 7,
+      "uniques": 6
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
@@ -1514,12 +1528,6 @@
       "title": "/blob/main/timeline-generator/SKILL.md",
       "count": 6,
       "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 6,
-      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -1554,7 +1562,7 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 4,
+      "count": 3,
       "uniques": 1
     },
     {
@@ -1624,16 +1632,10 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
-      "title": "/tree/main/chartjs-generator",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator/assets",
       "title": "/tree/main/chartjs-generator/assets",
       "count": 2,
-      "uniques": 2
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/concept-classifier",
@@ -1645,6 +1647,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
+      "title": "/tree/main/chartjs-generator",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1974,6 +1982,12 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/skill-specs",
       "title": "/tree/main/skill-specs",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-bubble.html",
+      "title": "/blob/main/chartjs-generator/assets/template-bubble.html",
       "count": 1,
       "uniques": 1
     }
