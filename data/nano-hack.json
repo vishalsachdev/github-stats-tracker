@@ -1,7 +1,7 @@
 {
   "repo": "nano-hack",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-08T03:30:10.511206+00:00",
+  "last_updated": "2026-08-10T03:30:07.728643+00:00",
   "stars": 0,
   "forks": 0,
   "description": " A simple tool to explore a large number of kaggle hackathon submissions ",
@@ -703,6 +703,14 @@
       "uniques": 0
     },
     "2026-08-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-07": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-08-08": {
       "count": 0,
       "uniques": 0
     }
@@ -1407,17 +1415,25 @@
     "2026-08-06": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-08": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 15,
-      "uniques": 10
+      "count": 13,
+      "uniques": 9
     },
     {
       "referrer": "github.com",
-      "count": 1,
+      "count": 2,
       "uniques": 1
     }
   ],
@@ -1425,7 +1441,7 @@
     {
       "path": "/vishalsachdev/nano-hack",
       "title": "Overview",
-      "count": 12,
+      "count": 11,
       "uniques": 10
     },
     {
@@ -1467,6 +1483,12 @@
     {
       "path": "/vishalsachdev/nano-hack/tree/main/article",
       "title": "/tree/main/article",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/commits",
+      "title": "/commits",
       "count": 1,
       "uniques": 1
     }

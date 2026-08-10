@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-08T03:30:10.511206+00:00",
+  "last_updated": "2026-08-10T03:30:07.728643+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -705,6 +705,14 @@
     "2026-08-06": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-07": {
+      "count": 5,
+      "uniques": 3
+    },
+    "2026-08-08": {
+      "count": 4,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1407,18 +1415,26 @@
     "2026-08-06": {
       "count": 19,
       "uniques": 12
+    },
+    "2026-08-07": {
+      "count": 25,
+      "uniques": 14
+    },
+    "2026-08-08": {
+      "count": 21,
+      "uniques": 10
     }
   },
   "referrers": [
     {
+      "referrer": "github.com",
+      "count": 7,
+      "uniques": 3
+    },
+    {
       "referrer": "yandex.ru",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "referrer": "github.com",
-      "count": 4,
-      "uniques": 2
     },
     {
       "referrer": "com.linkedin.android",
@@ -1445,8 +1461,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 13,
-      "uniques": 12
+      "count": 17,
+      "uniques": 14
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -1721,6 +1737,18 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/agentic-eval-first-development/references/scoring-rubrics.md",
       "title": "/blob/main/skills/agentic-eval-first-development/references/scoring-rubrics.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/issues",
+      "title": "/issues",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/pulse",
+      "title": "/pulse",
       "count": 1,
       "uniques": 1
     }

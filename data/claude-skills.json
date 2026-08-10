@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-08T03:30:10.511206+00:00",
+  "last_updated": "2026-08-10T03:30:07.728643+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -703,6 +703,14 @@
       "uniques": 1
     },
     "2026-08-06": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-08-07": {
+      "count": 10,
+      "uniques": 3
+    },
+    "2026-08-08": {
       "count": 2,
       "uniques": 2
     }
@@ -1407,6 +1415,14 @@
     "2026-08-06": {
       "count": 10,
       "uniques": 5
+    },
+    "2026-08-07": {
+      "count": 21,
+      "uniques": 11
+    },
+    "2026-08-08": {
+      "count": 20,
+      "uniques": 11
     }
   },
   "referrers": [
@@ -1416,13 +1432,13 @@
       "uniques": 2
     },
     {
-      "referrer": "DuckDuckGo",
+      "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
     },
     {
-      "referrer": "skills.sh",
-      "count": 4,
+      "referrer": "DuckDuckGo",
+      "count": 3,
       "uniques": 1
     },
     {
@@ -1432,13 +1448,13 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 2,
+      "count": 3,
       "uniques": 1
     },
     {
       "referrer": "github.com",
-      "count": 2,
-      "uniques": 1
+      "count": 3,
+      "uniques": 2
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1477,6 +1493,12 @@
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 12,
+      "uniques": 8
+    },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
@@ -1520,28 +1542,22 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 7,
-      "uniques": 6
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
-      "title": "/blob/main/timeline-generator/SKILL.md",
-      "count": 6,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
       "title": "/tree/main/linkedin-announcement-generator",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 5,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -1568,6 +1584,18 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
+      "title": "/blob/main/timeline-generator/SKILL.md",
+      "count": 3,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
       "title": "/tree/main/paper-writing/scripts",
       "count": 3,
@@ -1578,18 +1606,6 @@
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
       "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 2,
-      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -1666,8 +1682,8 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
@@ -1996,6 +2012,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/assets/template-bubble.html",
       "title": "/blob/main/chartjs-generator/assets/template-bubble.html",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/microsim-p5/main.html",
+      "title": "/blob/main/microsim-p5/main.html",
       "count": 1,
       "uniques": 1
     }
