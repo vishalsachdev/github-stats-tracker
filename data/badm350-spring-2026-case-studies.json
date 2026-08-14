@@ -1,7 +1,7 @@
 {
   "repo": "badm350-spring-2026-case-studies",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-10T03:30:07.728643+00:00",
+  "last_updated": "2026-08-14T03:30:06.406265+00:00",
   "stars": 0,
   "forks": 17,
   "description": "BADM 350 Spring 2026 \u2014 student team case studies on Codex automations built for their semester projects",
@@ -507,6 +507,22 @@
       "uniques": 0
     },
     "2026-08-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-12": {
       "count": 0,
       "uniques": 0
     }
@@ -1015,6 +1031,22 @@
     "2026-08-08": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-11": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-12": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1034,12 +1066,12 @@
       "uniques": 1
     },
     {
-      "referrer": "Google",
-      "count": 1,
-      "uniques": 1
+      "referrer": "github.com",
+      "count": 2,
+      "uniques": 2
     },
     {
-      "referrer": "github.com",
+      "referrer": "Google",
       "count": 1,
       "uniques": 1
     },
@@ -1099,6 +1131,12 @@
       "uniques": 2
     },
     {
+      "path": "/vishalsachdev/badm350-spring-2026-case-studies",
+      "title": "Overview",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/pull/7",
       "title": "/pull/7",
       "count": 2,
@@ -1133,12 +1171,6 @@
       "title": "/pull/2/commits",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/badm350-spring-2026-case-studies",
-      "title": "Overview",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/badm350-spring-2026-case-studies/tree/main/case-studies",

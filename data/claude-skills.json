@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-10T03:30:07.728643+00:00",
+  "last_updated": "2026-08-14T03:30:06.406265+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -711,6 +711,22 @@
       "uniques": 3
     },
     "2026-08-08": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-08-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-10": {
+      "count": 4,
+      "uniques": 2
+    },
+    "2026-08-11": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-08-12": {
       "count": 2,
       "uniques": 2
     }
@@ -1423,6 +1439,22 @@
     "2026-08-08": {
       "count": 20,
       "uniques": 11
+    },
+    "2026-08-09": {
+      "count": 21,
+      "uniques": 12
+    },
+    "2026-08-10": {
+      "count": 20,
+      "uniques": 11
+    },
+    "2026-08-11": {
+      "count": 23,
+      "uniques": 12
+    },
+    "2026-08-12": {
+      "count": 44,
+      "uniques": 24
     }
   },
   "referrers": [
@@ -1432,9 +1464,24 @@
       "uniques": 2
     },
     {
+      "referrer": "skillsplayground.com",
+      "count": 6,
+      "uniques": 2
+    },
+    {
       "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 4,
+      "uniques": 3
+    },
+    {
+      "referrer": "chatgpt.com",
+      "count": 4,
+      "uniques": 2
     },
     {
       "referrer": "DuckDuckGo",
@@ -1443,16 +1490,6 @@
     },
     {
       "referrer": "Google",
-      "count": 3,
-      "uniques": 2
-    },
-    {
-      "referrer": "skillsplayground.com",
-      "count": 3,
-      "uniques": 1
-    },
-    {
-      "referrer": "github.com",
       "count": 3,
       "uniques": 2
     },
@@ -1485,25 +1522,26 @@
       "referrer": "kagi.com",
       "count": 1,
       "uniques": 1
-    },
-    {
-      "referrer": "chatgpt.com",
-      "count": 1,
-      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 12,
-      "uniques": 8
+      "count": 15,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 8,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1552,12 +1590,6 @@
       "title": "/tree/main/linkedin-announcement-generator",
       "count": 5,
       "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 5,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -1771,7 +1803,7 @@
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/skill-creator/SKILL.md",
-      "title": "claude-skills/skill-creator/SKILL.md at main \u00b7 vishalsachdev/claude-skills",
+      "title": "/blob/main/skill-creator/SKILL.md",
       "count": 1,
       "uniques": 1
     },
