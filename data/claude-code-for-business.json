@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-for-business",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-14T03:30:06.406265+00:00",
+  "last_updated": "2026-08-16T03:30:16.023132+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Build functional business tools using Claude Code \u2014 no coding experience required. An 8-video YouTube course.",
@@ -729,6 +729,14 @@
     "2026-08-12": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-14": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1455,13 +1463,21 @@
     "2026-08-12": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-14": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 1,
-      "uniques": 1
+      "count": 3,
+      "uniques": 2
     },
     {
       "referrer": "DuckDuckGo",
@@ -1489,7 +1505,7 @@
     {
       "path": "/vishalsachdev/claude-code-for-business",
       "title": "Overview",
-      "count": 2,
+      "count": 3,
       "uniques": 2
     },
     {

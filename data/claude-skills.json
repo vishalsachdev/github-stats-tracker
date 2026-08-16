@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-14T03:30:06.406265+00:00",
+  "last_updated": "2026-08-16T03:30:16.023132+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -729,6 +729,14 @@
     "2026-08-12": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-08-13": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-08-14": {
+      "count": 3,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1455,17 +1463,25 @@
     "2026-08-12": {
       "count": 44,
       "uniques": 24
+    },
+    "2026-08-13": {
+      "count": 24,
+      "uniques": 12
+    },
+    "2026-08-14": {
+      "count": 18,
+      "uniques": 10
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 7,
-      "uniques": 2
+      "count": 10,
+      "uniques": 3
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 6,
+      "count": 7,
       "uniques": 2
     },
     {
@@ -1489,11 +1505,6 @@
       "uniques": 1
     },
     {
-      "referrer": "Google",
-      "count": 3,
-      "uniques": 2
-    },
-    {
       "referrer": "majiayu000.github.io",
       "count": 2,
       "uniques": 1
@@ -1509,6 +1520,11 @@
       "uniques": 2
     },
     {
+      "referrer": "Google",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "referrer": "linkedin.com",
       "count": 1,
       "uniques": 1
@@ -1522,26 +1538,31 @@
       "referrer": "kagi.com",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "platform.docana.com",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 15,
+      "count": 14,
       "uniques": 11
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 10,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 8,
-      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1592,6 +1613,12 @@
       "uniques": 5
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 5,
+      "uniques": 5
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
       "title": "/blob/main/canvas-course-audit/SKILL.md",
       "count": 4,
@@ -1604,22 +1631,10 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/skill-creator",
-      "title": "/tree/main/skill-creator",
-      "count": 4,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/SKILL.md",
       "title": "/blob/main/quiz-generator/SKILL.md",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 4,
-      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
@@ -1636,6 +1651,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
+      "title": "/tree/main/chartjs-generator",
       "count": 3,
       "uniques": 3
     },
@@ -1712,10 +1733,10 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
-      "title": "/tree/main/chartjs-generator",
-      "count": 2,
-      "uniques": 2
+      "path": "/vishalsachdev/claude-skills/tree/main/skill-creator",
+      "title": "/tree/main/skill-creator",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
