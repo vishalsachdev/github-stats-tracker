@@ -1,8 +1,8 @@
 {
   "repo": "canvas-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-16T03:30:16.023132+00:00",
-  "stars": 191,
+  "last_updated": "2026-08-17T03:30:06.720660+00:00",
+  "stars": 194,
   "forks": 65,
   "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+ agents.",
   "views": {
@@ -737,6 +737,10 @@
     "2026-08-14": {
       "count": 194,
       "uniques": 64
+    },
+    "2026-08-15": {
+      "count": 117,
+      "uniques": 75
     }
   },
   "clones": {
@@ -1471,18 +1475,22 @@
     "2026-08-14": {
       "count": 277,
       "uniques": 81
+    },
+    "2026-08-15": {
+      "count": 226,
+      "uniques": 58
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 491,
-      "uniques": 314
+      "count": 508,
+      "uniques": 323
     },
     {
       "referrer": "github.com",
-      "count": 282,
-      "uniques": 69
+      "count": 328,
+      "uniques": 101
     },
     {
       "referrer": "canvas-mcp.illinihunt.org",
@@ -1491,8 +1499,8 @@
     },
     {
       "referrer": "Bing",
-      "count": 26,
-      "uniques": 19
+      "count": 25,
+      "uniques": 18
     },
     {
       "referrer": "pypi.org",
@@ -1501,13 +1509,13 @@
     },
     {
       "referrer": "reddit.com",
-      "count": 22,
+      "count": 21,
       "uniques": 17
     },
     {
       "referrer": "chatgpt.com",
       "count": 17,
-      "uniques": 9
+      "uniques": 10
     },
     {
       "referrer": "teams.public.onecdn.static.microsoft",
@@ -1516,8 +1524,8 @@
     },
     {
       "referrer": "search.brave.com",
-      "count": 9,
-      "uniques": 7
+      "count": 11,
+      "uniques": 8
     },
     {
       "referrer": "DuckDuckGo",
@@ -1560,6 +1568,11 @@
       "uniques": 3
     },
     {
+      "referrer": "ecosia.org",
+      "count": 4,
+      "uniques": 1
+    },
+    {
       "referrer": "com.linkedin.android",
       "count": 3,
       "uniques": 1
@@ -1568,11 +1581,6 @@
       "referrer": "yf2ljykclb.xfchat.iflytek.com",
       "count": 3,
       "uniques": 2
-    },
-    {
-      "referrer": "ecosia.org",
-      "count": 3,
-      "uniques": 1
     },
     {
       "referrer": "Yahoo",
@@ -1639,32 +1647,32 @@
     {
       "path": "/vishalsachdev/canvas-mcp",
       "title": "Overview",
-      "count": 893,
-      "uniques": 550
+      "count": 918,
+      "uniques": 560
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues",
       "title": "/issues",
-      "count": 116,
-      "uniques": 24
+      "count": 110,
+      "uniques": 21
     },
     {
       "path": "/vishalsachdev/canvas-mcp/commits/main",
       "title": "/commits/main",
-      "count": 37,
+      "count": 38,
       "uniques": 7
     },
     {
       "path": "/vishalsachdev/canvas-mcp/pulls",
       "title": "/pulls",
-      "count": 36,
+      "count": 38,
       "uniques": 18
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues/275",
       "title": "/issues/275",
-      "count": 36,
-      "uniques": 5
+      "count": 37,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues/170",
@@ -1673,28 +1681,34 @@
       "uniques": 12
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/releases/tag/v1.9.0",
-      "title": "/releases/tag/v1.9.0",
-      "count": 21,
-      "uniques": 14
-    },
-    {
       "path": "/vishalsachdev/canvas-mcp/pull/191",
       "title": "/pull/191",
-      "count": 21,
-      "uniques": 4
+      "count": 24,
+      "uniques": 6
     },
     {
-      "path": "/vishalsachdev/canvas-mcp/releases/tag/v1.6.0",
-      "title": "/releases/tag/v1.6.0",
-      "count": 18,
-      "uniques": 14
+      "path": "/vishalsachdev/canvas-mcp/releases/tag/v1.9.0",
+      "title": "/releases/tag/v1.9.0",
+      "count": 23,
+      "uniques": 16
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues/145",
       "title": "/issues/145",
       "count": 18,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/releases/tag/v1.6.0",
+      "title": "/releases/tag/v1.6.0",
+      "count": 17,
+      "uniques": 13
+    },
+    {
+      "path": "/vishalsachdev/canvas-mcp/releases",
+      "title": "/releases",
+      "count": 17,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/canvas-mcp/issues/172",
@@ -1861,12 +1875,6 @@
     {
       "path": "/vishalsachdev/canvas-mcp/blob/main/.claude/skills/canvas-morning-check/SKILL.md",
       "title": "canvas-mcp/.claude/skills/canvas-morning-check at main \u00b7 vishalsachdev/canvas...",
-      "count": 8,
-      "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/canvas-mcp/releases",
-      "title": "/releases",
       "count": 8,
       "uniques": 5
     },
