@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-18T03:30:21.128628+00:00",
+  "last_updated": "2026-08-19T03:30:08.178704+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -739,6 +739,14 @@
       "uniques": 0
     },
     "2026-08-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-16": {
+      "count": 3,
+      "uniques": 1
+    },
+    "2026-08-17": {
       "count": 0,
       "uniques": 0
     }
@@ -1479,6 +1487,14 @@
     "2026-08-15": {
       "count": 13,
       "uniques": 8
+    },
+    "2026-08-16": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-08-17": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1493,13 +1509,13 @@
       "uniques": 2
     },
     {
-      "referrer": "com.linkedin.android",
-      "count": 2,
+      "referrer": "github.com",
+      "count": 3,
       "uniques": 1
     },
     {
-      "referrer": "github.com",
-      "count": 1,
+      "referrer": "com.linkedin.android",
+      "count": 2,
       "uniques": 1
     }
   ],
@@ -1523,21 +1539,21 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/skills-sh/blob/main/snapshots/2026-04-23.json",
+      "title": "/blob/main/snapshots/2026-04-23.json",
+      "count": 2,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/skills-sh/tree/main/analysis",
       "title": "/tree/main/analysis",
-      "count": 3,
+      "count": 1,
       "uniques": 1
     },
     {
       "path": "/vishalsachdev/skills-sh/tree/main/analysis/daily",
       "title": "/tree/main/analysis/daily",
-      "count": 3,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/skills-sh/blob/main/snapshots/2026-04-23.json",
-      "title": "/blob/main/snapshots/2026-04-23.json",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {
