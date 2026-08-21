@@ -1,7 +1,7 @@
 {
   "repo": "legal-ai",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-19T03:30:08.178704+00:00",
+  "last_updated": "2026-08-21T03:30:07.916279+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Guest lecture materials: Teaching law students to build AI skills for legal practice (class action litigation)",
@@ -697,6 +697,66 @@
     "2026-08-04": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-21": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1389,6 +1449,66 @@
       "uniques": 0
     },
     "2026-08-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-12": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-13": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-19": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-21": {
       "count": 0,
       "uniques": 0
     }

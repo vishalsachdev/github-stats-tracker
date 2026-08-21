@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-19T03:30:08.178704+00:00",
+  "last_updated": "2026-08-21T03:30:07.916279+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -749,6 +749,14 @@
     "2026-08-17": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-08-18": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-08-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1495,17 +1503,25 @@
     "2026-08-17": {
       "count": 22,
       "uniques": 12
+    },
+    "2026-08-18": {
+      "count": 23,
+      "uniques": 13
+    },
+    "2026-08-19": {
+      "count": 24,
+      "uniques": 14
     }
   },
   "referrers": [
     {
-      "referrer": "github.com",
-      "count": 7,
-      "uniques": 3
-    },
-    {
       "referrer": "yandex.ru",
       "count": 4,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 3,
       "uniques": 1
     },
     {
@@ -1538,20 +1554,14 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 21,
-      "uniques": 18
+      "count": 18,
+      "uniques": 15
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
       "title": "/blob/main/skills/start-session/SKILL.md",
       "count": 5,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
-      "title": "/tree/main/skills",
-      "count": 4,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/REFERENCE.md",
@@ -1582,6 +1592,12 @@
       "title": "/blob/main/skills/paper-writing/scripts/check_paper.py",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
+      "title": "/tree/main/skills",
+      "count": 2,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/ELITE-PAPERS.md",
