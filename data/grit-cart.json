@@ -1,7 +1,7 @@
 {
   "repo": "grit-cart",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-22T03:30:02.935796+00:00",
+  "last_updated": "2026-08-24T03:30:07.254195+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Grit-CART Framework: Multi-agent critical evaluation of an AI entrepreneurship/intrapreneurship educational framework. 74 sources, 5 independent evaluations, 31K+ words.",
@@ -759,6 +759,14 @@
       "uniques": 0
     },
     "2026-08-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-21": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-22": {
       "count": 0,
       "uniques": 0
     }
@@ -1519,6 +1527,14 @@
     "2026-08-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-22": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1634,6 +1650,12 @@
     {
       "path": "/vishalsachdev/grit-cart/commits/main",
       "title": "/commits/main",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/grit-cart/blob/main/growth-mindset-grit-research-notes.md",
+      "title": "/blob/main/growth-mindset-grit-research-notes.md",
       "count": 1,
       "uniques": 1
     }

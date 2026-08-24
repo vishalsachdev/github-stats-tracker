@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-22T03:30:02.935796+00:00",
+  "last_updated": "2026-08-24T03:30:07.254195+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -761,6 +761,14 @@
     "2026-08-20": {
       "count": 9,
       "uniques": 1
+    },
+    "2026-08-21": {
+      "count": 12,
+      "uniques": 4
+    },
+    "2026-08-22": {
+      "count": 5,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1519,9 +1527,22 @@
     "2026-08-20": {
       "count": 24,
       "uniques": 13
+    },
+    "2026-08-21": {
+      "count": 20,
+      "uniques": 11
+    },
+    "2026-08-22": {
+      "count": 19,
+      "uniques": 10
     }
   },
   "referrers": [
+    {
+      "referrer": "skillsplayground.com",
+      "count": 10,
+      "uniques": 2
+    },
     {
       "referrer": "Bing",
       "count": 9,
@@ -1534,12 +1555,7 @@
     },
     {
       "referrer": "DuckDuckGo",
-      "count": 8,
-      "uniques": 3
-    },
-    {
-      "referrer": "skillsplayground.com",
-      "count": 8,
+      "count": 5,
       "uniques": 2
     },
     {
@@ -1553,11 +1569,6 @@
       "uniques": 2
     },
     {
-      "referrer": "github.com",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "referrer": "majiayu000.github.io",
       "count": 2,
       "uniques": 1
@@ -1565,6 +1576,11 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1595,16 +1611,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/claude-skills",
-      "title": "Overview",
-      "count": 17,
-      "uniques": 11
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 13,
-      "uniques": 6
+      "count": 14,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills",
+      "title": "Overview",
+      "count": 11,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -1691,12 +1707,6 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
       "count": 2,
@@ -1766,12 +1776,24 @@
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
       "count": 2,
-      "uniques": 1
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/vibe-coder-sdlc",
       "title": "/tree/main/vibe-coder-sdlc",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1801,12 +1823,6 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
       "count": 1,
       "uniques": 1
     },

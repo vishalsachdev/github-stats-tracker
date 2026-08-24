@@ -1,7 +1,7 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-22T03:30:02.935796+00:00",
+  "last_updated": "2026-08-24T03:30:07.254195+00:00",
   "stars": 9,
   "forks": 1,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
@@ -761,6 +761,14 @@
     "2026-08-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-21": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-22": {
+      "count": 6,
+      "uniques": 4
     }
   },
   "clones": {
@@ -1519,13 +1527,21 @@
     "2026-08-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-08-21": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-22": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 8,
-      "uniques": 5
+      "count": 10,
+      "uniques": 7
     },
     {
       "referrer": "linkedin.com",
@@ -1534,6 +1550,11 @@
     },
     {
       "referrer": "DuckDuckGo",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "chatwithgpt.substack.com",
       "count": 2,
       "uniques": 1
     },
@@ -1552,8 +1573,8 @@
     {
       "path": "/vishalsachdev/learning-design-pillars",
       "title": "Overview",
-      "count": 5,
-      "uniques": 5
+      "count": 9,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-course-audit",
@@ -1690,6 +1711,18 @@
     {
       "path": "/vishalsachdev/learning-design-pillars/blob/main/principles/learning-design-pillars.yaml",
       "title": "/blob/main/principles/learning-design-pillars.yaml",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/commits",
+      "title": "/commits",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-assignment-design",
+      "title": "/tree/main/skills/canvas-assignment-design",
       "count": 1,
       "uniques": 1
     }
