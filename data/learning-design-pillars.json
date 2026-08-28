@@ -1,7 +1,7 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-24T03:30:07.254195+00:00",
+  "last_updated": "2026-08-28T03:30:05.665398+00:00",
   "stars": 9,
   "forks": 1,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
@@ -769,6 +769,22 @@
     "2026-08-22": {
       "count": 6,
       "uniques": 4
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-25": {
+      "count": 9,
+      "uniques": 3
+    },
+    "2026-08-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1535,12 +1551,28 @@
     "2026-08-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-08-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 10,
+      "count": 16,
       "uniques": 7
     },
     {
@@ -1567,6 +1599,11 @@
       "referrer": "claude.ai",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "teams.public.onecdn.static.microsoft",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
@@ -1583,14 +1620,20 @@
       "uniques": 4
     },
     {
-      "path": "/vishalsachdev/learning-design-pillars/blob/main/skills/learning-design-review/SKILL.md",
-      "title": "/blob/main/skills/learning-design-review/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/skills",
       "title": "/tree/main/skills",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/tree/main",
+      "title": "/tree/main",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/learning-design-pillars/blob/main/skills/learning-design-review/SKILL.md",
+      "title": "/blob/main/skills/learning-design-review/SKILL.md",
       "count": 1,
       "uniques": 1
     },
@@ -1603,12 +1646,6 @@
     {
       "path": "/vishalsachdev/learning-design-pillars/blob/main/skills/learning-design-checklist/SKILL.md",
       "title": "/blob/main/skills/learning-design-checklist/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/learning-design-pillars/tree/main",
-      "title": "/tree/main",
       "count": 1,
       "uniques": 1
     },

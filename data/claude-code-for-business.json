@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-for-business",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-24T03:30:07.254195+00:00",
+  "last_updated": "2026-08-28T03:30:05.665398+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Build functional business tools using Claude Code \u2014 no coding experience required. An 8-video YouTube course.",
@@ -769,6 +769,22 @@
     "2026-08-22": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 10,
+      "uniques": 1
+    },
+    "2026-08-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1535,9 +1551,30 @@
     "2026-08-22": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
+    {
+      "referrer": "github.com",
+      "count": 10,
+      "uniques": 1
+    },
     {
       "referrer": "Bing",
       "count": 3,
@@ -1545,11 +1582,6 @@
     },
     {
       "referrer": "DuckDuckGo",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "referrer": "github.com",
       "count": 1,
       "uniques": 1
     },
@@ -1563,8 +1595,8 @@
     {
       "path": "/vishalsachdev/claude-code-for-business",
       "title": "Overview",
-      "count": 5,
-      "uniques": 4
+      "count": 7,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/04-automation/README.md",
@@ -1659,6 +1691,30 @@
     {
       "path": "/vishalsachdev/claude-code-for-business/tree/c6092d9ecf64a4bfea4ebdab4aee73310f1806d7",
       "title": "/tree/c6092d9ecf64a4bfea4ebdab4aee73310f1806d7",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/01-first-contact/solution",
+      "title": "/blob/main/exercises/01-first-contact/solution",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/02-collaboration",
+      "title": "/blob/main/exercises/02-collaboration",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/tree/main/resources",
+      "title": "/tree/main/resources",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business/tree/main/scripts",
+      "title": "/tree/main/scripts",
       "count": 1,
       "uniques": 1
     }

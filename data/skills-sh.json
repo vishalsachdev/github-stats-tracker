@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-24T03:30:07.254195+00:00",
+  "last_updated": "2026-08-28T03:30:05.665398+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -767,6 +767,22 @@
       "uniques": 0
     },
     "2026-08-22": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 4,
+      "uniques": 1
+    },
+    "2026-08-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-26": {
       "count": 0,
       "uniques": 0
     }
@@ -1535,18 +1551,34 @@
     "2026-08-22": {
       "count": 8,
       "uniques": 5
+    },
+    "2026-08-23": {
+      "count": 20,
+      "uniques": 10
+    },
+    "2026-08-24": {
+      "count": 7,
+      "uniques": 4
+    },
+    "2026-08-25": {
+      "count": 6,
+      "uniques": 3
+    },
+    "2026-08-26": {
+      "count": 7,
+      "uniques": 4
     }
   },
   "referrers": [
     {
+      "referrer": "github.com",
+      "count": 8,
+      "uniques": 2
+    },
+    {
       "referrer": "linkedin.com",
       "count": 4,
       "uniques": 3
-    },
-    {
-      "referrer": "github.com",
-      "count": 4,
-      "uniques": 1
     },
     {
       "referrer": "vishalsachdev.github.io",
@@ -1591,14 +1623,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/skills-sh/tree/main/analysis",
-      "title": "/tree/main/analysis",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/skills-sh",
       "title": "Overview",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/tree/main/analysis",
+      "title": "/tree/main/analysis",
       "count": 1,
       "uniques": 1
     },
@@ -1617,6 +1649,18 @@
     {
       "path": "/vishalsachdev/skills-sh/tree/main/site",
       "title": "/tree/main/site",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/blob/main/site/categories.html",
+      "title": "/blob/main/site/categories.html",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/tree/main/docs",
+      "title": "/tree/main/docs",
       "count": 1,
       "uniques": 1
     }

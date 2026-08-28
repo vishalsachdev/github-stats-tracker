@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-24T03:30:07.254195+00:00",
+  "last_updated": "2026-08-28T03:30:05.665398+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -767,6 +767,22 @@
       "uniques": 0
     },
     "2026-08-22": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 8,
+      "uniques": 1
+    },
+    "2026-08-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-26": {
       "count": 0,
       "uniques": 0
     }
@@ -1535,6 +1551,22 @@
     "2026-08-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-25": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1544,12 +1576,12 @@
       "uniques": 1
     },
     {
-      "referrer": "Google",
-      "count": 1,
+      "referrer": "github.com",
+      "count": 8,
       "uniques": 1
     },
     {
-      "referrer": "github.com",
+      "referrer": "Google",
       "count": 1,
       "uniques": 1
     },
@@ -1573,15 +1605,15 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "/tree/main/plugins",
       "count": 3,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 2,
       "uniques": 2
     },
     {
@@ -1677,6 +1709,12 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/plugins",
       "title": "/tree/main/.claude-skills/plugins",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/docs/chapters",
+      "title": "/tree/main/docs/chapters",
       "count": 2,
       "uniques": 1
     },
@@ -1911,6 +1949,18 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/.claude/hooks",
       "title": "/tree/main/.claude-skills/.claude/hooks",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/docs/chapters/02-tables-relational-algebra.md",
+      "title": "/blob/main/docs/chapters/02-tables-relational-algebra.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/docs/chapters/08-cloud-databases-optimization.md",
+      "title": "/blob/main/docs/chapters/08-cloud-databases-optimization.md",
       "count": 1,
       "uniques": 1
     }

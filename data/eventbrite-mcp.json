@@ -1,7 +1,7 @@
 {
   "repo": "eventbrite-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-24T03:30:07.254195+00:00",
+  "last_updated": "2026-08-28T03:30:05.665398+00:00",
   "stars": 3,
   "forks": 0,
   "description": "",
@@ -767,6 +767,22 @@
       "uniques": 0
     },
     "2026-08-22": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-25": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-08-26": {
       "count": 0,
       "uniques": 0
     }
@@ -1535,12 +1551,28 @@
     "2026-08-22": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "search.brave.com",
-      "count": 2,
+      "count": 3,
       "uniques": 1
     },
     {
@@ -1583,7 +1615,7 @@
     {
       "path": "/vishalsachdev/eventbrite-mcp",
       "title": "Overview",
-      "count": 2,
+      "count": 4,
       "uniques": 2
     },
     {
