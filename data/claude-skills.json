@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-28T03:30:05.665398+00:00",
+  "last_updated": "2026-08-30T03:30:02.992620+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -785,6 +785,10 @@
     "2026-08-26": {
       "count": 6,
       "uniques": 4
+    },
+    "2026-08-27": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1567,13 +1571,17 @@
     "2026-08-26": {
       "count": 25,
       "uniques": 14
+    },
+    "2026-08-27": {
+      "count": 10,
+      "uniques": 6
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 12,
-      "uniques": 5
+      "count": 14,
+      "uniques": 6
     },
     {
       "referrer": "Bing",
@@ -1582,13 +1590,13 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 11,
+      "count": 10,
       "uniques": 2
     },
     {
       "referrer": "DuckDuckGo",
-      "count": 5,
-      "uniques": 2
+      "count": 6,
+      "uniques": 3
     },
     {
       "referrer": "skills.sh",
@@ -1645,13 +1653,13 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 15,
+      "count": 16,
       "uniques": 12
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 14,
+      "count": 13,
       "uniques": 5
     },
     {
@@ -1745,6 +1753,12 @@
       "uniques": 3
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
+      "title": "/blob/main/install-skill-tracker/README.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
       "count": 2,
@@ -1819,12 +1833,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
-      "title": "/blob/main/install-skill-tracker/README.md",
       "count": 2,
       "uniques": 2
     },
