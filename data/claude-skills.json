@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-30T03:30:02.992620+00:00",
+  "last_updated": "2026-08-31T03:30:06.626606+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -789,6 +789,14 @@
     "2026-08-27": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-08-28": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-08-29": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1575,23 +1583,31 @@
     "2026-08-27": {
       "count": 10,
       "uniques": 6
+    },
+    "2026-08-28": {
+      "count": 15,
+      "uniques": 7
+    },
+    "2026-08-29": {
+      "count": 13,
+      "uniques": 7
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 14,
-      "uniques": 6
-    },
-    {
-      "referrer": "Bing",
-      "count": 11,
-      "uniques": 3
+      "count": 13,
+      "uniques": 5
     },
     {
       "referrer": "skillsplayground.com",
       "count": 10,
       "uniques": 2
+    },
+    {
+      "referrer": "Bing",
+      "count": 8,
+      "uniques": 3
     },
     {
       "referrer": "DuckDuckGo",
@@ -1604,11 +1620,6 @@
       "uniques": 1
     },
     {
-      "referrer": "chatgpt.com",
-      "count": 4,
-      "uniques": 2
-    },
-    {
       "referrer": "majiayu000.github.io",
       "count": 2,
       "uniques": 1
@@ -1616,6 +1627,11 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "chatgpt.com",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1659,7 +1675,7 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 13,
+      "count": 12,
       "uniques": 5
     },
     {
@@ -1759,6 +1775,12 @@
       "uniques": 3
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
       "count": 2,
@@ -1829,12 +1851,6 @@
       "title": "/tree/main/vibe-coder-sdlc",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
