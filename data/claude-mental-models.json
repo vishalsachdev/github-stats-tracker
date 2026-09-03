@@ -1,7 +1,7 @@
 {
   "repo": "claude-mental-models",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-31T03:30:06.626606+00:00",
+  "last_updated": "2026-09-03T14:00:05.443808+00:00",
   "stars": 0,
   "forks": 0,
   "description": "How Claude Code's evolving surface guides users to build new mental models: a triangulated, persona-aware analysis of 17 months of releases (Apr 2025\u2013Aug 2026), refreshed incrementally. Live notebook: https://vishalsachdev.github.io/claude-mental-models/",
@@ -433,6 +433,22 @@
     "2026-08-29": {
       "count": 8,
       "uniques": 1
+    },
+    "2026-08-30": {
+      "count": 5,
+      "uniques": 1
+    },
+    "2026-08-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -863,16 +879,43 @@
     "2026-08-29": {
       "count": 14,
       "uniques": 9
+    },
+    "2026-08-30": {
+      "count": 6,
+      "uniques": 5
+    },
+    "2026-08-31": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-01": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-09-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "linkedin.com",
-      "count": 8,
+      "count": 12,
+      "uniques": 1
+    },
+    {
+      "referrer": "t.co",
+      "count": 1,
       "uniques": 1
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/claude-mental-models",
+      "title": "Overview",
+      "count": 5,
+      "uniques": 1
+    },
     {
       "path": "/vishalsachdev/claude-mental-models/tree/main/articles",
       "title": "/tree/main/articles",
@@ -880,9 +923,9 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-mental-models",
-      "title": "Overview",
-      "count": 1,
+      "path": "/vishalsachdev/claude-mental-models/tree/main/data",
+      "title": "/tree/main/data",
+      "count": 2,
       "uniques": 1
     },
     {
@@ -906,12 +949,6 @@
     {
       "path": "/vishalsachdev/claude-mental-models/blob/main/docs/methodology.md",
       "title": "/blob/main/docs/methodology.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-mental-models/tree/main/data",
-      "title": "/tree/main/data",
       "count": 1,
       "uniques": 1
     }

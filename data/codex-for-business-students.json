@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-31T03:30:06.626606+00:00",
+  "last_updated": "2026-09-03T14:00:05.443808+00:00",
   "stars": 2,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -713,6 +713,22 @@
     "2026-08-29": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-30": {
+      "count": 8,
+      "uniques": 1
+    },
+    "2026-08-31": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-02": {
+      "count": 5,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1423,21 +1439,42 @@
     "2026-08-29": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-30": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-08-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
-      "referrer": "github.com",
-      "count": 9,
+      "referrer": "chatgpt.com",
+      "count": 8,
       "uniques": 1
     },
     {
-      "referrer": "linkedin.com",
-      "count": 1,
+      "referrer": "github.com",
+      "count": 4,
       "uniques": 1
     },
     {
       "referrer": "Google",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "linkedin.com",
       "count": 1,
       "uniques": 1
     },
@@ -1460,19 +1497,14 @@
       "referrer": "Bing",
       "count": 1,
       "uniques": 1
-    },
-    {
-      "referrer": "chatgpt.com",
-      "count": 1,
-      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 5,
-      "uniques": 4
+      "count": 7,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
@@ -1711,6 +1743,30 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/blob/main/README.md",
       "title": "/blob/main/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/main/LICENSE",
+      "title": "/blob/main/LICENSE",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/commit/470ce4a1615f8bbab51374b8f32529bfe7c060ed",
+      "title": "/commit/470ce4a1615f8bbab51374b8f32529bfe7c060ed",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/commit/4ae8f53f1fa2ed8ab2609b9b95d01852cbb6f351",
+      "title": "/commit/4ae8f53f1fa2ed8ab2609b9b95d01852cbb6f351",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/commits",
+      "title": "/commits",
       "count": 1,
       "uniques": 1
     }

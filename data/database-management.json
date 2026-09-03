@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-31T03:30:06.626606+00:00",
+  "last_updated": "2026-09-03T14:00:05.443808+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -797,6 +797,22 @@
     "2026-08-29": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-30": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-08-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-02": {
+      "count": 14,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1591,17 +1607,33 @@
     "2026-08-29": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-08-30": {
+      "count": 30,
+      "uniques": 8
+    },
+    "2026-08-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-02": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
-      "referrer": "lobehub.com",
-      "count": 11,
-      "uniques": 1
+      "referrer": "github.com",
+      "count": 17,
+      "uniques": 2
     },
     {
-      "referrer": "github.com",
-      "count": 8,
+      "referrer": "lobehub.com",
+      "count": 11,
       "uniques": 1
     },
     {
@@ -1617,6 +1649,12 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 6,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generat",
       "title": "/tree/main/.claude-skills/skills/mermaid-generat",
       "count": 5,
@@ -1627,12 +1665,6 @@
       "title": "/tree/main/.claude-skills/skills/mermaid-generator",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
@@ -1739,6 +1771,12 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/docs/chapters",
       "title": "/tree/main/docs/chapters",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/scripts/show-skill-tokens.sh",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/scripts/show-skill-tokens.sh",
       "count": 2,
       "uniques": 1
     },
@@ -1985,6 +2023,42 @@
     {
       "path": "/vishalsachdev/database-management/blob/main/docs/chapters/08-cloud-databases-optimization.md",
       "title": "/blob/main/docs/chapters/08-cloud-databases-optimization.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/hooks/track-prompts.sh",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/hooks/track-prompts.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/hooks/track-skill-end.sh",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/hooks/track-skill-end.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/hooks/track-skill-start.sh",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/hooks/track-skill-start.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/scripts/analyze-skills.py",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/scripts/analyze-skills.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/settings.json",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/settings.json",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/mcp-servers/README.md",
+      "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/mcp-servers/README.md",
       "count": 1,
       "uniques": 1
     }

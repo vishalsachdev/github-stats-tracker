@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-08-31T03:30:06.626606+00:00",
+  "last_updated": "2026-09-03T14:00:05.443808+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -795,6 +795,22 @@
       "uniques": 0
     },
     "2026-08-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-01": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-02": {
       "count": 0,
       "uniques": 0
     }
@@ -1591,6 +1607,22 @@
     "2026-08-29": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-08-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-08-31": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-01": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1627,6 +1659,12 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/pedagogy/business_coherence_scorecard.md",
       "title": "/blob/main/docs/pedagogy/business_coherence_scorecard.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/degree-vs-specialization-analysis.md",
+      "title": "/blob/main/docs/proposal/degree-vs-specialization-analysis.md",
       "count": 1,
       "uniques": 1
     }
