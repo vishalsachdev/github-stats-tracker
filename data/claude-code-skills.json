@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-04T14:00:08.149929+00:00",
+  "last_updated": "2026-09-05T14:00:07.553335+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -817,6 +817,10 @@
     "2026-09-03": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-04": {
+      "count": 9,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1631,6 +1635,10 @@
     "2026-09-03": {
       "count": 13,
       "uniques": 8
+    },
+    "2026-09-04": {
+      "count": 23,
+      "uniques": 14
     }
   },
   "referrers": [
@@ -1679,8 +1687,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 7,
-      "uniques": 6
+      "count": 9,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -1711,12 +1719,6 @@
       "title": "/blob/main/skills/paper-writing/scripts/check_paper.py",
       "count": 3,
       "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
-      "title": "/tree/main/skills",
-      "count": 2,
-      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/ELITE-PAPERS.md",
@@ -1788,6 +1790,12 @@
       "path": "/vishalsachdev/claude-code-skills/releases/tag/v1.0.0",
       "title": "/releases/tag/v1.0.0",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
+      "title": "/tree/main/skills",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1979,6 +1987,12 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/542096af468d1bc1099b41995e77c5538e0f6f56/skills/paper-writing/SKILL.md",
       "title": "/blob/542096af468d1bc1099b41995e77c5538e0f6f56/skills/paper-writing/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/agentic-eval-first-development/scripts/normalize_scores.py",
+      "title": "/blob/main/skills/agentic-eval-first-development/scripts/normalize_scores.py",
       "count": 1,
       "uniques": 1
     }
