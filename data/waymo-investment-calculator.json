@@ -1,7 +1,7 @@
 {
   "repo": "waymo-investment-calculator",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-06T14:00:09.150216+00:00",
+  "last_updated": "2026-09-08T14:00:07.707564+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Interactive financial calculator for analyzing Waymo robotaxi investments with advanced metrics (NPV, IRR)",
@@ -821,6 +821,14 @@
     "2026-09-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-07": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1639,6 +1647,14 @@
     "2026-09-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-07": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1658,6 +1674,12 @@
     {
       "path": "/vishalsachdev/waymo-investment-calculator/tree/main/public",
       "title": "/tree/main/public",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/waymo-investment-calculator",
+      "title": "Overview",
       "count": 1,
       "uniques": 1
     }

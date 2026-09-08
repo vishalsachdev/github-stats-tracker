@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-06T14:00:09.150216+00:00",
-  "repos_checked": 90,
-  "repos_with_traffic": 90,
+  "collected_at": "2026-09-08T14:00:07.707564+00:00",
+  "repos_checked": 91,
+  "repos_with_traffic": 91,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -60,6 +60,7 @@
     "icis2025-context-engineering",
     "illiniclaw",
     "inquiring-agents",
+    "jpim-research-forum-2026",
     "kg-learning",
     "learning-design-pillars",
     "legal-ai",

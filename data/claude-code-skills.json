@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-06T14:00:09.150216+00:00",
+  "last_updated": "2026-09-08T14:00:07.707564+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -823,6 +823,14 @@
       "uniques": 1
     },
     "2026-09-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-07": {
       "count": 0,
       "uniques": 0
     }
@@ -1647,6 +1655,14 @@
     "2026-09-05": {
       "count": 19,
       "uniques": 12
+    },
+    "2026-09-06": {
+      "count": 13,
+      "uniques": 8
+    },
+    "2026-09-07": {
+      "count": 13,
+      "uniques": 8
     }
   },
   "referrers": [
@@ -1695,8 +1711,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 8,
-      "uniques": 6
+      "count": 7,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -1771,12 +1787,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/llm-council",
-      "title": "/tree/main/skills/llm-council",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-code-skills/tree/main/releases",
       "title": "/tree/main/releases",
       "count": 2,
@@ -1789,15 +1799,21 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/agentic-eval-first-development",
-      "title": "/tree/main/skills/agentic-eval-first-development",
+      "path": "/vishalsachdev/claude-code-skills/releases/tag/v1.0.0",
+      "title": "/releases/tag/v1.0.0",
       "count": 2,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/releases/tag/v1.0.0",
-      "title": "/releases/tag/v1.0.0",
-      "count": 2,
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/llm-council",
+      "title": "/tree/main/skills/llm-council",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/agentic-eval-first-development",
+      "title": "/tree/main/skills/agentic-eval-first-development",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -2001,6 +2017,12 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/agentic-eval-first-development/scripts/normalize_scores.py",
       "title": "/blob/main/skills/agentic-eval-first-development/scripts/normalize_scores.py",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills/agentic-eval-first-development/scripts",
+      "title": "/tree/main/skills/agentic-eval-first-development/scripts",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-for-business",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-06T14:00:09.150216+00:00",
+  "last_updated": "2026-09-08T14:00:07.707564+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Build functional business tools using Claude Code \u2014 no coding experience required. An 8-video YouTube course.",
@@ -823,6 +823,14 @@
       "uniques": 0
     },
     "2026-09-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-07": {
       "count": 0,
       "uniques": 0
     }
@@ -1647,6 +1655,14 @@
     "2026-09-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-07": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1678,16 +1694,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/claude-code-for-business",
-      "title": "Overview",
-      "count": 4,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-code-for-business/blob/main/exercises/04-automation/README.md",
       "title": "/blob/main/exercises/04-automation/README.md",
       "count": 3,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-for-business",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-code-for-business/tree/main/exercises/06-content-marketing",

@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-06T14:00:09.150216+00:00",
+  "last_updated": "2026-09-08T14:00:07.707564+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -823,6 +823,14 @@
       "uniques": 0
     },
     "2026-09-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-07": {
       "count": 0,
       "uniques": 0
     }
@@ -1647,6 +1655,14 @@
     "2026-09-05": {
       "count": 5,
       "uniques": 3
+    },
+    "2026-09-06": {
+      "count": 19,
+      "uniques": 12
+    },
+    "2026-09-07": {
+      "count": 4,
+      "uniques": 2
     }
   },
   "referrers": [
