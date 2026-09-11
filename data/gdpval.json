@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-08T14:00:07.707564+00:00",
+  "last_updated": "2026-09-11T14:00:04.650963+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -833,6 +833,18 @@
     "2026-09-07": {
       "count": 11,
       "uniques": 7
+    },
+    "2026-09-08": {
+      "count": 11,
+      "uniques": 7
+    },
+    "2026-09-09": {
+      "count": 17,
+      "uniques": 9
+    },
+    "2026-09-10": {
+      "count": 9,
+      "uniques": 7
     }
   },
   "clones": {
@@ -1663,18 +1675,30 @@
     "2026-09-07": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-08": {
+      "count": 6,
+      "uniques": 1
+    },
+    "2026-09-09": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-09-10": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 55,
-      "uniques": 39
+      "count": 69,
+      "uniques": 45
     },
     {
       "referrer": "chatgpt.com",
-      "count": 10,
-      "uniques": 5
+      "count": 6,
+      "uniques": 4
     },
     {
       "referrer": "Bing",
@@ -1701,20 +1725,20 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 59,
-      "uniques": 51
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
-      "title": "/blob/main/GDPval_extracted.md",
-      "count": 13,
-      "uniques": 7
+      "count": 69,
+      "uniques": 57
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 11,
-      "uniques": 10
+      "count": 12,
+      "uniques": 11
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
+      "title": "/blob/main/GDPval_extracted.md",
+      "count": 10,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
@@ -1723,15 +1747,27 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/gdpval/tree/main/docs",
-      "title": "/tree/main/docs",
-      "count": 3,
-      "uniques": 3
+      "path": "/vishalsachdev/gdpval/tree/main",
+      "title": "/tree/main",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_analysis_overview.md",
+      "title": "/blob/main/GDPval_analysis_overview.md",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/by_occupation.csv",
       "title": "/blob/main/data/by_occupation.csv",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/docs",
+      "title": "/tree/main/docs",
+      "count": 2,
       "uniques": 2
     },
     {
@@ -1743,12 +1779,6 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
       "title": "/blob/main/GDPval.pdf",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/gdpval/tree/main",
-      "title": "/tree/main",
       "count": 2,
       "uniques": 2
     },
@@ -1791,12 +1821,6 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/tasks_summary.md",
       "title": "/blob/main/data/tasks_summary.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval_analysis_overview.md",
-      "title": "/blob/main/GDPval_analysis_overview.md",
       "count": 2,
       "uniques": 2
     },

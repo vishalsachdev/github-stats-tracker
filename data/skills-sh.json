@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-08T14:00:07.707564+00:00",
+  "last_updated": "2026-09-11T14:00:04.650963+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -833,6 +833,18 @@
     "2026-09-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-10": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1663,6 +1675,18 @@
     "2026-09-07": {
       "count": 4,
       "uniques": 2
+    },
+    "2026-09-08": {
+      "count": 5,
+      "uniques": 3
+    },
+    "2026-09-09": {
+      "count": 12,
+      "uniques": 6
+    },
+    "2026-09-10": {
+      "count": 10,
+      "uniques": 8
     }
   },
   "referrers": [
@@ -1757,6 +1781,12 @@
     {
       "path": "/vishalsachdev/skills-sh/tree/main/docs",
       "title": "/tree/main/docs",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/skills-sh/blob/main/classify_skills.py",
+      "title": "/blob/main/classify_skills.py",
       "count": 1,
       "uniques": 1
     }
