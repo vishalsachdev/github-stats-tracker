@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-14T14:00:11.869768+00:00",
+  "last_updated": "2026-09-15T14:00:07.735046+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -857,6 +857,10 @@
     "2026-09-13": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-09-14": {
+      "count": 4,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1711,12 +1715,16 @@
     "2026-09-13": {
       "count": 12,
       "uniques": 6
+    },
+    "2026-09-14": {
+      "count": 14,
+      "uniques": 9
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 9,
+      "count": 12,
       "uniques": 2
     },
     {
@@ -1741,7 +1749,7 @@
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 3,
+      "count": 2,
       "uniques": 1
     },
     {
@@ -1799,6 +1807,12 @@
       "uniques": 8
     },
     {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 8,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
       "title": "/tree/main/agentic-validators",
       "count": 7,
@@ -1835,28 +1849,22 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 7,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 6,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
       "count": 6,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 5,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -1887,6 +1895,12 @@
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
+      "title": "/tree/main/quiz-generator/references",
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
@@ -1955,16 +1969,22 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
-      "title": "/tree/main/quiz-generator/references",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/README.md",
       "title": "/blob/main/quiz-generator/README.md",
       "count": 2,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
+      "title": "/blob/main/timeline-generator/SKILL.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/references/distractor-writing-guide.md",
+      "title": "/blob/main/quiz-generator/references/distractor-writing-guide.md",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
@@ -1981,12 +2001,6 @@
     {
       "path": "/vishalsachdev/claude-skills/commits",
       "title": "/commits",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
-      "title": "/blob/main/timeline-generator/SKILL.md",
       "count": 1,
       "uniques": 1
     },
@@ -2131,12 +2145,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/badm350-canvas-builder/SKILL.md",
       "title": "/blob/main/badm350-canvas-builder/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/references/distractor-writing-guide.md",
-      "title": "/blob/main/quiz-generator/references/distractor-writing-guide.md",
       "count": 1,
       "uniques": 1
     },
