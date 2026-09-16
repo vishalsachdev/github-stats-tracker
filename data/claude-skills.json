@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-15T14:00:07.735046+00:00",
+  "last_updated": "2026-09-16T14:00:08.968182+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -861,6 +861,10 @@
     "2026-09-14": {
       "count": 4,
       "uniques": 2
+    },
+    "2026-09-15": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1719,6 +1723,10 @@
     "2026-09-14": {
       "count": 14,
       "uniques": 9
+    },
+    "2026-09-15": {
+      "count": 10,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -1738,24 +1746,19 @@
       "uniques": 4
     },
     {
-      "referrer": "chatgpt.com",
-      "count": 4,
-      "uniques": 3
-    },
-    {
       "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
     },
     {
       "referrer": "skillsplayground.com",
-      "count": 2,
+      "count": 4,
       "uniques": 1
     },
     {
-      "referrer": "Bing",
+      "referrer": "chatgpt.com",
       "count": 2,
-      "uniques": 1
+      "uniques": 2
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1765,6 +1768,11 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "Bing",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1855,14 +1863,14 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 6,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
+      "count": 6,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
       "count": 5,
       "uniques": 4
     },
@@ -1875,8 +1883,8 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
-      "count": 5,
-      "uniques": 4
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",

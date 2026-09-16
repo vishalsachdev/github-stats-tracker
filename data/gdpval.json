@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-15T14:00:07.735046+00:00",
+  "last_updated": "2026-09-16T14:00:08.968182+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -861,6 +861,10 @@
     "2026-09-14": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-09-15": {
+      "count": 10,
+      "uniques": 7
     }
   },
   "clones": {
@@ -1719,13 +1723,17 @@
     "2026-09-14": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-09-15": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 71,
-      "uniques": 43
+      "count": 74,
+      "uniques": 44
     },
     {
       "referrer": "Bing",
@@ -1739,8 +1747,8 @@
     },
     {
       "referrer": "chatgpt.com",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "github.com",
@@ -1751,20 +1759,25 @@
       "referrer": "kagi.com",
       "count": 1,
       "uniques": 1
+    },
+    {
+      "referrer": "yuque.antfin.com",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 70,
-      "uniques": 57
+      "count": 73,
+      "uniques": 61
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 12,
-      "uniques": 11
+      "count": 11,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
@@ -1797,14 +1810,14 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/gdpval/tree/main/docs",
-      "title": "/tree/main/docs",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/gdpval/tree/main/extract",
       "title": "/tree/main/extract",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/docs",
+      "title": "/tree/main/docs",
       "count": 2,
       "uniques": 2
     },
