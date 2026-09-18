@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-16T14:00:08.968182+00:00",
+  "last_updated": "2026-09-18T14:00:24.176793+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -865,6 +865,14 @@
     "2026-09-15": {
       "count": 10,
       "uniques": 7
+    },
+    "2026-09-16": {
+      "count": 7,
+      "uniques": 5
+    },
+    "2026-09-17": {
+      "count": 6,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1727,13 +1735,21 @@
     "2026-09-15": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-09-16": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-09-17": {
+      "count": 14,
+      "uniques": 10
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 74,
-      "uniques": 44
+      "count": 70,
+      "uniques": 40
     },
     {
       "referrer": "Bing",
@@ -1770,26 +1786,26 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 73,
-      "uniques": 61
+      "count": 71,
+      "uniques": 59
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 11,
-      "uniques": 10
+      "count": 10,
+      "uniques": 9
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
-      "count": 7,
-      "uniques": 7
+      "count": 5,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
       "title": "/blob/main/data/reference_links.csv",
-      "count": 7,
-      "uniques": 7
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_analysis_overview.md",
@@ -1876,14 +1892,14 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval_metrics_candidates.md",
-      "title": "/blob/main/GDPval_metrics_candidates.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/CLAUDE.md",
       "title": "/blob/main/CLAUDE.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_metrics_candidates.md",
+      "title": "/blob/main/GDPval_metrics_candidates.md",
       "count": 1,
       "uniques": 1
     },

@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-16T14:00:08.968182+00:00",
+  "last_updated": "2026-09-18T14:00:24.176793+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -865,6 +865,14 @@
     "2026-09-15": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-09-16": {
+      "count": 18,
+      "uniques": 13
+    },
+    "2026-09-17": {
+      "count": 12,
+      "uniques": 11
     }
   },
   "clones": {
@@ -1727,13 +1735,26 @@
     "2026-09-15": {
       "count": 10,
       "uniques": 5
+    },
+    "2026-09-16": {
+      "count": 201,
+      "uniques": 13
+    },
+    "2026-09-17": {
+      "count": 8,
+      "uniques": 4
     }
   },
   "referrers": [
     {
+      "referrer": "Google",
+      "count": 16,
+      "uniques": 15
+    },
+    {
       "referrer": "github.com",
-      "count": 12,
-      "uniques": 2
+      "count": 11,
+      "uniques": 1
     },
     {
       "referrer": "DuckDuckGo",
@@ -1741,24 +1762,19 @@
       "uniques": 1
     },
     {
-      "referrer": "Google",
-      "count": 5,
-      "uniques": 4
-    },
-    {
       "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
     },
     {
-      "referrer": "skillsplayground.com",
+      "referrer": "teams.public.onecdn.static.microsoft",
       "count": 4,
-      "uniques": 1
+      "uniques": 2
     },
     {
-      "referrer": "chatgpt.com",
-      "count": 2,
-      "uniques": 2
+      "referrer": "skillsplayground.com",
+      "count": 3,
+      "uniques": 1
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1772,6 +1788,11 @@
     },
     {
       "referrer": "Bing",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "referrer": "chatgpt.com",
       "count": 1,
       "uniques": 1
     },
@@ -1805,20 +1826,26 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 14,
-      "uniques": 13
+      "count": 22,
+      "uniques": 21
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 12,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 9,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 8,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1863,16 +1890,16 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
       "count": 6,
-      "uniques": 3
+      "uniques": 4
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
       "count": 5,
-      "uniques": 4
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -1881,8 +1908,8 @@
       "uniques": 5
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
       "count": 4,
       "uniques": 3
     },
@@ -2009,12 +2036,6 @@
     {
       "path": "/vishalsachdev/claude-skills/commits",
       "title": "/commits",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
       "count": 1,
       "uniques": 1
     },
