@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-18T14:00:24.176793+00:00",
+  "last_updated": "2026-09-20T14:00:07.935548+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -873,6 +873,14 @@
     "2026-09-17": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1743,6 +1751,14 @@
     "2026-09-17": {
       "count": 3,
       "uniques": 1
+    },
+    "2026-09-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1781,15 +1797,15 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "/tree/main/plugins",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 2,
       "uniques": 2
     },
     {

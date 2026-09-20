@@ -1,7 +1,7 @@
 {
   "repo": "ai-taskforce",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-18T14:00:24.176793+00:00",
+  "last_updated": "2026-09-20T14:00:07.935548+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -873,6 +873,14 @@
     "2026-09-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1743,6 +1751,14 @@
     "2026-09-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1765,16 +1781,16 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/ai-taskforce/blob/main/research/TASK-FORCE-SYNTHESIS.md",
-      "title": "Blaming ai-taskforce/research/TASK-FORCE-SYNTHESIS.md at main \u00b7 vishalsachdev...",
-      "count": 3,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/ai-taskforce/blob/main/robots.txt",
       "title": "GitHub - vishalsachdev/ai-taskforce \u00b7 GitHub",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/ai-taskforce/blob/main/research/TASK-FORCE-SYNTHESIS.md",
+      "title": "/blob/main/research/TASK-FORCE-SYNTHESIS.md",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/ai-taskforce",
