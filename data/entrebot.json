@@ -1,7 +1,7 @@
 {
   "repo": "entrebot",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-20T14:00:07.935548+00:00",
+  "last_updated": "2026-09-21T14:07:38.562624+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -881,6 +881,10 @@
     "2026-09-19": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-20": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1759,6 +1763,10 @@
     "2026-09-19": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-20": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1784,6 +1792,12 @@
     {
       "path": "/vishalsachdev/entrebot/blob/main/AGENT_PROMPTS_REFERENCE.md",
       "title": "/blob/main/AGENT_PROMPTS_REFERENCE.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/entrebot/blob/main/COACHING_BEST_PRACTICES.md",
+      "title": "/blob/main/COACHING_BEST_PRACTICES.md",
       "count": 1,
       "uniques": 1
     }
