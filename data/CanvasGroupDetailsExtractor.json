@@ -1,7 +1,7 @@
 {
   "repo": "CanvasGroupDetailsExtractor",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-21T14:07:38.562624+00:00",
+  "last_updated": "2026-09-22T14:00:05.143873+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Help extract student list along with group names. ",
@@ -873,6 +873,10 @@
     "2026-09-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-21": {
+      "count": 5,
+      "uniques": 4
     }
   },
   "clones": {
@@ -1743,9 +1747,18 @@
     "2026-09-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-21": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
+    {
+      "referrer": "teams.public.onecdn.static.microsoft",
+      "count": 3,
+      "uniques": 3
+    },
     {
       "referrer": "Bing",
       "count": 1,
@@ -1761,6 +1774,12 @@
     {
       "path": "/vishalsachdev/CanvasGroupDetailsExtractor",
       "title": "Overview",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/CanvasGroupDetailsExtractor/tree/main/templates",
+      "title": "/tree/main/templates",
       "count": 1,
       "uniques": 1
     }

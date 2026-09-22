@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-21T14:07:38.562624+00:00",
+  "last_updated": "2026-09-22T14:00:05.143873+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -885,6 +885,10 @@
     "2026-09-20": {
       "count": 6,
       "uniques": 5
+    },
+    "2026-09-21": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1767,22 +1771,26 @@
     "2026-09-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-21": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 77,
+      "count": 76,
       "uniques": 41
-    },
-    {
-      "referrer": "Bing",
-      "count": 6,
-      "uniques": 2
     },
     {
       "referrer": "bytedance.larkoffice.com",
       "count": 3,
+      "uniques": 1
+    },
+    {
+      "referrer": "Bing",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1810,8 +1818,8 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 76,
-      "uniques": 59
+      "count": 70,
+      "uniques": 54
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/CLAUDE.md",
@@ -1820,16 +1828,16 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/gdpval/tree/main/data",
-      "title": "/tree/main/data",
-      "count": 6,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
       "count": 6,
       "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/data",
+      "title": "/tree/main/data",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
@@ -1850,12 +1858,6 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/gdpval/tree/main",
-      "title": "/tree/main",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/data/by_occupation.csv",
       "title": "/blob/main/data/by_occupation.csv",
       "count": 3,
@@ -1866,6 +1868,12 @@
       "title": "/tree/main/extract",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main",
+      "title": "/tree/main",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/docs",

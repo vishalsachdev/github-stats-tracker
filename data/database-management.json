@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-21T14:07:38.562624+00:00",
+  "last_updated": "2026-09-22T14:00:05.143873+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -885,6 +885,10 @@
     "2026-09-20": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-21": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1767,6 +1771,10 @@
     "2026-09-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-21": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1808,12 +1816,6 @@
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "/tree/main/plugins",
       "count": 3,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 2,
       "uniques": 2
     },
     {
@@ -1922,6 +1924,12 @@
       "path": "/vishalsachdev/database-management/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/scripts/show-skill-tokens.sh",
       "title": "/blob/fb02a2e46c2aa16ae40ab6bb4caf61393adda628/.claude-skills/.claude/scripts/show-skill-tokens.sh",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 1,
       "uniques": 1
     },
     {

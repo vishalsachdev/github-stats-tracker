@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-21T14:07:38.562624+00:00",
+  "last_updated": "2026-09-22T14:00:05.143873+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -885,6 +885,10 @@
     "2026-09-20": {
       "count": 5,
       "uniques": 3
+    },
+    "2026-09-21": {
+      "count": 8,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1767,13 +1771,17 @@
     "2026-09-20": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-09-21": {
+      "count": 4,
+      "uniques": 3
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 23,
-      "uniques": 21
+      "count": 25,
+      "uniques": 23
     },
     {
       "referrer": "github.com",
@@ -1850,8 +1858,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 30,
-      "uniques": 28
+      "count": 33,
+      "uniques": 30
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
@@ -1874,6 +1882,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 8,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
       "count": 8,
       "uniques": 6
     },
@@ -1914,8 +1928,8 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
       "count": 7,
       "uniques": 5
     },
@@ -1924,12 +1938,6 @@
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
       "uniques": 6
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 6,
-      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",

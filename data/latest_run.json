@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-21T14:07:38.562624+00:00",
-  "repos_checked": 91,
-  "repos_with_traffic": 91,
+  "collected_at": "2026-09-22T14:00:05.143873+00:00",
+  "repos_checked": 92,
+  "repos_with_traffic": 92,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -56,6 +56,7 @@
     "github-pages-with-jekyll",
     "github-stats-tracker",
     "grit-cart",
+    "harvest-classifier",
     "helloworld",
     "icis2025-context-engineering",
     "illiniclaw",
