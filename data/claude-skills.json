@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-22T14:00:05.143873+00:00",
+  "last_updated": "2026-09-23T14:00:07.089170+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -889,6 +889,10 @@
     "2026-09-21": {
       "count": 8,
       "uniques": 3
+    },
+    "2026-09-22": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1775,13 +1779,17 @@
     "2026-09-21": {
       "count": 4,
       "uniques": 3
+    },
+    "2026-09-22": {
+      "count": 4,
+      "uniques": 4
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 25,
-      "uniques": 23
+      "count": 23,
+      "uniques": 22
     },
     {
       "referrer": "github.com",
@@ -1858,8 +1866,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 33,
-      "uniques": 30
+      "count": 35,
+      "uniques": 32
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
@@ -1878,12 +1886,6 @@
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 8,
-      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
@@ -1931,6 +1933,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
       "count": 7,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 6,
       "uniques": 5
     },
     {

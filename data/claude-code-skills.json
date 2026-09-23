@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-22T14:00:05.143873+00:00",
+  "last_updated": "2026-09-23T14:00:07.089170+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -889,6 +889,10 @@
     "2026-09-21": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-22": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1775,6 +1779,10 @@
     "2026-09-21": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-09-22": {
+      "count": 4,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -1787,11 +1795,6 @@
       "referrer": "linkedin.com",
       "count": 4,
       "uniques": 3
-    },
-    {
-      "referrer": "github.com",
-      "count": 3,
-      "uniques": 1
     },
     {
       "referrer": "com.linkedin.android",
@@ -1811,6 +1814,11 @@
     {
       "referrer": "perplexity.ai",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "github.com",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -2135,6 +2143,12 @@
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/agentic-eval-first-development/scripts",
       "title": "/tree/main/skills/agentic-eval-first-development/scripts",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/HEAD/skills/tweet-series-extractor/SKILL.md",
+      "title": "/blob/HEAD/skills/tweet-series-extractor/SKILL.md",
       "count": 1,
       "uniques": 1
     }
