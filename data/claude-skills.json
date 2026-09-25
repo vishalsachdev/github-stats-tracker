@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-23T14:00:07.089170+00:00",
+  "last_updated": "2026-09-25T14:00:04.509400+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -891,6 +891,10 @@
       "uniques": 3
     },
     "2026-09-22": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-09-23": {
       "count": 2,
       "uniques": 2
     }
@@ -1783,13 +1787,17 @@
     "2026-09-22": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-09-23": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 23,
-      "uniques": 22
+      "count": 22,
+      "uniques": 21
     },
     {
       "referrer": "github.com",
@@ -1812,11 +1820,6 @@
       "uniques": 2
     },
     {
-      "referrer": "skillsplayground.com",
-      "count": 3,
-      "uniques": 1
-    },
-    {
       "referrer": "Bing",
       "count": 3,
       "uniques": 2
@@ -1830,6 +1833,11 @@
       "referrer": "chatgpt.com",
       "count": 3,
       "uniques": 2
+    },
+    {
+      "referrer": "skillsplayground.com",
+      "count": 2,
+      "uniques": 1
     },
     {
       "referrer": "majiayu000.github.io",
@@ -1866,8 +1874,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 35,
-      "uniques": 32
+      "count": 32,
+      "uniques": 30
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
