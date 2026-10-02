@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-29T14:00:10.820801+00:00",
+  "last_updated": "2026-10-02T14:00:07.418073+00:00",
   "stars": 4,
   "forks": 1,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -897,6 +897,38 @@
     "2026-09-23": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-09-24": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-25": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 4,
+      "uniques": 1
+    },
+    "2026-09-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-29": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-09-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1791,6 +1823,38 @@
     "2026-09-23": {
       "count": 10,
       "uniques": 9
+    },
+    "2026-09-24": {
+      "count": 9,
+      "uniques": 7
+    },
+    "2026-09-25": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-09-26": {
+      "count": 5,
+      "uniques": 4
+    },
+    "2026-09-27": {
+      "count": 12,
+      "uniques": 6
+    },
+    "2026-09-28": {
+      "count": 9,
+      "uniques": 6
+    },
+    "2026-09-29": {
+      "count": 10,
+      "uniques": 7
+    },
+    "2026-09-30": {
+      "count": 21,
+      "uniques": 8
+    },
+    "2026-10-01": {
+      "count": 10,
+      "uniques": 8
     }
   },
   "referrers": [
@@ -1839,8 +1903,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 12,
-      "uniques": 11
+      "count": 5,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -1888,7 +1952,7 @@
       "path": "/vishalsachdev/claude-code-skills/tree/main",
       "title": "/tree/main",
       "count": 2,
-      "uniques": 2
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing/references",
@@ -1921,15 +1985,21 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skill-specs",
-      "title": "/tree/main/skill-specs",
+      "path": "/vishalsachdev/claude-code-skills/releases/tag/v1.0.0",
+      "title": "/releases/tag/v1.0.0",
       "count": 2,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-code-skills/releases/tag/v1.0.0",
-      "title": "/releases/tag/v1.0.0",
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
+      "title": "/tree/main/skills",
       "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/tree/main/skill-specs",
+      "title": "/tree/main/skill-specs",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1941,12 +2011,6 @@
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/agentic-eval-first-development",
       "title": "/tree/main/skills/agentic-eval-first-development",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills/tree/main/skills",
-      "title": "/tree/main/skills",
       "count": 1,
       "uniques": 1
     },
@@ -2157,6 +2221,12 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/HEAD/skills/tweet-series-extractor/SKILL.md",
       "title": "/blob/HEAD/skills/tweet-series-extractor/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/64d3970edc7a45ec9c96f3ca0ced16c6~tplv-a9rns2rl98-image.image",
+      "title": "/64d3970edc7a45ec9c96f3ca0ced16c6~tplv-a9rns2rl98-image.image",
       "count": 1,
       "uniques": 1
     }

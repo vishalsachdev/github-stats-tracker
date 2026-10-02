@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-29T14:00:10.820801+00:00",
+  "last_updated": "2026-10-02T14:00:07.418073+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -903,6 +903,30 @@
       "uniques": 0
     },
     "2026-09-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-30": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-01": {
       "count": 0,
       "uniques": 0
     }
@@ -1807,6 +1831,30 @@
     "2026-09-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-09-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-30": {
+      "count": 9,
+      "uniques": 3
+    },
+    "2026-10-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1867,6 +1915,18 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/curriculum/business_school_adaptations_summary.md",
       "title": "/blob/main/docs/curriculum/business_school_adaptations_summary.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/online-delivery/README.md",
+      "title": "/blob/main/docs/online-delivery/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/issues/3",
+      "title": "/issues/3",
       "count": 1,
       "uniques": 1
     }

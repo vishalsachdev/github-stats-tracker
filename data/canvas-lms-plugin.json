@@ -1,7 +1,7 @@
 {
   "repo": "canvas-lms-plugin",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-29T14:00:10.820801+00:00",
+  "last_updated": "2026-10-02T14:00:07.418073+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Canvas LMS plugin for Claude Code & Cowork \u2014 manage pages, assignments, modules, and more",
@@ -811,6 +811,38 @@
       "uniques": 0
     },
     "2026-09-23": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-24": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-01": {
       "count": 1,
       "uniques": 1
     }
@@ -1623,13 +1655,45 @@
     "2026-09-23": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-24": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-25": {
+      "count": 6,
+      "uniques": 6
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 4,
+      "uniques": 3
+    },
+    "2026-09-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-01": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Bing",
-      "count": 5,
-      "uniques": 3
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "github.com",
@@ -1646,8 +1710,8 @@
     {
       "path": "/vishalsachdev/canvas-lms-plugin",
       "title": "Overview",
-      "count": 7,
-      "uniques": 5
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/canvas-lms-plugin/blob/main/skills/canvas-builder/SKILL.md",

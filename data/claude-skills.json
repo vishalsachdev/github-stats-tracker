@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-29T14:00:10.820801+00:00",
+  "last_updated": "2026-10-02T14:00:07.418073+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -897,6 +897,38 @@
     "2026-09-23": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-09-24": {
+      "count": 7,
+      "uniques": 6
+    },
+    "2026-09-25": {
+      "count": 8,
+      "uniques": 5
+    },
+    "2026-09-26": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-09-27": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-09-28": {
+      "count": 18,
+      "uniques": 3
+    },
+    "2026-09-29": {
+      "count": 6,
+      "uniques": 4
+    },
+    "2026-09-30": {
+      "count": 8,
+      "uniques": 3
+    },
+    "2026-10-01": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1791,13 +1823,45 @@
     "2026-09-23": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-09-24": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-09-25": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-09-26": {
+      "count": 8,
+      "uniques": 7
+    },
+    "2026-09-27": {
+      "count": 14,
+      "uniques": 8
+    },
+    "2026-09-28": {
+      "count": 4,
+      "uniques": 2
+    },
+    "2026-09-29": {
+      "count": 7,
+      "uniques": 5
+    },
+    "2026-09-30": {
+      "count": 5,
+      "uniques": 5
+    },
+    "2026-10-01": {
+      "count": 6,
+      "uniques": 5
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 22,
-      "uniques": 21
+      "count": 17,
+      "uniques": 16
     },
     {
       "referrer": "github.com",
@@ -1805,9 +1869,9 @@
       "uniques": 1
     },
     {
-      "referrer": "DuckDuckGo",
-      "count": 8,
-      "uniques": 2
+      "referrer": "chatgpt.com",
+      "count": 7,
+      "uniques": 6
     },
     {
       "referrer": "skills.sh",
@@ -1815,23 +1879,8 @@
       "uniques": 1
     },
     {
-      "referrer": "teams.public.onecdn.static.microsoft",
-      "count": 4,
-      "uniques": 2
-    },
-    {
-      "referrer": "Bing",
-      "count": 3,
-      "uniques": 2
-    },
-    {
       "referrer": "Yahoo",
-      "count": 3,
-      "uniques": 3
-    },
-    {
-      "referrer": "chatgpt.com",
-      "count": 3,
+      "count": 2,
       "uniques": 2
     },
     {
@@ -1847,6 +1896,21 @@
     {
       "referrer": "lobehub.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "teams.public.onecdn.static.microsoft",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "Bing",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "DuckDuckGo",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1875,31 +1939,13 @@
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
       "count": 32,
-      "uniques": 30
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 13,
-      "uniques": 7
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 12,
-      "uniques": 6
+      "uniques": 27
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 8,
-      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -1938,16 +1984,16 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 7,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 7,
+      "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
       "count": 6,
-      "uniques": 5
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
@@ -1972,6 +2018,24 @@
       "title": "/tree/main/paper-writing/references",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 4,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
@@ -2070,6 +2134,24 @@
       "uniques": 2
     },
     {
+      "path": "/vishalsachdev/claude-skills/commits",
+      "title": "/commits",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/math-function-plotter-plotly/SKILL.md",
+      "title": "/blob/main/math-function-plotter-plotly/SKILL.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/math-function-plotter-plotly",
+      "title": "/tree/main/math-function-plotter-plotly",
+      "count": 2,
+      "uniques": 1
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
       "title": "/blob/main/install-skill-tracker/README.md",
       "count": 1,
@@ -2078,12 +2160,6 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing/scripts",
       "title": "/tree/main/paper-writing/scripts",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/commits",
-      "title": "/commits",
       "count": 1,
       "uniques": 1
     },
@@ -2316,12 +2392,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/math-function-plotter-plotly/SKILL.md",
-      "title": "/blob/main/math-function-plotter-plotly/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/advanced-text-search-matching",
       "title": "/tree/main/advanced-text-search-matching",
       "count": 1,
@@ -2456,6 +2526,24 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/vibe-coder-sdlc/references/orchestrator-agent.md",
       "title": "/blob/main/vibe-coder-sdlc/references/orchestrator-agent.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/canvas-course-audit/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/canvas-course-audit/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/math-function-plotter-plotly/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/math-function-plotter-plotly/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/supabase-fullstack-setup/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/supabase-fullstack-setup/SKILL.md",
       "count": 1,
       "uniques": 1
     }

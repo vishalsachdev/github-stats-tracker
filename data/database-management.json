@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-29T14:00:10.820801+00:00",
+  "last_updated": "2026-10-02T14:00:07.418073+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -895,6 +895,38 @@
       "uniques": 1
     },
     "2026-09-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-24": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-09-25": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-29": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-09-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-01": {
       "count": 0,
       "uniques": 0
     }
@@ -1791,6 +1823,38 @@
     "2026-09-23": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-09-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-25": {
+      "count": 4,
+      "uniques": 4
+    },
+    "2026-09-26": {
+      "count": 5,
+      "uniques": 2
+    },
+    "2026-09-27": {
+      "count": 4,
+      "uniques": 3
+    },
+    "2026-09-28": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-09-29": {
+      "count": 5,
+      "uniques": 3
+    },
+    "2026-09-30": {
+      "count": 4,
+      "uniques": 3
+    },
+    "2026-10-01": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1821,6 +1885,12 @@
       "title": "/tree/main/.claude-skills/skills/mermaid-generat",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator",
@@ -1937,16 +2007,10 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "/tree/main/plugins",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
@@ -2239,6 +2303,12 @@
     {
       "path": "/vishalsachdev/database-management/blob/main/README.md",
       "title": "/blob/main/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/blob/main/docs/license.md",
+      "title": "/blob/main/docs/license.md",
       "count": 1,
       "uniques": 1
     }

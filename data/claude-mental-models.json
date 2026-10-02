@@ -1,7 +1,7 @@
 {
   "repo": "claude-mental-models",
   "owner": "vishalsachdev",
-  "last_updated": "2026-09-29T14:00:10.820801+00:00",
+  "last_updated": "2026-10-02T14:00:07.418073+00:00",
   "stars": 0,
   "forks": 0,
   "description": "How Claude Code's evolving surface guides users to build new mental models: a triangulated, persona-aware analysis of 17 months of releases (Apr 2025\u2013Aug 2026), refreshed incrementally. Live notebook: https://vishalsachdev.github.io/claude-mental-models/",
@@ -531,6 +531,38 @@
       "uniques": 1
     },
     "2026-09-23": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-30": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-01": {
       "count": 0,
       "uniques": 0
     }
@@ -1063,6 +1095,38 @@
     "2026-09-23": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-09-24": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-25": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-27": {
+      "count": 5,
+      "uniques": 4
+    },
+    "2026-09-28": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-09-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-09-30": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-01": {
+      "count": 10,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1087,8 +1151,8 @@
     {
       "path": "/vishalsachdev/claude-mental-models",
       "title": "Overview",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-mental-models/tree/main/data",
