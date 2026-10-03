@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-02T14:00:07.418073+00:00",
+  "last_updated": "2026-10-03T14:00:07.534155+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -929,6 +929,10 @@
     "2026-10-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-02": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1855,6 +1859,10 @@
     "2026-10-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-02": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1927,6 +1935,12 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/issues/3",
       "title": "/issues/3",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/curriculum/core_courses.md",
+      "title": "/blob/main/docs/curriculum/core_courses.md",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-02T14:00:07.418073+00:00",
+  "last_updated": "2026-10-03T14:00:07.534155+00:00",
   "stars": 2,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -845,6 +845,10 @@
     "2026-10-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-02": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1687,6 +1691,10 @@
     "2026-10-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-02": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -1707,7 +1715,7 @@
     },
     {
       "referrer": "linkedin.com",
-      "count": 2,
+      "count": 1,
       "uniques": 1
     },
     {
@@ -1740,7 +1748,7 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 4,
+      "count": 3,
       "uniques": 3
     },
     {
@@ -2010,6 +2018,12 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/claude/business-model-canvas-design-xyVD0",
       "title": "/tree/claude/business-model-canvas-design-xyVD0",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/codex-for-business-students/blob/HEAD/docs/superpowers/specs/2026-03-24-ai-for-marketing-design.md",
+      "title": "/blob/HEAD/docs/superpowers/specs/2026-03-24-ai-for-marketing-design.md",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-02T14:00:07.418073+00:00",
+  "last_updated": "2026-10-03T14:00:07.534155+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -929,6 +929,10 @@
     "2026-10-01": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-02": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1855,13 +1859,17 @@
     "2026-10-01": {
       "count": 6,
       "uniques": 5
+    },
+    "2026-10-02": {
+      "count": 9,
+      "uniques": 6
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 17,
-      "uniques": 16
+      "count": 11,
+      "uniques": 11
     },
     {
       "referrer": "github.com",
@@ -1938,8 +1946,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 32,
-      "uniques": 27
+      "count": 24,
+      "uniques": 20
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2026,18 +2034,6 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
-      "title": "/tree/main/quiz-generator",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
@@ -2047,6 +2043,18 @@
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
+      "title": "/tree/main/quiz-generator",
+      "count": 2,
       "uniques": 2
     },
     {
