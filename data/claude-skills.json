@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-04T14:00:06.929738+00:00",
+  "last_updated": "2026-10-05T14:00:09.062449+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -937,6 +937,10 @@
     "2026-10-03": {
       "count": 10,
       "uniques": 2
+    },
+    "2026-10-04": {
+      "count": 4,
+      "uniques": 4
     }
   },
   "clones": {
@@ -1871,6 +1875,10 @@
     "2026-10-03": {
       "count": 32,
       "uniques": 17
+    },
+    "2026-10-04": {
+      "count": 12,
+      "uniques": 8
     }
   },
   "referrers": [
@@ -1881,13 +1889,13 @@
     },
     {
       "referrer": "Google",
-      "count": 9,
-      "uniques": 9
+      "count": 10,
+      "uniques": 10
     },
     {
       "referrer": "chatgpt.com",
-      "count": 7,
-      "uniques": 6
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "skills.sh",
@@ -1954,14 +1962,20 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 23,
-      "uniques": 18
+      "count": 24,
+      "uniques": 19
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 8,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -2000,18 +2014,6 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 7,
-      "uniques": 4
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 6,
-      "uniques": 5
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
@@ -2036,10 +2038,16 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main",
       "title": "/tree/main",
-      "count": 4,
-      "uniques": 3
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
@@ -2566,6 +2574,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/supabase-fullstack-setup/SKILL.md",
       "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/supabase-fullstack-setup/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/badm350-canvas-builder/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/badm350-canvas-builder/SKILL.md",
       "count": 1,
       "uniques": 1
     }
