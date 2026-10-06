@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-05T14:00:09.062449+00:00",
+  "last_updated": "2026-10-06T14:00:08.550290+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -941,6 +941,10 @@
     "2026-10-04": {
       "count": 4,
       "uniques": 4
+    },
+    "2026-10-05": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1879,6 +1883,10 @@
     "2026-10-04": {
       "count": 12,
       "uniques": 8
+    },
+    "2026-10-05": {
+      "count": 11,
+      "uniques": 6
     }
   },
   "referrers": [
@@ -1889,8 +1897,8 @@
     },
     {
       "referrer": "Google",
-      "count": 10,
-      "uniques": 10
+      "count": 8,
+      "uniques": 8
     },
     {
       "referrer": "chatgpt.com",
@@ -1962,8 +1970,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 24,
-      "uniques": 19
+      "count": 21,
+      "uniques": 18
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -1974,8 +1982,8 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
-      "count": 8,
-      "uniques": 4
+      "count": 7,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -2044,12 +2052,6 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 3,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
@@ -2059,6 +2061,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 2,
       "uniques": 2
     },
     {
@@ -2580,6 +2588,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/badm350-canvas-builder/SKILL.md",
       "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/badm350-canvas-builder/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/ai-model-cascade/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/ai-model-cascade/SKILL.md",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-05T14:00:09.062449+00:00",
+  "last_updated": "2026-10-06T14:00:08.550290+00:00",
   "stars": 4,
   "forks": 2,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -941,6 +941,10 @@
     "2026-10-04": {
       "count": 3,
       "uniques": 1
+    },
+    "2026-10-05": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "clones": {
@@ -1879,6 +1883,10 @@
     "2026-10-04": {
       "count": 12,
       "uniques": 8
+    },
+    "2026-10-05": {
+      "count": 12,
+      "uniques": 6
     }
   },
   "referrers": [
@@ -1927,8 +1935,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 6,
-      "uniques": 6
+      "count": 8,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -2251,6 +2259,12 @@
     {
       "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/64d3970edc7a45ec9c96f3ca0ced16c6~tplv-a9rns2rl98-image.image",
       "title": "/64d3970edc7a45ec9c96f3ca0ced16c6~tplv-a9rns2rl98-image.image",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/b02a0c7169b84383a2ed94d548c30b48~tplv-a9rns2rl98-image.image",
+      "title": "/b02a0c7169b84383a2ed94d548c30b48~tplv-a9rns2rl98-image.image",
       "count": 1,
       "uniques": 1
     }
