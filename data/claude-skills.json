@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-06T14:00:08.550290+00:00",
+  "last_updated": "2026-10-07T14:00:09.426243+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -945,6 +945,10 @@
     "2026-10-05": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-10-06": {
+      "count": 4,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1887,6 +1891,10 @@
     "2026-10-05": {
       "count": 11,
       "uniques": 6
+    },
+    "2026-10-06": {
+      "count": 107,
+      "uniques": 7
     }
   },
   "referrers": [
@@ -1970,8 +1978,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 21,
-      "uniques": 18
+      "count": 20,
+      "uniques": 17
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2048,8 +2056,8 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
@@ -2064,14 +2072,14 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
       "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
       "count": 2,
       "uniques": 2
     },
@@ -2188,6 +2196,12 @@
       "title": "/pull/7",
       "count": 2,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/issues",
+      "title": "/issues",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
@@ -2396,12 +2410,6 @@
     {
       "path": "/vishalsachdev/claude-skills/commit/f769feeab171c82a41d50fa7e591aa855d9bd530",
       "title": "/commit/f769feeab171c82a41d50fa7e591aa855d9bd530",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/issues",
-      "title": "/issues",
       "count": 1,
       "uniques": 1
     },

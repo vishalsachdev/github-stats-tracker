@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-06T14:00:08.550290+00:00",
+  "last_updated": "2026-10-07T14:00:09.426243+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -943,6 +943,10 @@
       "uniques": 1
     },
     "2026-10-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-06": {
       "count": 0,
       "uniques": 0
     }
@@ -1887,6 +1891,10 @@
     "2026-10-05": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-06": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1919,16 +1927,16 @@
       "uniques": 5
     },
     {
-      "path": "/vishalsachdev/database-management",
-      "title": "Overview",
-      "count": 4,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/mermaid-generator",
       "title": "/tree/main/.claude-skills/skills/mermaid-generator",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management",
+      "title": "Overview",
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker/assets",
@@ -2041,8 +2049,8 @@
     {
       "path": "/vishalsachdev/database-management/tree/main/plugins",
       "title": "/tree/main/plugins",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/install-skill-tracker",
