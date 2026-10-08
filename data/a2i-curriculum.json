@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-07T14:00:09.426243+00:00",
+  "last_updated": "2026-10-08T14:00:11.040267+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -949,6 +949,10 @@
     "2026-10-06": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-07": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1895,6 +1899,10 @@
     "2026-10-06": {
       "count": 15,
       "uniques": 4
+    },
+    "2026-10-07": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -1979,6 +1987,12 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/README.md",
       "title": "/blob/main/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/degree-vs-specialization-summary.md",
+      "title": "/blob/main/docs/proposal/degree-vs-specialization-summary.md",
       "count": 1,
       "uniques": 1
     }
