@@ -1,7 +1,7 @@
 {
   "repo": "tldraw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-08T14:00:11.040267+00:00",
+  "last_updated": "2026-10-09T14:00:08.579257+00:00",
   "stars": 2,
   "forks": 0,
   "description": "",
@@ -951,6 +951,10 @@
       "uniques": 0
     },
     "2026-10-07": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-08": {
       "count": 0,
       "uniques": 0
     }
@@ -1903,6 +1907,10 @@
     "2026-10-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-08": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1913,8 +1921,8 @@
     },
     {
       "referrer": "Google",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "DuckDuckGo",
@@ -1934,16 +1942,16 @@
   ],
   "paths": [
     {
-      "path": "/vishalsachdev/tldraw",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/tldraw/blob/main/articles/tldraw-canvas-skill.md",
       "title": "/blob/main/articles/tldraw-canvas-skill.md",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/tldraw",
+      "title": "Overview",
+      "count": 2,
+      "uniques": 2
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-08T14:00:11.040267+00:00",
-  "repos_checked": 92,
-  "repos_with_traffic": 92,
+  "collected_at": "2026-10-09T14:00:08.579257+00:00",
+  "repos_checked": 93,
+  "repos_with_traffic": 93,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -92,6 +92,7 @@
     "tldraw",
     "tx-gemma",
     "uiuc-course",
+    "uiuc-course-mcp",
     "unit4-cte-visit",
     "vibefunded",
     "waymo-investment-calculator"

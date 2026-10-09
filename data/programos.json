@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-08T14:00:11.040267+00:00",
+  "last_updated": "2026-10-09T14:00:08.579257+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -717,6 +717,10 @@
     "2026-10-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-08": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1431,6 +1435,10 @@
     "2026-10-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-08": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1533,6 +1541,18 @@
     {
       "path": "/vishalsachdev/programos/tree/main",
       "title": "/tree/main",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/9fab0180a95df89179dfd04883741b653027488a/docs/11-multi-program-mesh.md",
+      "title": "/blob/9fab0180a95df89179dfd04883741b653027488a/docs/11-multi-program-mesh.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/tree/9fab0180a95df89179dfd04883741b653027488a",
+      "title": "/tree/9fab0180a95df89179dfd04883741b653027488a",
       "count": 1,
       "uniques": 1
     }
