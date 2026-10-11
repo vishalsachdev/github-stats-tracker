@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-09T14:00:08.579257+00:00",
-  "repos_checked": 93,
-  "repos_with_traffic": 93,
+  "collected_at": "2026-10-11T14:00:08.072516+00:00",
+  "repos_checked": 94,
+  "repos_with_traffic": 94,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -70,6 +70,7 @@
     "makerlab",
     "makerlab-infra",
     "math-genart",
+    "meckler-exchange-sim",
     "msba2025-cohort",
     "musictheoryflow",
     "nano-hack",

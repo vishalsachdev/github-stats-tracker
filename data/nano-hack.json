@@ -1,7 +1,7 @@
 {
   "repo": "nano-hack",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-09T14:00:08.579257+00:00",
+  "last_updated": "2026-10-11T14:00:08.072516+00:00",
   "stars": 0,
   "forks": 0,
   "description": " A simple tool to explore a large number of kaggle hackathon submissions ",
@@ -957,6 +957,14 @@
     "2026-10-08": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-10": {
+      "count": 8,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1911,13 +1919,21 @@
     "2026-10-08": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-10-09": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-10": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 10,
-      "uniques": 7
+      "count": 11,
+      "uniques": 9
     },
     {
       "referrer": "github.com",
@@ -1929,8 +1945,14 @@
     {
       "path": "/vishalsachdev/nano-hack",
       "title": "Overview",
-      "count": 11,
-      "uniques": 8
+      "count": 12,
+      "uniques": 10
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/blob/main/.gitignore",
+      "title": "/blob/main/.gitignore",
+      "count": 4,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/nano-hack/blob/main/banana_writeups.json",
@@ -1987,8 +2009,20 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/nano-hack/blob/main/.gitignore",
-      "title": "/blob/main/.gitignore",
+      "path": "/vishalsachdev/nano-hack/blame/main/.gitignore",
+      "title": "/blame/main/.gitignore",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/blob/main/CLAUDE.md",
+      "title": "/blob/main/CLAUDE.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nano-hack/tree/main/data",
+      "title": "/tree/main/data",
       "count": 1,
       "uniques": 1
     }

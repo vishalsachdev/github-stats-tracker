@@ -1,7 +1,7 @@
 {
   "repo": "ai-taskforce",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-09T14:00:08.579257+00:00",
+  "last_updated": "2026-10-11T14:00:08.072516+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -957,6 +957,14 @@
     "2026-10-08": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-10": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1911,6 +1919,14 @@
     "2026-10-08": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-10-09": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-10": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -1935,6 +1951,12 @@
     {
       "path": "/vishalsachdev/ai-taskforce/blob/main/robots.txt",
       "title": "GitHub - vishalsachdev/ai-taskforce \u00b7 GitHub",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/ai-taskforce/blob/main/research/administration/governance-financial-models.md",
+      "title": "/blob/main/research/administration/governance-financial-models.md",
       "count": 2,
       "uniques": 2
     },
