@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-11T14:00:08.072516+00:00",
+  "last_updated": "2026-10-13T14:00:07.748828+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -965,6 +965,14 @@
     "2026-10-10": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-10-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-12": {
+      "count": 4,
+      "uniques": 4
     }
   },
   "clones": {
@@ -1927,6 +1935,14 @@
     "2026-10-10": {
       "count": 5,
       "uniques": 4
+    },
+    "2026-10-11": {
+      "count": 12,
+      "uniques": 10
+    },
+    "2026-10-12": {
+      "count": 7,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -1938,7 +1954,7 @@
     {
       "referrer": "Google",
       "count": 4,
-      "uniques": 4
+      "uniques": 3
     },
     {
       "referrer": "skills.sh",
@@ -1947,8 +1963,8 @@
     },
     {
       "referrer": "chatgpt.com",
-      "count": 3,
-      "uniques": 3
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "skillsplayground.com",
@@ -2015,8 +2031,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 12,
-      "uniques": 11
+      "count": 10,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2241,6 +2257,12 @@
       "uniques": 2
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
+      "title": "/blob/main/install-skill-tracker/assets/settings.json",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
       "title": "/blob/main/install-skill-tracker/README.md",
       "count": 1,
@@ -2357,12 +2379,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/SKILL.md",
       "title": "/blob/main/install-skill-tracker/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
-      "title": "/blob/main/install-skill-tracker/assets/settings.json",
       "count": 1,
       "uniques": 1
     },
@@ -2639,6 +2655,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/ai-model-cascade/SKILL.md",
       "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/ai-model-cascade/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/microsim-screen-capture/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/microsim-screen-capture/SKILL.md",
       "count": 1,
       "uniques": 1
     }
