@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-14T14:00:06.667860+00:00",
+  "last_updated": "2026-10-15T14:00:07.027060+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -977,6 +977,10 @@
     "2026-10-13": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-14": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1951,6 +1955,10 @@
     "2026-10-13": {
       "count": 3,
       "uniques": 2
+    },
+    "2026-10-14": {
+      "count": 8,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -1961,8 +1969,8 @@
     },
     {
       "referrer": "Google",
-      "count": 4,
-      "uniques": 3
+      "count": 5,
+      "uniques": 4
     },
     {
       "referrer": "skills.sh",
@@ -2039,8 +2047,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 8,
-      "uniques": 6
+      "count": 10,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2091,16 +2099,16 @@
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 5,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
       "title": "/tree/main/linkedin-announcement-generator",
       "count": 5,
       "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
@@ -2669,6 +2677,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/microsim-screen-capture/SKILL.md",
       "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/microsim-screen-capture/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/secure-nextjs-api-routes/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/secure-nextjs-api-routes/SKILL.md",
       "count": 1,
       "uniques": 1
     }

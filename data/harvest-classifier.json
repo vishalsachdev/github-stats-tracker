@@ -1,7 +1,7 @@
 {
   "repo": "harvest-classifier",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-14T14:00:06.667860+00:00",
+  "last_updated": "2026-10-15T14:00:07.027060+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Shadow classifier for coding-agent final messages: local gates, deterministic checks, one typed-judgment call, pure-code policy. Recommends, never acts.",
@@ -149,6 +149,10 @@
     "2026-10-13": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-14": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -295,6 +299,10 @@
     "2026-10-13": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-14": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -308,6 +316,12 @@
     {
       "path": "/vishalsachdev/harvest-classifier",
       "title": "Overview",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/harvest-classifier/blob/main/docs/STATUS-FILE.md",
+      "title": "/blob/main/docs/STATUS-FILE.md",
       "count": 1,
       "uniques": 1
     }
