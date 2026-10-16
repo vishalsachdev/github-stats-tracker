@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-15T14:00:07.027060+00:00",
+  "last_updated": "2026-10-16T14:00:07.780411+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -981,6 +981,10 @@
     "2026-10-14": {
       "count": 11,
       "uniques": 11
+    },
+    "2026-10-15": {
+      "count": 6,
+      "uniques": 5
     }
   },
   "clones": {
@@ -1959,6 +1963,10 @@
     "2026-10-14": {
       "count": 5,
       "uniques": 5
+    },
+    "2026-10-15": {
+      "count": 3,
+      "uniques": 3
     }
   },
   "referrers": [
@@ -2002,8 +2010,8 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 33,
-      "uniques": 29
+      "count": 32,
+      "uniques": 28
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
@@ -2030,16 +2038,22 @@
       "uniques": 5
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
-      "title": "/blob/main/GDPval.pdf",
-      "count": 4,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/CLAUDE.md",
       "title": "/blob/main/CLAUDE.md",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/tasks.parquet",
+      "title": "/blob/main/data/tasks.parquet",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
+      "title": "/blob/main/GDPval.pdf",
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main",
@@ -2066,8 +2080,8 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/data/tasks.parquet",
-      "title": "/blob/main/data/tasks.parquet",
+      "path": "/vishalsachdev/gdpval/blob/main/data/tasks_summary.md",
+      "title": "/blob/main/data/tasks_summary.md",
       "count": 3,
       "uniques": 3
     },
@@ -2106,12 +2120,6 @@
       "title": "/blob/main/app/streamlit_app.py",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/data/tasks_summary.md",
-      "title": "/blob/main/data/tasks_summary.md",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/requirements.txt",
