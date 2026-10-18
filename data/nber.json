@@ -1,7 +1,7 @@
 {
   "repo": "nber",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-16T14:00:07.780411+00:00",
+  "last_updated": "2026-10-18T14:00:07.422803+00:00",
   "stars": 1,
   "forks": 0,
   "description": "NBER video transcript extraction and analysis",
@@ -983,6 +983,14 @@
       "uniques": 0
     },
     "2026-10-15": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-16": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-17": {
       "count": 0,
       "uniques": 0
     }
@@ -1967,6 +1975,14 @@
     "2026-10-15": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-16": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-10-17": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -1977,6 +1993,12 @@
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/nber/blob/main/AGENTS.md",
+      "title": "/blob/main/AGENTS.md",
+      "count": 2,
+      "uniques": 2
+    },
     {
       "path": "/vishalsachdev/nber",
       "title": "Overview",
@@ -1998,12 +2020,6 @@
     {
       "path": "/vishalsachdev/nber/blob/main/README.md",
       "title": "/blob/main/README.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/nber/blob/main/AGENTS.md",
-      "title": "/blob/main/AGENTS.md",
       "count": 1,
       "uniques": 1
     }

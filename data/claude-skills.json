@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-16T14:00:07.780411+00:00",
+  "last_updated": "2026-10-18T14:00:07.422803+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -983,6 +983,14 @@
       "uniques": 2
     },
     "2026-10-15": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-17": {
       "count": 1,
       "uniques": 1
     }
@@ -1967,6 +1975,14 @@
     "2026-10-15": {
       "count": 5,
       "uniques": 4
+    },
+    "2026-10-16": {
+      "count": 20,
+      "uniques": 14
+    },
+    "2026-10-17": {
+      "count": 44,
+      "uniques": 21
     }
   },
   "referrers": [
@@ -1977,7 +1993,7 @@
     },
     {
       "referrer": "Google",
-      "count": 5,
+      "count": 4,
       "uniques": 4
     },
     {
@@ -2055,7 +2071,7 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 11,
+      "count": 9,
       "uniques": 9
     },
     {
@@ -2113,12 +2129,6 @@
       "uniques": 5
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 4,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
       "count": 4,
@@ -2153,6 +2163,12 @@
       "title": "/blob/main/chartjs-generator/SKILL.md",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main",
@@ -2691,6 +2707,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/secure-nextjs-api-routes/SKILL.md",
       "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/secure-nextjs-api-routes/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/start-session/SKILL.md",
+      "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/start-session/SKILL.md",
       "count": 1,
       "uniques": 1
     }
