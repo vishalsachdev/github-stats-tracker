@@ -1,7 +1,7 @@
 {
   "repo": "grit-cart",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-18T14:00:07.422803+00:00",
+  "last_updated": "2026-10-19T14:00:08.617235+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Grit-CART Framework: Multi-agent critical evaluation of an AI entrepreneurship/intrapreneurship educational framework. 74 sources, 5 independent evaluations, 31K+ words.",
@@ -993,6 +993,10 @@
     "2026-10-17": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-18": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -1983,6 +1987,10 @@
     "2026-10-17": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-18": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -2110,6 +2118,12 @@
     {
       "path": "/vishalsachdev/grit-cart/blob/HEAD/articles/2026-02-15-from-tweet-to-treatise.md",
       "title": "/blob/HEAD/articles/2026-02-15-from-tweet-to-treatise.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/grit-cart/blob/HEAD/grok-conversation-grit-cart.md",
+      "title": "/blob/HEAD/grok-conversation-grit-cart.md",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-18T14:00:07.422803+00:00",
+  "last_updated": "2026-10-19T14:00:08.617235+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -991,6 +991,10 @@
       "uniques": 0
     },
     "2026-10-17": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-18": {
       "count": 1,
       "uniques": 1
     }
@@ -1983,6 +1987,10 @@
     "2026-10-17": {
       "count": 44,
       "uniques": 21
+    },
+    "2026-10-18": {
+      "count": 33,
+      "uniques": 18
     }
   },
   "referrers": [
@@ -1992,14 +2000,14 @@
       "uniques": 1
     },
     {
-      "referrer": "Google",
-      "count": 4,
-      "uniques": 4
-    },
-    {
       "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "referrer": "Google",
+      "count": 3,
+      "uniques": 3
     },
     {
       "referrer": "chatgpt.com",
@@ -2159,12 +2167,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
-      "title": "/blob/main/chartjs-generator/SKILL.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
       "count": 2,
@@ -2255,18 +2257,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
-      "title": "/blob/main/timeline-generator/SKILL.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/references/distractor-writing-guide.md",
-      "title": "/blob/main/quiz-generator/references/distractor-writing-guide.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/commits",
       "title": "/commits",
       "count": 2,
@@ -2301,6 +2291,24 @@
       "title": "/blob/main/install-skill-tracker/assets/settings.json",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
+      "title": "/blob/main/chartjs-generator/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/timeline-generator/SKILL.md",
+      "title": "/blob/main/timeline-generator/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/quiz-generator/references/distractor-writing-guide.md",
+      "title": "/blob/main/quiz-generator/references/distractor-writing-guide.md",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/README.md",
