@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-19T14:00:08.617235+00:00",
+  "last_updated": "2026-10-21T14:00:09.956548+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -997,6 +997,14 @@
     "2026-10-18": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-19": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-20": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -1991,6 +1999,14 @@
     "2026-10-18": {
       "count": 33,
       "uniques": 18
+    },
+    "2026-10-19": {
+      "count": 7,
+      "uniques": 5
+    },
+    "2026-10-20": {
+      "count": 7,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -2137,12 +2153,6 @@
       "uniques": 5
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 4,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
       "title": "/blob/main/canvas-course-audit/SKILL.md",
       "count": 4,
@@ -2155,6 +2165,12 @@
       "uniques": 1
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
@@ -2164,12 +2180,6 @@
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 2,
       "uniques": 2
     },
     {
@@ -2291,6 +2301,12 @@
       "title": "/blob/main/install-skill-tracker/assets/settings.json",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
@@ -2721,6 +2737,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/1ab9e614816a110977f98b85ee143510d72a88ab/start-session/SKILL.md",
       "title": "/blob/1ab9e614816a110977f98b85ee143510d72a88ab/start-session/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/visual-prompt-six-levers/SKILL.md",
+      "title": "/blob/main/visual-prompt-six-levers/SKILL.md",
       "count": 1,
       "uniques": 1
     }
