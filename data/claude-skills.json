@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-21T14:00:09.956548+00:00",
+  "last_updated": "2026-10-22T14:00:10.730551+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1005,6 +1005,10 @@
     "2026-10-20": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-21": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2007,6 +2011,10 @@
     "2026-10-20": {
       "count": 7,
       "uniques": 5
+    },
+    "2026-10-21": {
+      "count": 79,
+      "uniques": 29
     }
   },
   "referrers": [
@@ -2165,12 +2173,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
       "title": "/blob/main/remotion-best-practices/rules/can-decode.md",
       "count": 3,
@@ -2180,6 +2182,12 @@
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator/references",
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 2,
       "uniques": 2
     },
     {
@@ -2305,8 +2313,8 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/chartjs-generator/SKILL.md",
