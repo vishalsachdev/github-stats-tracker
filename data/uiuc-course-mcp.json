@@ -1,7 +1,7 @@
 {
   "repo": "uiuc-course-mcp",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-24T14:00:08.972171+00:00",
+  "last_updated": "2026-10-25T14:00:07.392021+00:00",
   "stars": 1,
   "forks": 0,
   "description": "",
@@ -115,6 +115,10 @@
       "uniques": 0
     },
     "2026-10-23": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-10-24": {
       "count": 1,
       "uniques": 1
     }
@@ -231,6 +235,10 @@
     "2026-10-23": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-24": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -249,12 +257,18 @@
     {
       "path": "/vishalsachdev/uiuc-course-mcp",
       "title": "Overview",
-      "count": 3,
-      "uniques": 3
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/uiuc-course-mcp/compare",
       "title": "/compare",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/uiuc-course-mcp/blob/main/docs/validation.md",
+      "title": "/blob/main/docs/validation.md",
       "count": 1,
       "uniques": 1
     }

@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-24T14:00:08.972171+00:00",
+  "last_updated": "2026-10-25T14:00:07.392021+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -1017,6 +1017,10 @@
     "2026-10-23": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-24": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2031,6 +2035,10 @@
     "2026-10-23": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-24": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -2127,6 +2135,12 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/curriculum/learning_outcomes.md",
       "title": "/blob/main/docs/curriculum/learning_outcomes.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/REPOSITIONING-SUMMARY.md",
+      "title": "/blob/main/REPOSITIONING-SUMMARY.md",
       "count": 1,
       "uniques": 1
     }

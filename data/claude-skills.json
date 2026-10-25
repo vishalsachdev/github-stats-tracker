@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-24T14:00:08.972171+00:00",
+  "last_updated": "2026-10-25T14:00:07.392021+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1017,6 +1017,10 @@
     "2026-10-23": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-24": {
+      "count": 5,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2031,6 +2035,10 @@
     "2026-10-23": {
       "count": 18,
       "uniques": 13
+    },
+    "2026-10-24": {
+      "count": 7,
+      "uniques": 7
     }
   },
   "referrers": [
@@ -2119,8 +2127,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 9,
-      "uniques": 9
+      "count": 10,
+      "uniques": 10
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2767,6 +2775,24 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/visual-prompt-six-levers/SKILL.md",
       "title": "/blob/main/visual-prompt-six-levers/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/claude-md-template/assets/CLAUDE.md.template",
+      "title": "/blob/main/claude-md-template/assets/CLAUDE.md.template",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/installer/SKILL.md",
+      "title": "/blob/main/installer/SKILL.md",
       "count": 1,
       "uniques": 1
     }
