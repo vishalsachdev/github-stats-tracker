@@ -1,7 +1,7 @@
 {
   "repo": "tldraw",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-25T14:00:07.392021+00:00",
+  "last_updated": "2026-10-26T14:00:17.313802+00:00",
   "stars": 2,
   "forks": 0,
   "description": "",
@@ -1021,6 +1021,10 @@
     "2026-10-24": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-25": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2039,6 +2043,10 @@
     "2026-10-24": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-25": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -2084,6 +2092,12 @@
     {
       "path": "/vishalsachdev/tldraw/blob/main/CLAUDE.md",
       "title": "/blob/main/CLAUDE.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/tldraw/blob/main/README.md",
+      "title": "/blob/main/README.md",
       "count": 1,
       "uniques": 1
     }

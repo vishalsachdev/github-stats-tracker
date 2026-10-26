@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-25T14:00:07.392021+00:00",
-  "repos_checked": 94,
-  "repos_with_traffic": 94,
+  "collected_at": "2026-10-26T14:00:17.313802+00:00",
+  "repos_checked": 95,
+  "repos_with_traffic": 95,
   "repos_with_traffic_names": [
     "2025-in-review",
     "AgentLab",
@@ -24,6 +24,7 @@
     "badm350-slides",
     "badm350-spring-2026-case-studies",
     "badm554-demo",
+    "badm554-learning-visibility",
     "badm554-survey-bot",
     "build-to-learn",
     "businessclaw-infinite",
