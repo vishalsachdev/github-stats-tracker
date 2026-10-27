@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-26T14:00:17.313802+00:00",
+  "last_updated": "2026-10-27T14:00:09.771578+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1025,6 +1025,10 @@
     "2026-10-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-26": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2047,6 +2051,10 @@
     "2026-10-25": {
       "count": 17,
       "uniques": 7
+    },
+    "2026-10-26": {
+      "count": 6,
+      "uniques": 4
     }
   },
   "referrers": [
@@ -2801,6 +2809,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/installer/SKILL.md",
       "title": "/blob/main/installer/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/diagram-reports-generator/SKILL.md",
+      "title": "/blob/main/diagram-reports-generator/SKILL.md",
       "count": 1,
       "uniques": 1
     }
