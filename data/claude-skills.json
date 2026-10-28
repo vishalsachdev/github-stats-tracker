@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-27T14:00:09.771578+00:00",
+  "last_updated": "2026-10-28T14:00:10.604064+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1029,6 +1029,10 @@
     "2026-10-26": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-10-27": {
+      "count": 10,
+      "uniques": 10
     }
   },
   "clones": {
@@ -2055,6 +2059,10 @@
     "2026-10-26": {
       "count": 6,
       "uniques": 4
+    },
+    "2026-10-27": {
+      "count": 7,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -2064,14 +2072,19 @@
       "uniques": 1
     },
     {
+      "referrer": "Google",
+      "count": 7,
+      "uniques": 7
+    },
+    {
       "referrer": "skills.sh",
       "count": 4,
       "uniques": 1
     },
     {
-      "referrer": "Google",
-      "count": 4,
-      "uniques": 4
+      "referrer": "aocr.org",
+      "count": 3,
+      "uniques": 3
     },
     {
       "referrer": "chatgpt.com",
@@ -2143,8 +2156,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 10,
-      "uniques": 10
+      "count": 13,
+      "uniques": 13
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2339,6 +2352,12 @@
       "uniques": 2
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
+      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
       "title": "/blob/main/install-skill-tracker/assets/settings.json",
       "count": 1,
@@ -2395,12 +2414,6 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
       "title": "/tree/main/glossary-generator",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
-      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
       "count": 1,
       "uniques": 1
     },
@@ -2815,6 +2828,30 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/diagram-reports-generator/SKILL.md",
       "title": "/blob/main/diagram-reports-generator/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/753c7c80d8cb44879ea7b8d9075d99c4~tplv-a9rns2rl98-image.image",
+      "title": "rtask/753c7c80d8cb44879ea7b8d9075d99c4~tplv-a9rns2rl98-image.image",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/agentic-eval-first-development/SKILL.md",
+      "title": "/blob/main/agentic-eval-first-development/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/agentic-validators/SKILL.md",
+      "title": "/blob/main/agentic-validators/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/allocate-agent-models/SKILL.md",
+      "title": "/blob/main/allocate-agent-models/SKILL.md",
       "count": 1,
       "uniques": 1
     }

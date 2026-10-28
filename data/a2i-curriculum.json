@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-27T14:00:09.771578+00:00",
+  "last_updated": "2026-10-28T14:00:10.604064+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -1029,6 +1029,10 @@
     "2026-10-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-27": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2055,6 +2059,10 @@
     "2026-10-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -2070,6 +2078,12 @@
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/REPOSITIONING-SUMMARY.md",
+      "title": "/blob/main/REPOSITIONING-SUMMARY.md",
+      "count": 2,
+      "uniques": 2
+    },
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/imba-content-review-notes.md",
       "title": "/blob/main/docs/proposal/imba-content-review-notes.md",
@@ -2151,12 +2165,6 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/curriculum/learning_outcomes.md",
       "title": "/blob/main/docs/curriculum/learning_outcomes.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/a2i-curriculum/blob/main/REPOSITIONING-SUMMARY.md",
-      "title": "/blob/main/REPOSITIONING-SUMMARY.md",
       "count": 1,
       "uniques": 1
     }
