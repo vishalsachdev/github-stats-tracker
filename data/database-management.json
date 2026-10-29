@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-28T14:00:10.604064+00:00",
+  "last_updated": "2026-10-29T14:00:11.320352+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -1033,6 +1033,10 @@
     "2026-10-27": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-28": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2063,6 +2067,10 @@
     "2026-10-27": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-28": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -2075,6 +2083,11 @@
       "referrer": "github.com",
       "count": 9,
       "uniques": 1
+    },
+    {
+      "referrer": "aocr.org",
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "Google",
@@ -2243,6 +2256,12 @@
       "title": "/blob/main/.claude-skills/.claude/hooks/track-prompts.sh",
       "count": 2,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/pull/2",
+      "title": "/pull/2",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/database-management/tree/main/.claude-skills",

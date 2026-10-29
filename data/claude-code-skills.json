@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-28T14:00:10.604064+00:00",
+  "last_updated": "2026-10-29T14:00:11.320352+00:00",
   "stars": 4,
   "forks": 2,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -1033,6 +1033,10 @@
     "2026-10-27": {
       "count": 6,
       "uniques": 6
+    },
+    "2026-10-28": {
+      "count": 9,
+      "uniques": 9
     }
   },
   "clones": {
@@ -2063,6 +2067,10 @@
     "2026-10-27": {
       "count": 15,
       "uniques": 9
+    },
+    "2026-10-28": {
+      "count": 9,
+      "uniques": 7
     }
   },
   "referrers": [
@@ -2092,6 +2100,11 @@
       "uniques": 1
     },
     {
+      "referrer": "aocr.org",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "referrer": "Bing",
       "count": 1,
       "uniques": 1
@@ -2113,6 +2126,12 @@
       "title": "/blob/main/skills/start-session/SKILL.md",
       "count": 5,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills",
+      "title": "Overview",
+      "count": 5,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-code-skills/tree/main/skills/paper-writing/scripts",
@@ -2195,12 +2214,6 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/paper-writing/references/ELITE-PAPERS.md",
       "title": "/blob/main/skills/paper-writing/references/ELITE-PAPERS.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-code-skills",
-      "title": "Overview",
       "count": 1,
       "uniques": 1
     },
@@ -2471,6 +2484,18 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/formbuilder-admin/references/workflow-lifecycle.md",
       "title": "/blob/main/skills/formbuilder-admin/references/workflow-lifecycle.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/codebase-singularity/references/visual-notes.md",
+      "title": "/blob/main/skills/codebase-singularity/references/visual-notes.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-code-skills/blob/main/skills/formbuilder-admin/references/authentication-and-access.md",
+      "title": "/blob/main/skills/formbuilder-admin/references/authentication-and-access.md",
       "count": 1,
       "uniques": 1
     }

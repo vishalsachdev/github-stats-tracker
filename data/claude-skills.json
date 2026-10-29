@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-28T14:00:10.604064+00:00",
+  "last_updated": "2026-10-29T14:00:11.320352+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1033,6 +1033,10 @@
     "2026-10-27": {
       "count": 10,
       "uniques": 10
+    },
+    "2026-10-28": {
+      "count": 12,
+      "uniques": 6
     }
   },
   "clones": {
@@ -2063,6 +2067,10 @@
     "2026-10-27": {
       "count": 7,
       "uniques": 5
+    },
+    "2026-10-28": {
+      "count": 7,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -2073,8 +2081,8 @@
     },
     {
       "referrer": "Google",
-      "count": 7,
-      "uniques": 7
+      "count": 8,
+      "uniques": 8
     },
     {
       "referrer": "skills.sh",
@@ -2156,8 +2164,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 13,
-      "uniques": 13
+      "count": 15,
+      "uniques": 15
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2358,20 +2366,20 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
-      "title": "/blob/main/install-skill-tracker/assets/settings.json",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
       "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
       "title": "/tree/main/paper-writing",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/install-skill-tracker/assets/settings.json",
+      "title": "/blob/main/install-skill-tracker/assets/settings.json",
       "count": 1,
       "uniques": 1
     },
@@ -2852,6 +2860,12 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/allocate-agent-models/SKILL.md",
       "title": "/blob/main/allocate-agent-models/SKILL.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/allocate-agent-models/README.md",
+      "title": "/blob/main/allocate-agent-models/README.md",
       "count": 1,
       "uniques": 1
     }
