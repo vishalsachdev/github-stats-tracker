@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-29T14:00:11.320352+00:00",
+  "last_updated": "2026-10-30T14:00:10.378190+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -1037,6 +1037,10 @@
     "2026-10-28": {
       "count": 9,
       "uniques": 8
+    },
+    "2026-10-29": {
+      "count": 9,
+      "uniques": 9
     }
   },
   "clones": {
@@ -2071,13 +2075,22 @@
     "2026-10-28": {
       "count": 12,
       "uniques": 6
+    },
+    "2026-10-29": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 23,
-      "uniques": 19
+      "count": 21,
+      "uniques": 17
+    },
+    {
+      "referrer": "aocr.org",
+      "count": 4,
+      "uniques": 4
     },
     {
       "referrer": "bytedance.larkoffice.com",
@@ -2108,25 +2121,20 @@
       "referrer": "yuque.antfin.com",
       "count": 1,
       "uniques": 1
-    },
-    {
-      "referrer": "aocr.org",
-      "count": 1,
-      "uniques": 1
     }
   ],
   "paths": [
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 37,
-      "uniques": 35
+      "count": 38,
+      "uniques": 36
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
-      "count": 8,
-      "uniques": 7
+      "count": 9,
+      "uniques": 8
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
@@ -2213,6 +2221,12 @@
       "uniques": 3
     },
     {
+      "path": "/vishalsachdev/gdpval/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 3,
+      "uniques": 3
+    },
+    {
       "path": "/vishalsachdev/gdpval/blob/main/AGENTS.md",
       "title": "/blob/main/AGENTS.md",
       "count": 2,
@@ -2241,12 +2255,6 @@
       "title": "/blob/main/requirements.txt",
       "count": 2,
       "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/README.md",
-      "title": "/blob/main/README.md",
-      "count": 1,
-      "uniques": 1
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/task_schema.md",

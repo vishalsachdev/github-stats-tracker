@@ -1,7 +1,7 @@
 {
   "repo": "nano-hack",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-29T14:00:11.320352+00:00",
+  "last_updated": "2026-10-30T14:00:10.378190+00:00",
   "stars": 0,
   "forks": 0,
   "description": " A simple tool to explore a large number of kaggle hackathon submissions ",
@@ -1035,6 +1035,10 @@
       "uniques": 0
     },
     "2026-10-28": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-10-29": {
       "count": 2,
       "uniques": 2
     }
@@ -2071,13 +2075,17 @@
     "2026-10-28": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-10-29": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 2,
-      "uniques": 2
+      "count": 4,
+      "uniques": 3
     },
     {
       "referrer": "github.com",
@@ -2087,16 +2095,16 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/nano-hack",
+      "title": "Overview",
+      "count": 5,
+      "uniques": 4
+    },
+    {
       "path": "/vishalsachdev/nano-hack/blob/main/.gitignore",
       "title": "/blob/main/.gitignore",
       "count": 3,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/nano-hack",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/nano-hack/blob/main/banana_writeups.json",

@@ -1,7 +1,7 @@
 {
   "repo": "LearnByEmail",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-29T14:00:11.320352+00:00",
+  "last_updated": "2026-10-30T14:00:10.378190+00:00",
   "stars": 0,
   "forks": 0,
   "description": "An app to enable micro learning, with AI generated daily emails for a topic of your choice.",
@@ -1035,6 +1035,10 @@
       "uniques": 0
     },
     "2026-10-28": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-29": {
       "count": 0,
       "uniques": 0
     }
@@ -2071,6 +2075,10 @@
     "2026-10-28": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-29": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [],
