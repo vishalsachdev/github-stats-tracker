@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-30T14:00:10.378190+00:00",
+  "last_updated": "2026-10-31T14:00:09.306170+00:00",
   "stars": 4,
   "forks": 2,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -1041,6 +1041,10 @@
     "2026-10-29": {
       "count": 3,
       "uniques": 3
+    },
+    "2026-10-30": {
+      "count": 6,
+      "uniques": 4
     }
   },
   "clones": {
@@ -2079,6 +2083,10 @@
     "2026-10-29": {
       "count": 7,
       "uniques": 7
+    },
+    "2026-10-30": {
+      "count": 7,
+      "uniques": 6
     }
   },
   "referrers": [
@@ -2132,8 +2140,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 8,
-      "uniques": 8
+      "count": 12,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",

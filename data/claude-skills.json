@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-30T14:00:10.378190+00:00",
+  "last_updated": "2026-10-31T14:00:09.306170+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1041,6 +1041,10 @@
     "2026-10-29": {
       "count": 5,
       "uniques": 2
+    },
+    "2026-10-30": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2079,18 +2083,22 @@
     "2026-10-29": {
       "count": 17,
       "uniques": 13
+    },
+    "2026-10-30": {
+      "count": 15,
+      "uniques": 9
     }
   },
   "referrers": [
     {
+      "referrer": "Google",
+      "count": 12,
+      "uniques": 11
+    },
+    {
       "referrer": "github.com",
       "count": 11,
       "uniques": 1
-    },
-    {
-      "referrer": "Google",
-      "count": 11,
-      "uniques": 10
     },
     {
       "referrer": "skills.sh",
@@ -2172,8 +2180,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 16,
-      "uniques": 16
+      "count": 17,
+      "uniques": 17
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",

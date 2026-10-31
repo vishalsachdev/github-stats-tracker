@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-30T14:00:10.378190+00:00",
+  "last_updated": "2026-10-31T14:00:09.306170+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -1039,6 +1039,10 @@
       "uniques": 2
     },
     "2026-10-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-30": {
       "count": 0,
       "uniques": 0
     }
@@ -2079,6 +2083,10 @@
     "2026-10-29": {
       "count": 6,
       "uniques": 2
+    },
+    "2026-10-30": {
+      "count": 6,
+      "uniques": 1
     }
   },
   "referrers": [

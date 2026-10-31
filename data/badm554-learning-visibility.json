@@ -1,7 +1,7 @@
 {
   "repo": "badm554-learning-visibility",
   "owner": "vishalsachdev",
-  "last_updated": "2026-10-30T14:00:10.378190+00:00",
+  "last_updated": "2026-10-31T14:00:09.306170+00:00",
   "stars": 0,
   "forks": 0,
   "description": "How BADM 554 makes student reasoning visible with GitHub, AI-assisted review and Canvas: findings, audio overview and process note",
@@ -75,6 +75,10 @@
       "uniques": 0
     },
     "2026-10-29": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-10-30": {
       "count": 0,
       "uniques": 0
     }
@@ -151,6 +155,10 @@
     "2026-10-29": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-10-30": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
