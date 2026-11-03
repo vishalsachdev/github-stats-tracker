@@ -1,7 +1,7 @@
 {
   "repo": "ai-impact",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-02T15:00:11.267790+00:00",
+  "last_updated": "2026-11-03T15:00:06.688963+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Research on AI's impact: platform usage patterns, demographics, global inequality, and enterprise adoption from frontier labs",
@@ -1053,6 +1053,10 @@
     "2026-11-01": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-11-02": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -2102,6 +2106,10 @@
     },
     "2026-11-01": {
       "count": 6,
+      "uniques": 4
+    },
+    "2026-11-02": {
+      "count": 8,
       "uniques": 4
     }
   },
