@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-03T15:00:06.688963+00:00",
+  "last_updated": "2026-11-04T15:00:08.953212+00:00",
   "stars": 2,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -1057,6 +1057,10 @@
     "2026-11-02": {
       "count": 20,
       "uniques": 17
+    },
+    "2026-11-03": {
+      "count": 14,
+      "uniques": 13
     }
   },
   "clones": {
@@ -2111,13 +2115,22 @@
     "2026-11-02": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-11-03": {
+      "count": 13,
+      "uniques": 13
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 25,
-      "uniques": 21
+      "count": 29,
+      "uniques": 24
+    },
+    {
+      "referrer": "github.com",
+      "count": 6,
+      "uniques": 6
     },
     {
       "referrer": "aocr.org",
@@ -2140,11 +2153,6 @@
       "uniques": 1
     },
     {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "referrer": "kagi.com",
       "count": 1,
       "uniques": 1
@@ -2159,14 +2167,14 @@
     {
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
-      "count": 39,
-      "uniques": 36
+      "count": 42,
+      "uniques": 38
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
       "title": "/blob/main/GDPval_extracted.md",
-      "count": 11,
-      "uniques": 10
+      "count": 19,
+      "uniques": 18
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
@@ -2183,8 +2191,8 @@
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 8,
-      "uniques": 8
+      "count": 7,
+      "uniques": 7
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main",
@@ -2229,6 +2237,12 @@
       "uniques": 4
     },
     {
+      "path": "/vishalsachdev/gdpval/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 4,
+      "uniques": 4
+    },
+    {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
       "title": "/blob/main/GDPval.pdf",
       "count": 3,
@@ -2249,12 +2263,6 @@
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/tasks_summary.md",
       "title": "/blob/main/data/tasks_summary.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/README.md",
-      "title": "/blob/main/README.md",
       "count": 3,
       "uniques": 3
     },
