@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-04T15:00:08.953212+00:00",
+  "last_updated": "2026-11-05T15:00:10.173802+00:00",
   "stars": 2,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -977,6 +977,10 @@
     "2026-11-03": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-11-04": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1951,6 +1955,10 @@
     "2026-11-03": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-04": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -2002,6 +2010,12 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/codex-for-business-students",
+      "title": "Overview",
+      "count": 5,
+      "uniques": 4
+    },
+    {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
       "title": "/tree/main/articles",
       "count": 3,
@@ -2016,12 +2030,6 @@
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/lesson-modules/2-vibe-coding/2.1-setup",
       "title": "codex-for-business-students/lesson-modules/2-vibe-coding at main \u00b7 vishalsach...",
-      "count": 3,
-      "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/codex-for-business-students",
-      "title": "Overview",
       "count": 3,
       "uniques": 2
     },
