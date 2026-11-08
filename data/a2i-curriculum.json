@@ -1,7 +1,7 @@
 {
   "repo": "a2i-curriculum",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-05T15:00:10.173802+00:00",
+  "last_updated": "2026-11-08T15:00:08.622477+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -1065,6 +1065,18 @@
     "2026-11-04": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-11-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-06": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-11-07": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -2127,6 +2139,18 @@
     "2026-11-04": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-07": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -2145,8 +2169,8 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/REPOSITIONING-SUMMARY.md",
       "title": "/blob/main/REPOSITIONING-SUMMARY.md",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/imba-content-review-notes.md",
@@ -2241,6 +2265,12 @@
     {
       "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/imba-specialization-curriculum.md",
       "title": "/blob/main/docs/proposal/imba-specialization-curriculum.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/a2i-curriculum/blob/main/docs/proposal/executive-summary.md",
+      "title": "/blob/main/docs/proposal/executive-summary.md",
       "count": 1,
       "uniques": 1
     }

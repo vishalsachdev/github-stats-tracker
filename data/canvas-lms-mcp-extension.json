@@ -1,7 +1,7 @@
 {
   "repo": "canvas-lms-mcp-extension",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-05T15:00:10.173802+00:00",
+  "last_updated": "2026-11-08T15:00:08.622477+00:00",
   "stars": 0,
   "forks": 0,
   "description": "A Model Context Protocol Extension for Claude Desktop to run locally and connect to a Canvas LMS",
@@ -1063,6 +1063,18 @@
       "uniques": 0
     },
     "2026-11-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-05": {
+      "count": 5,
+      "uniques": 5
+    },
+    "2026-11-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-07": {
       "count": 0,
       "uniques": 0
     }
@@ -2127,13 +2139,25 @@
     "2026-11-04": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-05": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-11-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-07": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
     {
       "referrer": "aocr.org",
-      "count": 3,
-      "uniques": 3
+      "count": 8,
+      "uniques": 8
     },
     {
       "referrer": "github.com",
@@ -2150,8 +2174,14 @@
     {
       "path": "/vishalsachdev/canvas-lms-mcp-extension",
       "title": "Overview",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-mcp-extension/releases",
+      "title": "/releases",
+      "count": 2,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/canvas-lms-mcp-extension/issues",
@@ -2160,8 +2190,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/canvas-lms-mcp-extension/releases",
-      "title": "/releases",
+      "path": "/vishalsachdev/canvas-lms-mcp-extension/commit/d3f94461351eb7f091726256a63852ace291ecfe",
+      "title": "/commit/d3f94461351eb7f091726256a63852ace291ecfe",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/canvas-lms-mcp-extension/tree/main/dist",
+      "title": "/tree/main/dist",
       "count": 1,
       "uniques": 1
     }

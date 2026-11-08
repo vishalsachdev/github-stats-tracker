@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-05T15:00:10.173802+00:00",
+  "last_updated": "2026-11-08T15:00:08.622477+00:00",
   "stars": 3,
   "forks": 3,
   "description": "",
@@ -1065,6 +1065,18 @@
     "2026-11-04": {
       "count": 5,
       "uniques": 4
+    },
+    "2026-11-05": {
+      "count": 19,
+      "uniques": 18
+    },
+    "2026-11-06": {
+      "count": 11,
+      "uniques": 7
+    },
+    "2026-11-07": {
+      "count": 11,
+      "uniques": 11
     }
   },
   "clones": {
@@ -2127,6 +2139,18 @@
     "2026-11-04": {
       "count": 31,
       "uniques": 18
+    },
+    "2026-11-05": {
+      "count": 21,
+      "uniques": 14
+    },
+    "2026-11-06": {
+      "count": 13,
+      "uniques": 9
+    },
+    "2026-11-07": {
+      "count": 17,
+      "uniques": 12
     }
   },
   "referrers": [
@@ -2134,6 +2158,11 @@
       "referrer": "Google",
       "count": 17,
       "uniques": 14
+    },
+    {
+      "referrer": "aocr.org",
+      "count": 17,
+      "uniques": 17
     },
     {
       "referrer": "github.com",
@@ -2146,7 +2175,7 @@
       "uniques": 1
     },
     {
-      "referrer": "aocr.org",
+      "referrer": "Bing",
       "count": 3,
       "uniques": 3
     },
@@ -2177,11 +2206,6 @@
     },
     {
       "referrer": "teams.public.onecdn.static.microsoft",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "referrer": "Bing",
       "count": 1,
       "uniques": 1
     },
@@ -2220,8 +2244,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 25,
-      "uniques": 22
+      "count": 24,
+      "uniques": 21
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2272,16 +2296,16 @@
       "uniques": 6
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 6,
+      "uniques": 4
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
       "title": "/tree/main/linkedin-announcement-generator",
       "count": 5,
       "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 5,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/canvas-course-audit/SKILL.md",
@@ -2294,6 +2318,18 @@
       "title": "/tree/main/paper-writing/references",
       "count": 4,
       "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
+      "count": 4,
+      "uniques": 4
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/mermaid-generator/SKILL.md",
+      "title": "/blob/main/mermaid-generator/SKILL.md",
+      "count": 4,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
@@ -2314,10 +2350,10 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 2,
-      "uniques": 2
+      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
+      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -2428,12 +2464,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
-      "title": "/blob/main/SKILL_CREATION_GUIDE.md",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/learning-design-review",
       "title": "/tree/main/learning-design-review",
       "count": 2,
@@ -2442,6 +2472,24 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/mermaid-generator/references/mermaid-diagram-types.md",
       "title": "/blob/main/mermaid-generator/references/mermaid-diagram-types.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/codebase-singularity/references/transcript.md",
+      "title": "/blob/main/codebase-singularity/references/transcript.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/learning-graph-generator/concept-taxonomy.md",
+      "title": "/blob/main/learning-graph-generator/concept-taxonomy.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/learning-graph-generator/index.md",
+      "title": "/blob/main/learning-graph-generator/index.md",
       "count": 2,
       "uniques": 2
     },

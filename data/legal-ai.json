@@ -1,7 +1,7 @@
 {
   "repo": "legal-ai",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-05T15:00:10.173802+00:00",
+  "last_updated": "2026-11-08T15:00:08.622477+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Guest lecture materials: Teaching law students to build AI skills for legal practice (class action litigation)",
@@ -1055,6 +1055,18 @@
       "uniques": 0
     },
     "2026-11-04": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-06": {
+      "count": 8,
+      "uniques": 1
+    },
+    "2026-11-07": {
       "count": 0,
       "uniques": 0
     }
@@ -2111,22 +2123,28 @@
     "2026-11-04": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-11-05": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-06": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-07": {
+      "count": 2,
+      "uniques": 1
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 10,
-      "uniques": 4
+      "count": 2,
+      "uniques": 1
     }
   ],
   "paths": [
-    {
-      "path": "/vishalsachdev/legal-ai",
-      "title": "vishalsachdev/legal-ai: Guest lecture materials: Teaching law students to bui...",
-      "count": 6,
-      "uniques": 5
-    },
     {
       "path": "/vishalsachdev/legal-ai/blob/main/STUDENT-GUIDE.md",
       "title": "legal-ai/STUDENT-GUIDE.md at main \u00b7 vishalsachdev/legal-ai",
@@ -2137,6 +2155,18 @@
       "path": "/vishalsachdev/legal-ai/blob/main/LECTURE-OVERVIEW.md",
       "title": "legal-ai/LECTURE-OVERVIEW.md at main \u00b7 vishalsachdev/legal-ai",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/tree/main/exercises",
+      "title": "/tree/main/exercises",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai",
+      "title": "Overview",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -2160,6 +2190,36 @@
     {
       "path": "/vishalsachdev/legal-ai/commits/main",
       "title": "Commits \u00b7 vishalsachdev/legal-ai \u00b7 GitHub",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/blob/main/exercises/student-exercise.md",
+      "title": "/blob/main/exercises/student-exercise.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/blob/main/exercises/we-build-together.md",
+      "title": "/blob/main/exercises/we-build-together.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/tree/main",
+      "title": "/tree/main",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/tree/main/example-skills",
+      "title": "/tree/main/example-skills",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/legal-ai/tree/main/reference-skills",
+      "title": "/tree/main/reference-skills",
       "count": 1,
       "uniques": 1
     }
