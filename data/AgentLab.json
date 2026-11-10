@@ -1,7 +1,7 @@
 {
   "repo": "AgentLab",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-08T15:00:08.622477+00:00",
+  "last_updated": "2026-11-10T15:00:14.317908+00:00",
   "stars": 7,
   "forks": 0,
   "description": "AgentLab - Pioneering Multi-Agent AI for Education. Student-led research at Gies College of Business exploring how intelligent agent teams can transform learning experiences.",
@@ -1077,6 +1077,14 @@
     "2026-11-07": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-08": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-09": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2151,13 +2159,21 @@
     "2026-11-07": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-11-08": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-11-09": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "Google",
@@ -2172,16 +2188,16 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/AgentLab",
+      "title": "Overview",
+      "count": 4,
+      "uniques": 4
+    },
+    {
       "path": "/vishalsachdev/AgentLab/blob/main/CLAUDE.md",
       "title": "/blob/main/CLAUDE.md",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/AgentLab",
-      "title": "Overview",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/AgentLab/blob/main/README.md",

@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-08T15:00:08.622477+00:00",
+  "last_updated": "2026-11-10T15:00:14.317908+00:00",
   "stars": 4,
   "forks": 2,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -1077,6 +1077,14 @@
     "2026-11-07": {
       "count": 2,
       "uniques": 1
+    },
+    "2026-11-08": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-11-09": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2151,6 +2159,14 @@
     "2026-11-07": {
       "count": 18,
       "uniques": 13
+    },
+    "2026-11-08": {
+      "count": 17,
+      "uniques": 13
+    },
+    "2026-11-09": {
+      "count": 32,
+      "uniques": 12
     }
   },
   "referrers": [
@@ -2191,8 +2207,8 @@
     },
     {
       "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "lnkd.in",
@@ -2209,8 +2225,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 17,
-      "uniques": 14
+      "count": 19,
+      "uniques": 16
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -2581,6 +2597,12 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/formbuilder-admin/references/authentication-and-access.md",
       "title": "/blob/main/skills/formbuilder-admin/references/authentication-and-access.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/f0916093e1a145fa83667a4aa616517b~tplv-a9rns2rl98-image.image",
+      "title": "/f0916093e1a145fa83667a4aa616517b~tplv-a9rns2rl98-image.image",
       "count": 1,
       "uniques": 1
     }

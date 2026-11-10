@@ -1,8 +1,8 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-08T15:00:08.622477+00:00",
-  "stars": 3,
+  "last_updated": "2026-11-10T15:00:14.317908+00:00",
+  "stars": 2,
   "forks": 3,
   "description": "",
   "views": {
@@ -1077,6 +1077,14 @@
     "2026-11-07": {
       "count": 11,
       "uniques": 11
+    },
+    "2026-11-08": {
+      "count": 15,
+      "uniques": 6
+    },
+    "2026-11-09": {
+      "count": 12,
+      "uniques": 8
     }
   },
   "clones": {
@@ -2151,13 +2159,21 @@
     "2026-11-07": {
       "count": 17,
       "uniques": 12
+    },
+    "2026-11-08": {
+      "count": 11,
+      "uniques": 8
+    },
+    "2026-11-09": {
+      "count": 46,
+      "uniques": 14
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 17,
-      "uniques": 14
+      "count": 19,
+      "uniques": 16
     },
     {
       "referrer": "aocr.org",
@@ -2166,8 +2182,8 @@
     },
     {
       "referrer": "github.com",
-      "count": 11,
-      "uniques": 1
+      "count": 4,
+      "uniques": 2
     },
     {
       "referrer": "skills.sh",
@@ -2176,8 +2192,8 @@
     },
     {
       "referrer": "Bing",
-      "count": 3,
-      "uniques": 3
+      "count": 2,
+      "uniques": 2
     },
     {
       "referrer": "chatgpt.com",
@@ -2244,8 +2260,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 24,
-      "uniques": 21
+      "count": 34,
+      "uniques": 27
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2290,20 +2306,26 @@
       "uniques": 7
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 7,
+      "uniques": 5
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
       "title": "/tree/main/microsim-screen-capture",
       "count": 6,
       "uniques": 6
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 6,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
       "title": "/tree/main/linkedin-announcement-generator",
+      "count": 5,
+      "uniques": 5
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
+      "title": "/tree/main/paper-writing",
       "count": 5,
       "uniques": 5
     },
@@ -2318,12 +2340,6 @@
       "title": "/tree/main/paper-writing/references",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main/paper-writing",
-      "title": "/tree/main/paper-writing",
-      "count": 4,
-      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/mermaid-generator/SKILL.md",
@@ -2354,6 +2370,12 @@
       "title": "/blob/main/SKILL_CREATION_GUIDE.md",
       "count": 3,
       "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 3,
+      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/quiz-generator",
@@ -2928,12 +2950,6 @@
     {
       "path": "/vishalsachdev/claude-skills/blob/main/visual-prompt-six-levers/SKILL.md",
       "title": "/blob/main/visual-prompt-six-levers/SKILL.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/README.md",
-      "title": "/blob/main/README.md",
       "count": 1,
       "uniques": 1
     },
