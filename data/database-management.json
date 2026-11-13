@@ -1,7 +1,7 @@
 {
   "repo": "database-management",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-11T15:00:11.772694+00:00",
+  "last_updated": "2026-11-13T15:00:14.801969+00:00",
   "stars": 1,
   "forks": 1,
   "description": "Database Management - An intelligent textbook",
@@ -1087,6 +1087,14 @@
       "uniques": 0
     },
     "2026-11-10": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-11": {
+      "count": 2,
+      "uniques": 2
+    },
+    "2026-11-12": {
       "count": 0,
       "uniques": 0
     }
@@ -2175,6 +2183,14 @@
     "2026-11-10": {
       "count": 4,
       "uniques": 2
+    },
+    "2026-11-11": {
+      "count": 5,
+      "uniques": 2
+    },
+    "2026-11-12": {
+      "count": 14,
+      "uniques": 2
     }
   },
   "referrers": [
@@ -2190,8 +2206,8 @@
     },
     {
       "referrer": "aocr.org",
-      "count": 3,
-      "uniques": 3
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "Google",
@@ -2200,6 +2216,11 @@
     },
     {
       "referrer": "usso.uberinternal.com",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "referrer": "claudeskills.club",
       "count": 1,
       "uniques": 1
     }
@@ -2471,7 +2492,7 @@
     },
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/skills/chapter-content-generator/SKILL.md",
-      "title": "database-management/.claude-skills/skills/chapter-content-generator at main \u00b7...",
+      "title": "/blob/main/.claude-skills/skills/chapter-content-generator/SKILL.md",
       "count": 1,
       "uniques": 1
     },
@@ -2658,6 +2679,12 @@
     {
       "path": "/vishalsachdev/database-management/blob/main/.claude-skills/.claude/hooks/track-skill-end.sh",
       "title": "/blob/main/.claude-skills/.claude/hooks/track-skill-end.sh",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/database-management/tree/main/.claude-skills/skills/chapter-content-generator",
+      "title": "/tree/main/.claude-skills/skills/chapter-content-generator",
       "count": 1,
       "uniques": 1
     }

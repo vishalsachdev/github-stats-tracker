@@ -1,7 +1,7 @@
 {
   "repo": "skills-sh",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-11T15:00:11.772694+00:00",
+  "last_updated": "2026-11-13T15:00:14.801969+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Longitudinal analysis of skills.sh ecosystem for vibe coder install guidance",
@@ -1089,6 +1089,14 @@
     "2026-11-10": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-11": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-12": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2175,6 +2183,14 @@
     "2026-11-10": {
       "count": 242,
       "uniques": 18
+    },
+    "2026-11-11": {
+      "count": 13,
+      "uniques": 8
+    },
+    "2026-11-12": {
+      "count": 6,
+      "uniques": 5
     }
   },
   "referrers": [
@@ -2211,6 +2227,12 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/skills-sh",
+      "title": "Overview",
+      "count": 5,
+      "uniques": 5
+    },
+    {
       "path": "/vishalsachdev/skills-sh/blob/main/analysis/daily/2026-04-23.md",
       "title": "/blob/main/analysis/daily/2026-04-23.md",
       "count": 4,
@@ -2227,12 +2249,6 @@
       "title": "/actions",
       "count": 3,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/skills-sh",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/skills-sh/blob/main/snapshots/2026-04-23.json",
