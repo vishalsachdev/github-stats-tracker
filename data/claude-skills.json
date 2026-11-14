@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-13T15:00:14.801969+00:00",
+  "last_updated": "2026-11-14T15:00:58.769796+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1097,6 +1097,10 @@
     "2026-11-12": {
       "count": 11,
       "uniques": 3
+    },
+    "2026-11-13": {
+      "count": 11,
+      "uniques": 11
     }
   },
   "clones": {
@@ -2191,6 +2195,10 @@
     "2026-11-12": {
       "count": 17,
       "uniques": 14
+    },
+    "2026-11-13": {
+      "count": 18,
+      "uniques": 12
     }
   },
   "referrers": [
@@ -2284,8 +2292,8 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 31,
-      "uniques": 25
+      "count": 32,
+      "uniques": 26
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
@@ -2542,6 +2550,12 @@
     {
       "path": "/vishalsachdev/claude-skills/actions/runs/41339013713/job/124944837138",
       "title": "/actions/runs/41339013713/job/124944837138",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/advanced-text-search-matching.md",
+      "title": "/blob/main/advanced-text-search-matching.md",
       "count": 2,
       "uniques": 2
     },

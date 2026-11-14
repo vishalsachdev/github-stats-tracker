@@ -1,7 +1,7 @@
 {
   "repo": "icis2025-context-engineering",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-13T15:00:14.801969+00:00",
+  "last_updated": "2026-11-14T15:00:58.769796+00:00",
   "stars": 0,
   "forks": 0,
   "description": "",
@@ -1097,6 +1097,10 @@
     "2026-11-12": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-13": {
+      "count": 4,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2191,10 +2195,26 @@
     "2026-11-12": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-13": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [],
   "paths": [
+    {
+      "path": "/vishalsachdev/icis2025-context-engineering/blob/main/handout-thesis-style.md",
+      "title": "/blob/main/handout-thesis-style.md",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/icis2025-context-engineering/commits/main/handout-thesis-style.md",
+      "title": "/commits/main/handout-thesis-style.md",
+      "count": 2,
+      "uniques": 2
+    },
     {
       "path": "/vishalsachdev/icis2025-context-engineering/blob/main/talk-prep-capability-architects-v2.md",
       "title": "icis2025-context-engineering/talk-prep-capability-architects-v2.md at main \u00b7 ...",
