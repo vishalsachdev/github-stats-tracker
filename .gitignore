@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+
+# Local sensitive artifacts; do not publish.
+/internal/session-archive.md
