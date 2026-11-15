@@ -1,6 +1,6 @@
 # CLAUDE.md — github-stats-tracker
 
-Weekly collection of GitHub traffic stats for all public repos under `vishalsachdev`. GitHub only retains traffic data for 14 days — this repo preserves it permanently.
+Daily collection (local launchd) of GitHub traffic stats for all public repos under `vishalsachdev`. GitHub only retains traffic data for 14 days — this repo preserves it permanently.
 
 **Dashboard:** https://vishalsachdev.github.io/github-stats-tracker/
 **Repo:** https://github.com/vishalsachdev/github-stats-tracker
@@ -12,8 +12,9 @@ Weekly collection of GitHub traffic stats for all public repos under `vishalsach
 ```
 github-stats-tracker/
 ├── .github/workflows/
-│   └── collect-stats.yml    # Weekly cron (Monday 6am UTC / midnight CST)
+│   └── collect-stats.yml    # Weekly cron (Monday 6am UTC); blocked, see Automation
 ├── scripts/
+│   ├── collect-and-push.sh  # Daily launchd job: collect, build, commit, push
 │   ├── collect.py           # Fetches traffic + metadata from GitHub API
 │   └── build_dashboard.py   # Generates static HTML dashboard
 ├── data/
