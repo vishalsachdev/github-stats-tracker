@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-16T15:00:11.816985+00:00",
+  "last_updated": "2026-11-17T15:00:05.028196+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1105,6 +1105,14 @@
     "2026-11-14": {
       "count": 12,
       "uniques": 6
+    },
+    "2026-11-15": {
+      "count": 21,
+      "uniques": 20
+    },
+    "2026-11-16": {
+      "count": 39,
+      "uniques": 27
     }
   },
   "clones": {
@@ -2207,13 +2215,21 @@
     "2026-11-14": {
       "count": 15,
       "uniques": 10
+    },
+    "2026-11-15": {
+      "count": 11,
+      "uniques": 8
+    },
+    "2026-11-16": {
+      "count": 6,
+      "uniques": 6
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 14,
-      "uniques": 13
+      "count": 18,
+      "uniques": 17
     },
     {
       "referrer": "aocr.org",
@@ -2257,8 +2273,8 @@
     },
     {
       "referrer": "DuckDuckGo",
-      "count": 2,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "referrer": "Yahoo",
@@ -2300,14 +2316,20 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 33,
-      "uniques": 27
+      "count": 37,
+      "uniques": 32
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 8,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -2346,10 +2368,10 @@
       "uniques": 7
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
+      "path": "/vishalsachdev/claude-skills/blob/main/mermaid-generator/SKILL.md",
+      "title": "/blob/main/mermaid-generator/SKILL.md",
       "count": 7,
-      "uniques": 5
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/microsim-screen-capture",
@@ -2394,10 +2416,10 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/blob/main/mermaid-generator/SKILL.md",
-      "title": "/blob/main/mermaid-generator/SKILL.md",
-      "count": 3,
-      "uniques": 2
+      "path": "/vishalsachdev/claude-skills/tree/main",
+      "title": "/tree/main",
+      "count": 4,
+      "uniques": 4
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/remotion-best-practices/rules/can-decode.md",
@@ -2410,12 +2432,6 @@
       "title": "/tree/main/quiz-generator/references",
       "count": 3,
       "uniques": 2
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/tree/main",
-      "title": "/tree/main",
-      "count": 3,
-      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/blob/main/SKILL_CREATION_GUIDE.md",
@@ -2434,6 +2450,18 @@
       "title": "/tree/main/learning-design-review",
       "count": 3,
       "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/actions/runs/41339013713/job/124944837138",
+      "title": "/actions/runs/41339013713/job/124944837138",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/learning-design-review/SKILL.md",
+      "title": "/blob/main/learning-design-review/SKILL.md",
+      "count": 3,
+      "uniques": 3
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
@@ -2556,12 +2584,6 @@
       "uniques": 2
     },
     {
-      "path": "/vishalsachdev/claude-skills/actions/runs/41339013713/job/124944837138",
-      "title": "/actions/runs/41339013713/job/124944837138",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "path": "/vishalsachdev/claude-skills/blob/main/advanced-text-search-matching.md",
       "title": "/blob/main/advanced-text-search-matching.md",
       "count": 2,
@@ -2612,12 +2634,6 @@
     {
       "path": "/vishalsachdev/claude-skills/tree/main/glossary-generator",
       "title": "/tree/main/glossary-generator",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/learning-design-review/SKILL.md",
-      "title": "/blob/main/learning-design-review/SKILL.md",
       "count": 1,
       "uniques": 1
     },

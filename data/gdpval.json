@@ -1,7 +1,7 @@
 {
   "repo": "gdpval",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-16T15:00:11.816985+00:00",
+  "last_updated": "2026-11-17T15:00:05.028196+00:00",
   "stars": 3,
   "forks": 0,
   "description": "Interactive Streamlit app that helps instructors design AI-resilient assignments using real-world task patterns from the GDPval benchmark.",
@@ -1105,6 +1105,14 @@
     "2026-11-14": {
       "count": 19,
       "uniques": 19
+    },
+    "2026-11-15": {
+      "count": 14,
+      "uniques": 13
+    },
+    "2026-11-16": {
+      "count": 26,
+      "uniques": 26
     }
   },
   "clones": {
@@ -2207,13 +2215,21 @@
     "2026-11-14": {
       "count": 7,
       "uniques": 6
+    },
+    "2026-11-15": {
+      "count": 3,
+      "uniques": 3
+    },
+    "2026-11-16": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 28,
-      "uniques": 23
+      "count": 26,
+      "uniques": 20
     },
     {
       "referrer": "aocr.org",
@@ -2256,49 +2272,55 @@
       "path": "/vishalsachdev/gdpval",
       "title": "Overview",
       "count": 45,
-      "uniques": 38
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
-      "title": "/blob/main/GDPval_extracted.md",
-      "count": 24,
-      "uniques": 24
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
-      "title": "/blob/main/data/reference_links.csv",
-      "count": 21,
-      "uniques": 21
+      "uniques": 39
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/data/examples_per_sector.md",
       "title": "/blob/main/data/examples_per_sector.md",
-      "count": 20,
-      "uniques": 19
+      "count": 27,
+      "uniques": 26
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/reference_links.csv",
+      "title": "/blob/main/data/reference_links.csv",
+      "count": 24,
+      "uniques": 24
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval_extracted.md",
+      "title": "/blob/main/GDPval_extracted.md",
+      "count": 23,
+      "uniques": 23
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main/data",
       "title": "/tree/main/data",
-      "count": 19,
-      "uniques": 19
+      "count": 23,
+      "uniques": 23
+    },
+    {
+      "path": "/vishalsachdev/gdpval/blob/main/data/tasks_summary.md",
+      "title": "/blob/main/data/tasks_summary.md",
+      "count": 11,
+      "uniques": 11
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/GDPval_analysis_overview.md",
       "title": "/blob/main/GDPval_analysis_overview.md",
-      "count": 9,
-      "uniques": 9
+      "count": 7,
+      "uniques": 7
+    },
+    {
+      "path": "/vishalsachdev/gdpval/tree/main/extract",
+      "title": "/tree/main/extract",
+      "count": 6,
+      "uniques": 6
     },
     {
       "path": "/vishalsachdev/gdpval/tree/main",
       "title": "/tree/main",
       "count": 5,
       "uniques": 5
-    },
-    {
-      "path": "/vishalsachdev/gdpval/tree/main/extract",
-      "title": "/tree/main/extract",
-      "count": 4,
-      "uniques": 4
     },
     {
       "path": "/vishalsachdev/gdpval/blob/main/CLAUDE.md",
@@ -2325,6 +2347,12 @@
       "uniques": 4
     },
     {
+      "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
+      "title": "/blob/main/GDPval.pdf",
+      "count": 4,
+      "uniques": 4
+    },
+    {
       "path": "/vishalsachdev/gdpval/blob/main/AGENTS.md",
       "title": "/blob/main/AGENTS.md",
       "count": 3,
@@ -2343,20 +2371,8 @@
       "uniques": 3
     },
     {
-      "path": "/vishalsachdev/gdpval/blob/main/data/tasks_summary.md",
-      "title": "/blob/main/data/tasks_summary.md",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "path": "/vishalsachdev/gdpval/blob/main/data/key_fields.txt",
       "title": "/blob/main/data/key_fields.txt",
-      "count": 3,
-      "uniques": 3
-    },
-    {
-      "path": "/vishalsachdev/gdpval/blob/main/GDPval.pdf",
-      "title": "/blob/main/GDPval.pdf",
       "count": 3,
       "uniques": 3
     },

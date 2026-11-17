@@ -1,7 +1,7 @@
 {
   "repo": "programos",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-16T15:00:11.816985+00:00",
+  "last_updated": "2026-11-17T15:00:05.028196+00:00",
   "stars": 0,
   "forks": 0,
   "description": "Spec for turning NanoClaw into a multi-channel AI academic program coordinator. Spec-only \u2014 fork NanoClaw and feed SPEC.md to your coding agent.",
@@ -869,6 +869,14 @@
     "2026-11-14": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-15": {
+      "count": 2,
+      "uniques": 1
+    },
+    "2026-11-16": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "clones": {
@@ -1735,9 +1743,22 @@
     "2026-11-14": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-15": {
+      "count": 101,
+      "uniques": 42
+    },
+    "2026-11-16": {
+      "count": 41,
+      "uniques": 22
     }
   },
   "referrers": [
+    {
+      "referrer": "programos.illinihunt.org",
+      "count": 2,
+      "uniques": 1
+    },
     {
       "referrer": "agentlab.illinihunt.org",
       "count": 1,
@@ -1757,14 +1778,14 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/programos/blob/main/SPEC.md",
-      "title": "/blob/main/SPEC.md",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/programos",
       "title": "Overview",
+      "count": 3,
+      "uniques": 3
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/SPEC.md",
+      "title": "/blob/main/SPEC.md",
       "count": 1,
       "uniques": 1
     },
@@ -1849,6 +1870,12 @@
     {
       "path": "/vishalsachdev/programos/tree/9fab0180a95df89179dfd04883741b653027488a",
       "title": "/tree/9fab0180a95df89179dfd04883741b653027488a",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/programos/blob/main/docs/12-governance.md",
+      "title": "/blob/main/docs/12-governance.md",
       "count": 1,
       "uniques": 1
     }

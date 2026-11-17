@@ -1,7 +1,7 @@
 {
   "repo": "learning-design-pillars",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-16T15:00:11.816985+00:00",
+  "last_updated": "2026-11-17T15:00:05.028196+00:00",
   "stars": 10,
   "forks": 1,
   "description": "Claude Code skills for applying evidence-based learning design principles (Four Pillars framework) with Canvas LMS integration via canvas-mcp",
@@ -1105,6 +1105,14 @@
     "2026-11-14": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-11-15": {
+      "count": 5,
+      "uniques": 1
+    },
+    "2026-11-16": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -2207,18 +2215,26 @@
     "2026-11-14": {
       "count": 7,
       "uniques": 2
+    },
+    "2026-11-15": {
+      "count": 7,
+      "uniques": 5
+    },
+    "2026-11-16": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "referrers": [
     {
+      "referrer": "Google",
+      "count": 4,
+      "uniques": 4
+    },
+    {
       "referrer": "linkedin.com",
       "count": 3,
       "uniques": 1
-    },
-    {
-      "referrer": "Google",
-      "count": 3,
-      "uniques": 3
     },
     {
       "referrer": "DuckDuckGo",
@@ -2258,22 +2274,22 @@
   ],
   "paths": [
     {
+      "path": "/vishalsachdev/learning-design-pillars",
+      "title": "Overview",
+      "count": 5,
+      "uniques": 5
+    },
+    {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/skills/canvas-course-audit",
       "title": "/tree/main/skills/canvas-course-audit",
       "count": 4,
       "uniques": 4
     },
     {
-      "path": "/vishalsachdev/learning-design-pillars",
-      "title": "Overview",
-      "count": 4,
-      "uniques": 4
-    },
-    {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/docs",
       "title": "/tree/main/docs",
-      "count": 3,
-      "uniques": 2
+      "count": 1,
+      "uniques": 1
     },
     {
       "path": "/vishalsachdev/learning-design-pillars/tree/main/skills",

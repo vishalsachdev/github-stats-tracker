@@ -1,7 +1,7 @@
 {
   "repo": "claude-code-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-16T15:00:11.816985+00:00",
+  "last_updated": "2026-11-17T15:00:05.028196+00:00",
   "stars": 4,
   "forks": 2,
   "description": "Professional skills for Claude Code following the Agent Skills open specification",
@@ -1105,6 +1105,14 @@
     "2026-11-14": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-11-15": {
+      "count": 3,
+      "uniques": 2
+    },
+    "2026-11-16": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2207,6 +2215,14 @@
     "2026-11-14": {
       "count": 15,
       "uniques": 10
+    },
+    "2026-11-15": {
+      "count": 19,
+      "uniques": 14
+    },
+    "2026-11-16": {
+      "count": 22,
+      "uniques": 22
     }
   },
   "referrers": [
@@ -2214,11 +2230,6 @@
       "referrer": "yandex.ru",
       "count": 4,
       "uniques": 1
-    },
-    {
-      "referrer": "linkedin.com",
-      "count": 3,
-      "uniques": 2
     },
     {
       "referrer": "Bing",
@@ -2246,6 +2257,11 @@
       "uniques": 1
     },
     {
+      "referrer": "linkedin.com",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "referrer": "claude.ai",
       "count": 1,
       "uniques": 1
@@ -2265,8 +2281,8 @@
     {
       "path": "/vishalsachdev/claude-code-skills",
       "title": "Overview",
-      "count": 11,
-      "uniques": 10
+      "count": 14,
+      "uniques": 12
     },
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/skills/start-session/SKILL.md",
@@ -2649,6 +2665,12 @@
     {
       "path": "/vishalsachdev/claude-code-skills/blob/main/AGENTS.md",
       "title": "/blob/main/AGENTS.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/tos-cn-i-ik7evvg4ik/rc/supertask/acf2c853c790400f9d53ae892503c49b~tplv-a9rns2rl98-image.image",
+      "title": "/acf2c853c790400f9d53ae892503c49b~tplv-a9rns2rl98-image.image",
       "count": 1,
       "uniques": 1
     }
