@@ -1,7 +1,7 @@
 {
   "repo": "claude-skills",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-17T15:00:05.028196+00:00",
+  "last_updated": "2026-11-18T15:00:13.442706+00:00",
   "stars": 2,
   "forks": 3,
   "description": "",
@@ -1113,6 +1113,10 @@
     "2026-11-16": {
       "count": 39,
       "uniques": 27
+    },
+    "2026-11-17": {
+      "count": 18,
+      "uniques": 18
     }
   },
   "clones": {
@@ -2223,12 +2227,16 @@
     "2026-11-16": {
       "count": 6,
       "uniques": 6
+    },
+    "2026-11-17": {
+      "count": 15,
+      "uniques": 11
     }
   },
   "referrers": [
     {
       "referrer": "Google",
-      "count": 18,
+      "count": 17,
       "uniques": 17
     },
     {
@@ -2316,20 +2324,14 @@
     {
       "path": "/vishalsachdev/claude-skills",
       "title": "Overview",
-      "count": 37,
-      "uniques": 32
+      "count": 33,
+      "uniques": 29
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/chapter-content-generator",
       "title": "/tree/main/chapter-content-generator",
       "count": 8,
       "uniques": 8
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
-      "title": "/blob/main/paper-writing/SKILL.md",
-      "count": 8,
-      "uniques": 6
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/agentic-validators",
@@ -2384,6 +2386,12 @@
       "title": "/tree/main/paper-writing",
       "count": 6,
       "uniques": 6
+    },
+    {
+      "path": "/vishalsachdev/claude-skills/blob/main/paper-writing/SKILL.md",
+      "title": "/blob/main/paper-writing/SKILL.md",
+      "count": 5,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/linkedin-announcement-generator",
@@ -2464,6 +2472,12 @@
       "uniques": 3
     },
     {
+      "path": "/vishalsachdev/claude-skills/blob/main/math-function-plotter-plotly/SKILL.md",
+      "title": "/blob/main/math-function-plotter-plotly/SKILL.md",
+      "count": 3,
+      "uniques": 2
+    },
+    {
       "path": "/vishalsachdev/claude-skills/tree/main/chartjs-generator",
       "title": "/tree/main/chartjs-generator",
       "count": 2,
@@ -2534,12 +2548,6 @@
       "title": "/commits",
       "count": 2,
       "uniques": 1
-    },
-    {
-      "path": "/vishalsachdev/claude-skills/blob/main/math-function-plotter-plotly/SKILL.md",
-      "title": "/blob/main/math-function-plotter-plotly/SKILL.md",
-      "count": 2,
-      "uniques": 2
     },
     {
       "path": "/vishalsachdev/claude-skills/tree/main/math-function-plotter-plotly",

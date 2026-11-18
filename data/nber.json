@@ -1,7 +1,7 @@
 {
   "repo": "nber",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-17T15:00:05.028196+00:00",
+  "last_updated": "2026-11-18T15:00:13.442706+00:00",
   "stars": 1,
   "forks": 0,
   "description": "NBER video transcript extraction and analysis",
@@ -1113,6 +1113,10 @@
     "2026-11-16": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-17": {
+      "count": 3,
+      "uniques": 2
     }
   },
   "clones": {
@@ -2223,6 +2227,10 @@
     "2026-11-16": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-11-17": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "referrers": [
@@ -2233,6 +2241,12 @@
     }
   ],
   "paths": [
+    {
+      "path": "/vishalsachdev/nber/blob/main/README.md",
+      "title": "/blob/main/README.md",
+      "count": 2,
+      "uniques": 2
+    },
     {
       "path": "/vishalsachdev/nber/blob/main/AGENTS.md",
       "title": "/blob/main/AGENTS.md",
@@ -2258,14 +2272,20 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/nber/blob/main/README.md",
-      "title": "/blob/main/README.md",
+      "path": "/vishalsachdev/nber/blob/main/MIGRATION.md",
+      "title": "/blob/main/MIGRATION.md",
       "count": 1,
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/nber/blob/main/MIGRATION.md",
-      "title": "/blob/main/MIGRATION.md",
+      "path": "/vishalsachdev/nber/blob/main/articles/2025-09-30-nber-ai-workshop-explorer.md",
+      "title": "/blob/main/articles/2025-09-30-nber-ai-workshop-explorer.md",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/nber/commits/main/README.md",
+      "title": "/commits/main/README.md",
       "count": 1,
       "uniques": 1
     }
