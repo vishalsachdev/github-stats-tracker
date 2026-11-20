@@ -1,7 +1,7 @@
 {
   "repo": "ai-problem-framing",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-19T15:00:10.733322+00:00",
+  "last_updated": "2026-11-20T15:00:10.547789+00:00",
   "stars": 1,
   "forks": 0,
   "description": "AI Problem Framing for AI Practitioners - An intelligent textbook teaching systematic AI problem framing using The Loop framework",
@@ -1121,6 +1121,10 @@
     "2026-11-18": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "clones": {
@@ -2237,6 +2241,10 @@
       "uniques": 0
     },
     "2026-11-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-19": {
       "count": 0,
       "uniques": 0
     }

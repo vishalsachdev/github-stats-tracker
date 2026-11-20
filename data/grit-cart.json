@@ -1,7 +1,7 @@
 {
   "repo": "grit-cart",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-19T15:00:10.733322+00:00",
+  "last_updated": "2026-11-20T15:00:10.547789+00:00",
   "stars": 1,
   "forks": 0,
   "description": "Grit-CART Framework: Multi-agent critical evaluation of an AI entrepreneurship/intrapreneurship educational framework. 74 sources, 5 independent evaluations, 31K+ words.",
@@ -1121,6 +1121,10 @@
     "2026-11-18": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-19": {
+      "count": 1,
+      "uniques": 1
     }
   },
   "clones": {
@@ -2239,6 +2243,10 @@
     "2026-11-18": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -2248,11 +2256,6 @@
       "uniques": 2
     },
     {
-      "referrer": "linkedin.com",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "referrer": "substack.com",
       "count": 2,
       "uniques": 2
@@ -2260,6 +2263,11 @@
     {
       "referrer": "chatwithgpt.substack.com",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "referrer": "linkedin.com",
+      "count": 1,
       "uniques": 1
     },
     {
@@ -2292,12 +2300,6 @@
       "uniques": 1
     },
     {
-      "path": "/vishalsachdev/grit-cart",
-      "title": "Overview",
-      "count": 3,
-      "uniques": 1
-    },
-    {
       "path": "/vishalsachdev/grit-cart/tree/main/evaluations",
       "title": "grit-cart/evaluations at main \u00b7 vishalsachdev/grit-cart",
       "count": 2,
@@ -2313,6 +2315,12 @@
       "path": "/vishalsachdev/grit-cart/pulse",
       "title": "Pulse \u00b7 vishalsachdev/grit-cart",
       "count": 2,
+      "uniques": 1
+    },
+    {
+      "path": "/vishalsachdev/grit-cart",
+      "title": "Overview",
+      "count": 1,
       "uniques": 1
     },
     {

@@ -1,7 +1,7 @@
 {
   "repo": "codex-for-business-students",
   "owner": "vishalsachdev",
-  "last_updated": "2026-11-19T15:00:10.733322+00:00",
+  "last_updated": "2026-11-20T15:00:10.547789+00:00",
   "stars": 2,
   "forks": 0,
   "description": "Learn Codex in Codex - Built for MBAs, Undergrad Biz Majors, PMs, Analysts & Aspiring Founders",
@@ -1035,6 +1035,10 @@
       "uniques": 1
     },
     "2026-11-18": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-19": {
       "count": 0,
       "uniques": 0
     }
@@ -2071,6 +2075,10 @@
     "2026-11-18": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-11-19": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "referrers": [
@@ -2134,8 +2142,8 @@
     {
       "path": "/vishalsachdev/codex-for-business-students",
       "title": "Overview",
-      "count": 9,
-      "uniques": 6
+      "count": 8,
+      "uniques": 5
     },
     {
       "path": "/vishalsachdev/codex-for-business-students/tree/main/articles",
